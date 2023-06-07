@@ -35,6 +35,11 @@ jobs:
           git config --local user.email "ations@github.com"
           git config --local user.name "github"
           git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"          
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Apply php-cs-fixer changes
+      # 更新仓库
+      - name: Update repo
+        run: |
+          git add .
+          git commit -m "${{ env.FAKE_HASH }}" 
+          git pull
+          git push -u origin main
+
