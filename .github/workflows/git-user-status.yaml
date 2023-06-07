@@ -19,16 +19,22 @@ jobs:
       FAKE_HASH: "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') Asia/Shanghai"
     steps:
       -
-        uses: actions/checkout@v2
-      -
-        name: Setup GIT user
-        uses: fregante/setup-git-user@v1
+        uses: actions/checkout@v3
+#       -
+#         name: Setup GIT user
+#         uses: fregante/setup-git-user@v1
       -
         name: Adding markdown
         run: |
           sudo timedatectl set-timezone "Asia/Shanghai"
           pip install requests && python main.py
           echo "$(cat README.md)" >> $GITHUB_STEP_SUMMARY
+      # 配置git
+      - name: Config git
+        run: |
+          git config --local user.email "ations@github.com"
+          git config --local user.name "github"
+          git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"          
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Apply php-cs-fixer changes
