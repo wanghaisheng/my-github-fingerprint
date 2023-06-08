@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-06-08 04:45:10 Asia/Shanghai
+> Automated deployment @ 2023-06-08 08:11:13 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3072
@@ -17,13 +17,13 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/brand-monitor-rss](https://github.com/wanghaisheng/brand-monitor-rss)|2|3|2023-06-07T21:56:10Z|
+|[wanghaisheng/ocr-arxiv-daily](https://github.com/wanghaisheng/ocr-arxiv-daily)|10|0|2023-06-07T21:52:57Z|
 |[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|96|28|2023-06-07T19:21:34Z|
 |[wanghaisheng/github-action-scihub-download](https://github.com/wanghaisheng/github-action-scihub-download)|0|0|2023-06-07T12:34:56Z|
 |[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|0|0|2023-06-07T00:13:06Z|
-|[wanghaisheng/ocr-arxiv-daily](https://github.com/wanghaisheng/ocr-arxiv-daily)|10|0|2023-06-07T00:06:03Z|
 |[wanghaisheng/get-tiktok-user-video-list](https://github.com/wanghaisheng/get-tiktok-user-video-list)|5|1|2023-06-06T14:15:10Z|
 |[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|0|0|2023-06-06T07:03:26Z|
-|[wanghaisheng/brand-monitor-rss](https://github.com/wanghaisheng/brand-monitor-rss)|2|3|2023-06-06T03:28:21Z|
 |[wanghaisheng/video-publish-metadata-gpt](https://github.com/wanghaisheng/video-publish-metadata-gpt)|0|0|2023-06-05T14:52:41Z|
 |[wanghaisheng/pyodide-playground](https://github.com/wanghaisheng/pyodide-playground)|0|0|2023-06-04T16:07:50Z|
 |[wanghaisheng/flet-saas-starter](https://github.com/wanghaisheng/flet-saas-starter)|2|1|2023-06-02T14:18:37Z|
@@ -325,7 +325,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-06-07T19:54:44Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-06-07T20:45:11Z|
 |[wanghaisheng/personal-paper-code-daily](https://github.com/wanghaisheng/personal-paper-code-daily)|1|1|2023-06-07T13:09:02Z|
 |[wanghaisheng/feeds](https://github.com/wanghaisheng/feeds)|0|0|2023-06-06T21:39:42Z|
 |[wanghaisheng/Botright](https://github.com/wanghaisheng/Botright)|0|0|2023-06-06T16:44:24Z|
@@ -1582,7 +1582,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5491|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5492|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|993|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|950|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|811|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
