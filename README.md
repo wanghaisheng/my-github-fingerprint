@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-13 08:10:27 Asia/Shanghai
+> Automated deployment @ 2023-08-14 08:10:09 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3138
+- **Total_stars_earned**: 3139
 
-- **Projects**: 1718
+- **Projects**: 1720
 
 ### Sources
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-12T00:10:48Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-13T00:12:01Z|
 |[wanghaisheng/test-linkgraph](https://github.com/wanghaisheng/test-linkgraph)|0|0|2023-08-11T03:31:06Z|
 |[wanghaisheng/idea-to-action-cycle](https://github.com/wanghaisheng/idea-to-action-cycle)|1|0|2023-08-10T08:31:51Z|
 |[wanghaisheng/wanghaisheng.github.io](https://github.com/wanghaisheng/wanghaisheng.github.io)|16|2|2023-08-09T07:53:54Z|
@@ -242,7 +242,7 @@
 |[wanghaisheng/run-a-profitable-hospital](https://github.com/wanghaisheng/run-a-profitable-hospital)|1|1|2019-07-20T10:30:15Z|
 |[wanghaisheng/stackholder-and-hospital](https://github.com/wanghaisheng/stackholder-and-hospital)|0|2|2019-07-17T13:18:44Z|
 |[wanghaisheng/datacenter4hospital](https://github.com/wanghaisheng/datacenter4hospital)|2|1|2019-07-16T19:26:33Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|362|238|2019-07-13T14:43:38Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|363|238|2019-07-13T14:43:38Z|
 |[wanghaisheng/ocr-processing-utils-vips](https://github.com/wanghaisheng/ocr-processing-utils-vips)|1|0|2019-07-06T10:13:13Z|
 |[wanghaisheng/notes-on-nursing](https://github.com/wanghaisheng/notes-on-nursing)|0|0|2019-06-25T14:12:43Z|
 |[wanghaisheng/psychology-of-selling](https://github.com/wanghaisheng/psychology-of-selling)|0|0|2019-04-28T16:40:26Z|
@@ -354,14 +354,15 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1383
+- **count**: 1385
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/understanding-astro-book-zh](https://github.com/wanghaisheng/understanding-astro-book-zh)|1|0|2023-08-12T15:29:44Z|
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-12T13:06:16Z|
+|[wanghaisheng/understanding-astro-book-zh](https://github.com/wanghaisheng/understanding-astro-book-zh)|1|0|2023-08-13T16:16:38Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-13T13:05:37Z|
+|[wanghaisheng/lychee-action](https://github.com/wanghaisheng/lychee-action)|0|0|2023-08-13T12:36:56Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-13T00:10:27Z|
 |[wanghaisheng/VirtualWife](https://github.com/wanghaisheng/VirtualWife)|0|0|2023-08-12T10:38:34Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-12T00:09:31Z|
 |[wanghaisheng/turbo-hybrid-astro-on-vercel](https://github.com/wanghaisheng/turbo-hybrid-astro-on-vercel)|0|0|2023-08-08T01:27:26Z|
 |[wanghaisheng/WeChat_Article](https://github.com/wanghaisheng/WeChat_Article)|0|0|2023-08-07T14:15:04Z|
 |[wanghaisheng/lea.verou.me](https://github.com/wanghaisheng/lea.verou.me)|0|0|2023-08-07T12:18:36Z|
@@ -379,6 +380,7 @@
 |[wanghaisheng/Knowledge-QA-LLM](https://github.com/wanghaisheng/Knowledge-QA-LLM)|0|0|2023-07-25T01:37:16Z|
 |[wanghaisheng/weekly-update-blog](https://github.com/wanghaisheng/weekly-update-blog)|0|0|2023-07-23T12:53:40Z|
 |[wanghaisheng/segment-anything-services](https://github.com/wanghaisheng/segment-anything-services)|0|0|2023-07-21T19:25:44Z|
+|[wanghaisheng/jsoneditor](https://github.com/wanghaisheng/jsoneditor)|0|0|2023-07-19T08:37:20Z|
 |[wanghaisheng/gallerydeluxe_starter](https://github.com/wanghaisheng/gallerydeluxe_starter)|0|0|2023-07-18T02:16:50Z|
 |[wanghaisheng/AI-Paper-collector](https://github.com/wanghaisheng/AI-Paper-collector)|0|0|2023-07-18T00:42:00Z|
 |[wanghaisheng/fansly-downloader](https://github.com/wanghaisheng/fansly-downloader)|0|0|2023-07-17T21:47:06Z|
