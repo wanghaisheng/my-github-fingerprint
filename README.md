@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-14 08:10:09 Asia/Shanghai
+> Automated deployment @ 2023-08-15 08:10:04 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3139
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-13T00:12:01Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-14T00:11:39Z|
 |[wanghaisheng/test-linkgraph](https://github.com/wanghaisheng/test-linkgraph)|0|0|2023-08-11T03:31:06Z|
 |[wanghaisheng/idea-to-action-cycle](https://github.com/wanghaisheng/idea-to-action-cycle)|1|0|2023-08-10T08:31:51Z|
 |[wanghaisheng/wanghaisheng.github.io](https://github.com/wanghaisheng/wanghaisheng.github.io)|16|2|2023-08-09T07:53:54Z|
@@ -70,7 +70,7 @@
 |[wanghaisheng/nextjs-blog-theme](https://github.com/wanghaisheng/nextjs-blog-theme)|0|0|2023-05-13T15:37:52Z|
 |[wanghaisheng/accessible-astro-dashboard](https://github.com/wanghaisheng/accessible-astro-dashboard)|0|0|2023-05-11T02:50:10Z|
 |[wanghaisheng/bulk-download-transcript-from-youtube-channel](https://github.com/wanghaisheng/bulk-download-transcript-from-youtube-channel)|0|0|2023-05-09T07:36:11Z|
-|[wanghaisheng/resume-parse-evaluation](https://github.com/wanghaisheng/resume-parse-evaluation)|143|42|2023-05-08T08:42:08Z|
+|[wanghaisheng/resume-parse-evaluation](https://github.com/wanghaisheng/resume-parse-evaluation)|143|43|2023-05-08T08:42:08Z|
 |[wanghaisheng/can-gpt-build-daily-agent](https://github.com/wanghaisheng/can-gpt-build-daily-agent)|0|0|2023-05-08T02:36:05Z|
 |[wanghaisheng/evaluation-of-gpt-translation-of-tech-doc-from-their-website](https://github.com/wanghaisheng/evaluation-of-gpt-translation-of-tech-doc-from-their-website)|0|0|2023-05-07T10:01:49Z|
 |[wanghaisheng/ChatGPT-On-WeChat](https://github.com/wanghaisheng/ChatGPT-On-WeChat)|0|0|2023-04-21T16:51:13Z|
@@ -358,10 +358,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-14T13:02:54Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-14T00:10:09Z|
 |[wanghaisheng/understanding-astro-book-zh](https://github.com/wanghaisheng/understanding-astro-book-zh)|1|0|2023-08-13T16:16:38Z|
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-13T13:05:37Z|
 |[wanghaisheng/lychee-action](https://github.com/wanghaisheng/lychee-action)|0|0|2023-08-13T12:36:56Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-13T00:10:27Z|
 |[wanghaisheng/VirtualWife](https://github.com/wanghaisheng/VirtualWife)|0|0|2023-08-12T10:38:34Z|
 |[wanghaisheng/turbo-hybrid-astro-on-vercel](https://github.com/wanghaisheng/turbo-hybrid-astro-on-vercel)|0|0|2023-08-08T01:27:26Z|
 |[wanghaisheng/WeChat_Article](https://github.com/wanghaisheng/WeChat_Article)|0|0|2023-08-07T14:15:04Z|
@@ -1749,13 +1749,13 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5529|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5531|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|999|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|981|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|900|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|902|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|424|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|96|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
 |[yoyzhou/weibo_login](https://github.com/yoyzhou/weibo_login/pull/4)|66|2014-07-08T07:57:39Z|[pull/4](https://github.com/yoyzhou/weibo_login/pull/4)|
-|[kba/hocr-spec](https://github.com/kba/hocr-spec/pull/29)|65|2016-09-29T15:27:45Z|[pull/29](https://github.com/kba/hocr-spec/pull/29)|
+|[kba/hocr-spec](https://github.com/kba/hocr-spec/pull/29)|66|2016-09-29T15:27:45Z|[pull/29](https://github.com/kba/hocr-spec/pull/29)|
 |[fmalina/unilex-transcript](https://github.com/fmalina/unilex-transcript/pull/7)|21|2016-08-18T15:23:09Z|[pull/7](https://github.com/fmalina/unilex-transcript/pull/7)|
 |[clear-datacenter/hocr-spec](https://github.com/clear-datacenter/hocr-spec/pull/1)|0|2016-09-28T08:09:59Z|[pull/1](https://github.com/clear-datacenter/hocr-spec/pull/1)|
