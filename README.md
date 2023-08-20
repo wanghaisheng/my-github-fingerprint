@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-19 08:09:13 Asia/Shanghai
+> Automated deployment @ 2023-08-20 08:10:40 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3143
+- **Total_stars_earned**: 3142
 
-- **Projects**: 1723
+- **Projects**: 1724
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-18T00:11:06Z|
-|[wanghaisheng/understanding-astro-zh](https://github.com/wanghaisheng/understanding-astro-zh)|0|0|2023-08-16T03:12:14Z|
+|[wanghaisheng/understanding-astro-zh](https://github.com/wanghaisheng/understanding-astro-zh)|0|0|2023-08-19T19:08:25Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-08-19T00:10:26Z|
 |[wanghaisheng/test-linkgraph](https://github.com/wanghaisheng/test-linkgraph)|0|0|2023-08-11T03:31:06Z|
 |[wanghaisheng/idea-to-action-cycle](https://github.com/wanghaisheng/idea-to-action-cycle)|1|0|2023-08-10T08:31:51Z|
 |[wanghaisheng/wanghaisheng.github.io](https://github.com/wanghaisheng/wanghaisheng.github.io)|16|2|2023-08-09T07:53:54Z|
@@ -226,7 +226,7 @@
 |[wanghaisheng/channels-should-exclude-from-campaign](https://github.com/wanghaisheng/channels-should-exclude-from-campaign)|0|0|2020-01-03T11:14:25Z|
 |[wanghaisheng/awesome-chatbotmarketing](https://github.com/wanghaisheng/awesome-chatbotmarketing)|0|0|2020-01-02T16:09:37Z|
 |[wanghaisheng/crush-seo](https://github.com/wanghaisheng/crush-seo)|1|0|2020-01-01T10:12:41Z|
-|[wanghaisheng/awesome-web-data-extractor](https://github.com/wanghaisheng/awesome-web-data-extractor)|23|8|2019-12-24T04:13:05Z|
+|[wanghaisheng/awesome-web-data-extractor](https://github.com/wanghaisheng/awesome-web-data-extractor)|22|8|2019-12-24T04:13:05Z|
 |[wanghaisheng/awesome-cp](https://github.com/wanghaisheng/awesome-cp)|1|0|2019-12-16T12:10:30Z|
 |[wanghaisheng/awesome-vte](https://github.com/wanghaisheng/awesome-vte)|0|1|2019-11-18T08:14:09Z|
 |[wanghaisheng/chs-drg](https://github.com/wanghaisheng/chs-drg)|1|1|2019-10-23T15:01:32Z|
@@ -355,12 +355,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1387
+- **count**: 1388
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-18T13:11:30Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-18T00:10:03Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-08-19T13:05:26Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-08-19T00:09:13Z|
+|[wanghaisheng/awesome-autonomous-gpt](https://github.com/wanghaisheng/awesome-autonomous-gpt)|0|0|2023-08-16T03:57:11Z|
 |[wanghaisheng/starlight-blog-tempalte](https://github.com/wanghaisheng/starlight-blog-tempalte)|1|0|2023-08-16T03:11:06Z|
 |[wanghaisheng/understanding-astro-book-zh](https://github.com/wanghaisheng/understanding-astro-book-zh)|1|0|2023-08-15T14:41:24Z|
 |[wanghaisheng/lychee-action](https://github.com/wanghaisheng/lychee-action)|0|0|2023-08-13T12:36:56Z|
@@ -1754,7 +1755,7 @@
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5541|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|999|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|982|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|983|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|905|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|423|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|96|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
