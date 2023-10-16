@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-10-15 08:11:48 Asia/Shanghai
+> Automated deployment @ 2023-10-16 08:10:47 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3207
@@ -13,14 +13,14 @@
 
 ### Sources
 
-- **count**: 362
+- **count**: 363
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-15T17:08:44Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-15T00:13:00Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|2|2|2023-10-14T06:15:23Z|
 |[wanghaisheng/prompt-ninja](https://github.com/wanghaisheng/prompt-ninja)|0|0|2023-10-14T04:17:44Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-14T00:11:23Z|
-|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|2|2|2023-10-13T09:09:11Z|
 |[wanghaisheng/time-series-data-playground](https://github.com/wanghaisheng/time-series-data-playground)|0|0|2023-10-12T20:25:49Z|
 |[wanghaisheng/video-publish-metadata-gpt](https://github.com/wanghaisheng/video-publish-metadata-gpt)|2|1|2023-10-10T20:05:30Z|
 |[wanghaisheng/smart-watch-app-reviews-scrape](https://github.com/wanghaisheng/smart-watch-app-reviews-scrape)|0|0|2023-10-10T18:42:24Z|
@@ -42,7 +42,7 @@
 |[wanghaisheng/tiktoka-studio-relivator-demo](https://github.com/wanghaisheng/tiktoka-studio-relivator-demo)|1|0|2023-09-27T15:24:08Z|
 |[wanghaisheng/tkinter-i18n-app-starter](https://github.com/wanghaisheng/tkinter-i18n-app-starter)|0|0|2023-09-25T18:00:16Z|
 |[wanghaisheng/repo-stargazer-video](https://github.com/wanghaisheng/repo-stargazer-video)|0|0|2023-09-23T15:51:22Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|157|38|2023-09-17T13:13:25Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|156|39|2023-09-17T13:13:25Z|
 |[wanghaisheng/how-to-integrate-huawei-analytics-web-to-static-website](https://github.com/wanghaisheng/how-to-integrate-huawei-analytics-web-to-static-website)|0|0|2023-09-17T06:28:36Z|
 |[wanghaisheng/astro-huawei-agc](https://github.com/wanghaisheng/astro-huawei-agc)|0|0|2023-09-17T06:27:20Z|
 |[wanghaisheng/askguasha.com](https://github.com/wanghaisheng/askguasha.com)|0|0|2023-09-15T17:08:28Z|
@@ -102,6 +102,7 @@
 |[wanghaisheng/can-gpt-build-daily-agent](https://github.com/wanghaisheng/can-gpt-build-daily-agent)|0|0|2023-05-08T02:36:05Z|
 |[wanghaisheng/evaluation-of-gpt-translation-of-tech-doc-from-their-website](https://github.com/wanghaisheng/evaluation-of-gpt-translation-of-tech-doc-from-their-website)|0|0|2023-05-07T10:01:49Z|
 |[wanghaisheng/ChatGPT-On-WeChat](https://github.com/wanghaisheng/ChatGPT-On-WeChat)|0|0|2023-04-21T16:51:13Z|
+|[wanghaisheng/nextjs-landing-page-no-price-page](https://github.com/wanghaisheng/nextjs-landing-page-no-price-page)|0|0|2023-04-16T22:10:33Z|
 |[wanghaisheng/astro-cloudflare-example](https://github.com/wanghaisheng/astro-cloudflare-example)|0|0|2023-03-27T04:50:12Z|
 |[wanghaisheng/build-docker-for-serverless-deploy-starter](https://github.com/wanghaisheng/build-docker-for-serverless-deploy-starter)|1|0|2023-03-13T02:19:07Z|
 |[wanghaisheng/electron-vite-vue-auto-video-publish](https://github.com/wanghaisheng/electron-vite-vue-auto-video-publish)|0|0|2023-03-01T09:01:16Z|
@@ -381,20 +382,20 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1551
+- **count**: 1550
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-14T13:08:07Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-15T13:08:58Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-15T00:11:49Z|
 |[wanghaisheng/url-to-images-with-headline](https://github.com/wanghaisheng/url-to-images-with-headline)|0|0|2023-10-14T07:34:35Z|
 |[wanghaisheng/ffmpeg-in-browser](https://github.com/wanghaisheng/ffmpeg-in-browser)|1|0|2023-10-14T05:21:57Z|
 |[wanghaisheng/writer-gpt](https://github.com/wanghaisheng/writer-gpt)|0|0|2023-10-14T02:04:51Z|
 |[wanghaisheng/bark](https://github.com/wanghaisheng/bark)|0|0|2023-10-14T00:22:40Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-14T00:10:23Z|
 |[wanghaisheng/chat-gpt-prompts-from-aiprm](https://github.com/wanghaisheng/chat-gpt-prompts-from-aiprm)|0|0|2023-10-13T23:46:46Z|
 |[wanghaisheng/make-ugly-avartar-image-starter](https://github.com/wanghaisheng/make-ugly-avartar-image-starter)|0|0|2023-10-10T18:46:23Z|
 |[wanghaisheng/sass-template-crypto](https://github.com/wanghaisheng/sass-template-crypto)|0|0|2023-10-09T14:07:31Z|
-|[wanghaisheng/video-making-ai](https://github.com/wanghaisheng/video-making-ai)|0|0|2023-10-09T13:38:36Z|
+|[wanghaisheng/video-making-ai](https://github.com/wanghaisheng/video-making-ai)|1|0|2023-10-09T13:38:36Z|
 |[wanghaisheng/rotate-captcha-crack](https://github.com/wanghaisheng/rotate-captcha-crack)|1|0|2023-10-09T12:51:49Z|
 |[wanghaisheng/map-template-for-zongjiao](https://github.com/wanghaisheng/map-template-for-zongjiao)|0|0|2023-10-09T12:43:14Z|
 |[wanghaisheng/micro-saas-landingpage](https://github.com/wanghaisheng/micro-saas-landingpage)|0|0|2023-10-09T04:36:53Z|
@@ -748,7 +749,6 @@
 |[wanghaisheng/github-pages-docusaurus](https://github.com/wanghaisheng/github-pages-docusaurus)|0|0|2023-04-19T17:51:54Z|
 |[wanghaisheng/vuepress-deploy](https://github.com/wanghaisheng/vuepress-deploy)|0|0|2023-04-19T05:56:30Z|
 |[wanghaisheng/feed2pdf](https://github.com/wanghaisheng/feed2pdf)|0|0|2023-04-18T11:25:13Z|
-|[wanghaisheng/nextjs-landing-page-no-price-page](https://github.com/wanghaisheng/nextjs-landing-page-no-price-page)|0|0|2023-04-16T22:10:33Z|
 |[wanghaisheng/vercel-azure-openai-proxy](https://github.com/wanghaisheng/vercel-azure-openai-proxy)|0|0|2023-04-16T13:31:04Z|
 |[wanghaisheng/poe-account-create](https://github.com/wanghaisheng/poe-account-create)|1|0|2023-04-16T12:55:53Z|
 |[wanghaisheng/69phisher](https://github.com/wanghaisheng/69phisher)|0|0|2023-04-15T15:24:26Z|
