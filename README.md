@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-10-20 08:10:52 Asia/Shanghai
+> Automated deployment @ 2023-10-21 08:10:41 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3211
+- **Total_stars_earned**: 3213
 
-- **Projects**: 1924
+- **Projects**: 1925
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-19T13:01:05Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-19T00:11:51Z|
+|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-20T09:15:33Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-20T00:12:02Z|
 |[wanghaisheng/vue-next-sqljs-starter](https://github.com/wanghaisheng/vue-next-sqljs-starter)|0|0|2023-10-18T19:42:30Z|
 |[wanghaisheng/vue-sqljs](https://github.com/wanghaisheng/vue-sqljs)|0|0|2023-10-18T19:29:04Z|
 |[wanghaisheng/vitesse-test](https://github.com/wanghaisheng/vitesse-test)|0|0|2023-10-18T19:22:59Z|
@@ -92,7 +92,7 @@
 |[wanghaisheng/personal-interest-paper-daily](https://github.com/wanghaisheng/personal-interest-paper-daily)|0|0|2023-06-09T12:53:19Z|
 |[wanghaisheng/astro-seo-all-in-one](https://github.com/wanghaisheng/astro-seo-all-in-one)|0|0|2023-06-09T10:59:47Z|
 |[wanghaisheng/arxiv-paper-daily-astro](https://github.com/wanghaisheng/arxiv-paper-daily-astro)|0|0|2023-06-09T09:07:01Z|
-|[wanghaisheng/ocr-arxiv-daily](https://github.com/wanghaisheng/ocr-arxiv-daily)|13|0|2023-06-07T21:52:57Z|
+|[wanghaisheng/ocr-arxiv-daily](https://github.com/wanghaisheng/ocr-arxiv-daily)|14|0|2023-06-07T21:52:57Z|
 |[wanghaisheng/github-action-scihub-download](https://github.com/wanghaisheng/github-action-scihub-download)|0|0|2023-06-07T12:34:56Z|
 |[wanghaisheng/pyodide-playground](https://github.com/wanghaisheng/pyodide-playground)|0|0|2023-06-04T16:07:50Z|
 |[wanghaisheng/flet-saas-starter](https://github.com/wanghaisheng/flet-saas-starter)|2|1|2023-06-02T14:18:37Z|
@@ -147,7 +147,7 @@
 |[wanghaisheng/copycat-account-detect](https://github.com/wanghaisheng/copycat-account-detect)|1|0|2022-06-28T10:55:40Z|
 |[wanghaisheng/living-will-fhir](https://github.com/wanghaisheng/living-will-fhir)|1|0|2022-06-27T14:05:45Z|
 |[wanghaisheng/start-micro-saas-0-1](https://github.com/wanghaisheng/start-micro-saas-0-1)|0|0|2022-06-24T16:02:47Z|
-|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1652|355|2022-06-24T04:50:59Z|
+|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1653|355|2022-06-24T04:50:59Z|
 |[wanghaisheng/url2video-pdf](https://github.com/wanghaisheng/url2video-pdf)|1|0|2022-06-23T19:25:31Z|
 |[wanghaisheng/ocr-tweets-monitoring](https://github.com/wanghaisheng/ocr-tweets-monitoring)|0|0|2022-06-23T09:33:16Z|
 |[wanghaisheng/ocr-paper-collector](https://github.com/wanghaisheng/ocr-paper-collector)|4|1|2022-06-23T07:50:45Z|
@@ -386,12 +386,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1557
+- **count**: 1558
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-19T13:06:27Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-19T00:10:45Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-20T13:05:08Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-20T00:10:53Z|
+|[wanghaisheng/run-test-in-natural-language](https://github.com/wanghaisheng/run-test-in-natural-language)|0|0|2023-10-19T16:38:29Z|
 |[wanghaisheng/ChatGPT-Next-Web](https://github.com/wanghaisheng/ChatGPT-Next-Web)|0|0|2023-10-18T19:07:52Z|
 |[wanghaisheng/AFFiNE.pro](https://github.com/wanghaisheng/AFFiNE.pro)|0|0|2023-10-18T15:11:30Z|
 |[wanghaisheng/rust-vue-starter](https://github.com/wanghaisheng/rust-vue-starter)|1|0|2023-10-18T03:38:15Z|
@@ -1953,10 +1954,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5590|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1016|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5592|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1017|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1002|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|967|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|970|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|423|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|96|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
 |[yoyzhou/weibo_login](https://github.com/yoyzhou/weibo_login/pull/4)|67|2014-07-08T07:57:39Z|[pull/4](https://github.com/yoyzhou/weibo_login/pull/4)|
