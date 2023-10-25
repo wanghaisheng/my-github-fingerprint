@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-10-24 08:10:50 Asia/Shanghai
+> Automated deployment @ 2023-10-25 08:10:31 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3217
+- **Total_stars_earned**: 3219
 
-- **Projects**: 1929
+- **Projects**: 1931
 
 ### Sources
 
@@ -17,11 +17,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-24T16:59:43Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|160|40|2023-10-24T00:43:34Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-24T00:11:46Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2023-10-23T20:27:15Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|158|40|2023-10-23T16:29:09Z|
-|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-23T15:41:25Z|
 |[wanghaisheng/tiktoka-studio-homepage](https://github.com/wanghaisheng/tiktoka-studio-homepage)|0|1|2023-10-23T13:53:10Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-23T00:12:15Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|0|0|2023-10-22T14:55:04Z|
 |[wanghaisheng/post-genious](https://github.com/wanghaisheng/post-genious)|0|0|2023-10-22T09:01:26Z|
 |[wanghaisheng/brand-genious](https://github.com/wanghaisheng/brand-genious)|0|0|2023-10-22T09:01:21Z|
@@ -277,7 +277,7 @@
 |[wanghaisheng/run-a-profitable-hospital](https://github.com/wanghaisheng/run-a-profitable-hospital)|1|1|2019-07-20T10:30:15Z|
 |[wanghaisheng/stackholder-and-hospital](https://github.com/wanghaisheng/stackholder-and-hospital)|0|2|2019-07-17T13:18:44Z|
 |[wanghaisheng/datacenter4hospital](https://github.com/wanghaisheng/datacenter4hospital)|2|1|2019-07-16T19:26:33Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|379|245|2019-07-13T14:43:38Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|379|246|2019-07-13T14:43:38Z|
 |[wanghaisheng/ocr-processing-utils-vips](https://github.com/wanghaisheng/ocr-processing-utils-vips)|1|0|2019-07-06T10:13:13Z|
 |[wanghaisheng/notes-on-nursing](https://github.com/wanghaisheng/notes-on-nursing)|0|0|2019-06-25T14:12:43Z|
 |[wanghaisheng/psychology-of-selling](https://github.com/wanghaisheng/psychology-of-selling)|0|0|2019-04-28T16:40:26Z|
@@ -389,12 +389,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1559
+- **count**: 1561
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-23T13:06:25Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-23T00:10:33Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-24T13:04:54Z|
+|[wanghaisheng/frigate](https://github.com/wanghaisheng/frigate)|0|0|2023-10-24T02:33:56Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-24T00:10:52Z|
 |[wanghaisheng/video-genius](https://github.com/wanghaisheng/video-genius)|1|0|2023-10-22T09:01:30Z|
 |[wanghaisheng/pdf-genious](https://github.com/wanghaisheng/pdf-genious)|1|0|2023-10-22T09:01:22Z|
 |[wanghaisheng/social-account-genious](https://github.com/wanghaisheng/social-account-genious)|1|0|2023-10-22T09:01:14Z|
@@ -411,6 +412,7 @@
 |[wanghaisheng/writer-gpt](https://github.com/wanghaisheng/writer-gpt)|0|0|2023-10-14T02:04:51Z|
 |[wanghaisheng/bark](https://github.com/wanghaisheng/bark)|0|0|2023-10-14T00:22:40Z|
 |[wanghaisheng/chat-gpt-prompts-from-aiprm](https://github.com/wanghaisheng/chat-gpt-prompts-from-aiprm)|0|0|2023-10-13T23:46:46Z|
+|[wanghaisheng/sound_dataset_tools2](https://github.com/wanghaisheng/sound_dataset_tools2)|0|0|2023-10-13T10:52:08Z|
 |[wanghaisheng/make-ugly-avartar-image-starter](https://github.com/wanghaisheng/make-ugly-avartar-image-starter)|0|0|2023-10-10T18:46:23Z|
 |[wanghaisheng/sass-template-crypto](https://github.com/wanghaisheng/sass-template-crypto)|0|0|2023-10-09T14:07:31Z|
 |[wanghaisheng/rotate-captcha-crack](https://github.com/wanghaisheng/rotate-captcha-crack)|1|0|2023-10-09T12:51:49Z|
@@ -1958,10 +1960,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5591|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1017|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5592|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1019|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1002|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|976|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|979|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|423|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|96|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
 |[yoyzhou/weibo_login](https://github.com/yoyzhou/weibo_login/pull/4)|67|2014-07-08T07:57:39Z|[pull/4](https://github.com/yoyzhou/weibo_login/pull/4)|
