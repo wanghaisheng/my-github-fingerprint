@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-10-25 08:10:31 Asia/Shanghai
+> Automated deployment @ 2023-10-26 08:10:24 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3219
+- **Total_stars_earned**: 3224
 
-- **Projects**: 1931
+- **Projects**: 1932
 
 ### Sources
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|3|2|2023-10-24T16:59:43Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|160|40|2023-10-24T00:43:34Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-24T00:11:46Z|
+|[wanghaisheng/tiktoka-studio-uploader-genius](https://github.com/wanghaisheng/tiktoka-studio-uploader-genius)|5|2|2023-10-25T17:10:33Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-10-25T00:11:46Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|161|40|2023-10-24T00:43:34Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2023-10-23T20:27:15Z|
 |[wanghaisheng/tiktoka-studio-homepage](https://github.com/wanghaisheng/tiktoka-studio-homepage)|0|1|2023-10-23T13:53:10Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|0|0|2023-10-22T14:55:04Z|
@@ -150,7 +150,7 @@
 |[wanghaisheng/copycat-account-detect](https://github.com/wanghaisheng/copycat-account-detect)|1|0|2022-06-28T10:55:40Z|
 |[wanghaisheng/living-will-fhir](https://github.com/wanghaisheng/living-will-fhir)|1|0|2022-06-27T14:05:45Z|
 |[wanghaisheng/start-micro-saas-0-1](https://github.com/wanghaisheng/start-micro-saas-0-1)|0|0|2022-06-24T16:02:47Z|
-|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1653|355|2022-06-24T04:50:59Z|
+|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1654|355|2022-06-24T04:50:59Z|
 |[wanghaisheng/url2video-pdf](https://github.com/wanghaisheng/url2video-pdf)|1|0|2022-06-23T19:25:31Z|
 |[wanghaisheng/ocr-tweets-monitoring](https://github.com/wanghaisheng/ocr-tweets-monitoring)|0|0|2022-06-23T09:33:16Z|
 |[wanghaisheng/ocr-paper-collector](https://github.com/wanghaisheng/ocr-paper-collector)|4|1|2022-06-23T07:50:45Z|
@@ -277,7 +277,7 @@
 |[wanghaisheng/run-a-profitable-hospital](https://github.com/wanghaisheng/run-a-profitable-hospital)|1|1|2019-07-20T10:30:15Z|
 |[wanghaisheng/stackholder-and-hospital](https://github.com/wanghaisheng/stackholder-and-hospital)|0|2|2019-07-17T13:18:44Z|
 |[wanghaisheng/datacenter4hospital](https://github.com/wanghaisheng/datacenter4hospital)|2|1|2019-07-16T19:26:33Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|379|246|2019-07-13T14:43:38Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|380|247|2019-07-13T14:43:38Z|
 |[wanghaisheng/ocr-processing-utils-vips](https://github.com/wanghaisheng/ocr-processing-utils-vips)|1|0|2019-07-06T10:13:13Z|
 |[wanghaisheng/notes-on-nursing](https://github.com/wanghaisheng/notes-on-nursing)|0|0|2019-06-25T14:12:43Z|
 |[wanghaisheng/psychology-of-selling](https://github.com/wanghaisheng/psychology-of-selling)|0|0|2019-04-28T16:40:26Z|
@@ -389,17 +389,17 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1561
+- **count**: 1562
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-24T13:04:54Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-10-25T13:05:17Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-25T00:10:31Z|
 |[wanghaisheng/frigate](https://github.com/wanghaisheng/frigate)|0|0|2023-10-24T02:33:56Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-10-24T00:10:52Z|
 |[wanghaisheng/video-genius](https://github.com/wanghaisheng/video-genius)|1|0|2023-10-22T09:01:30Z|
 |[wanghaisheng/pdf-genious](https://github.com/wanghaisheng/pdf-genious)|1|0|2023-10-22T09:01:22Z|
 |[wanghaisheng/social-account-genious](https://github.com/wanghaisheng/social-account-genious)|1|0|2023-10-22T09:01:14Z|
-|[wanghaisheng/chatgpt-tarot-divination](https://github.com/wanghaisheng/chatgpt-tarot-divination)|1|0|2023-10-22T08:51:41Z|
+|[wanghaisheng/chatgpt-tarot-divination](https://github.com/wanghaisheng/chatgpt-tarot-divination)|2|0|2023-10-22T08:51:41Z|
 |[wanghaisheng/game-shorts-app](https://github.com/wanghaisheng/game-shorts-app)|0|0|2023-10-22T08:39:38Z|
 |[wanghaisheng/xiaogpt](https://github.com/wanghaisheng/xiaogpt)|0|0|2023-10-22T01:47:37Z|
 |[wanghaisheng/running_page](https://github.com/wanghaisheng/running_page)|0|0|2023-10-21T12:05:49Z|
@@ -421,6 +421,7 @@
 |[wanghaisheng/VPS-scoring](https://github.com/wanghaisheng/VPS-scoring)|0|0|2023-10-09T02:35:42Z|
 |[wanghaisheng/documate-ecommerce](https://github.com/wanghaisheng/documate-ecommerce)|0|0|2023-10-08T04:21:19Z|
 |[wanghaisheng/nextjs-python-starter-kit-2](https://github.com/wanghaisheng/nextjs-python-starter-kit-2)|0|0|2023-10-08T03:03:57Z|
+|[wanghaisheng/PlanarAlly](https://github.com/wanghaisheng/PlanarAlly)|0|0|2023-10-08T01:10:59Z|
 |[wanghaisheng/startup-nextjs-templates](https://github.com/wanghaisheng/startup-nextjs-templates)|0|0|2023-10-07T21:30:27Z|
 |[wanghaisheng/Spark-GPT](https://github.com/wanghaisheng/Spark-GPT)|1|0|2023-10-07T08:53:06Z|
 |[wanghaisheng/nonebot_plugin_image_quote](https://github.com/wanghaisheng/nonebot_plugin_image_quote)|0|0|2023-10-07T08:52:45Z|
@@ -1960,7 +1961,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5592|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5593|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1019|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1002|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|979|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
