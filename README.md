@@ -4,22 +4,23 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-11-30 08:11:14 Asia/Shanghai
+> Automated deployment @ 2023-12-01 08:12:33 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3257
+- **Total_stars_earned**: 3259
 
-- **Projects**: 1977
+- **Projects**: 1984
 
 ### Sources
 
-- **count**: 377
+- **count**: 378
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/uploader-genius-V1](https://github.com/wanghaisheng/uploader-genius-V1)|0|0|2023-11-30T04:43:44Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-11-30T00:12:26Z|
 |[wanghaisheng/awesome-swiss-army-knife-tools](https://github.com/wanghaisheng/awesome-swiss-army-knife-tools)|0|0|2023-11-29T09:32:41Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|183|43|2023-11-29T08:09:16Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-11-29T00:12:42Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|184|43|2023-11-29T08:09:16Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2023-11-27T21:14:33Z|
 |[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|0|0|2023-11-24T08:58:55Z|
 |[wanghaisheng/time-series-data-playground](https://github.com/wanghaisheng/time-series-data-playground)|0|0|2023-11-24T07:30:47Z|
@@ -284,7 +285,7 @@
 |[wanghaisheng/run-a-profitable-hospital](https://github.com/wanghaisheng/run-a-profitable-hospital)|1|1|2019-07-20T10:30:15Z|
 |[wanghaisheng/stackholder-and-hospital](https://github.com/wanghaisheng/stackholder-and-hospital)|0|2|2019-07-17T13:18:44Z|
 |[wanghaisheng/datacenter4hospital](https://github.com/wanghaisheng/datacenter4hospital)|2|1|2019-07-16T19:26:33Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|387|249|2019-07-13T14:43:38Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|388|249|2019-07-13T14:43:38Z|
 |[wanghaisheng/ocr-processing-utils-vips](https://github.com/wanghaisheng/ocr-processing-utils-vips)|1|0|2019-07-06T10:13:13Z|
 |[wanghaisheng/notes-on-nursing](https://github.com/wanghaisheng/notes-on-nursing)|0|0|2019-06-25T14:12:43Z|
 |[wanghaisheng/psychology-of-selling](https://github.com/wanghaisheng/psychology-of-selling)|0|0|2019-04-28T16:40:26Z|
@@ -396,12 +397,15 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1600
+- **count**: 1606
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-11-29T13:05:47Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-11-29T00:11:27Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-11-30T13:04:41Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-11-30T00:11:14Z|
+|[wanghaisheng/pyrobox](https://github.com/wanghaisheng/pyrobox)|0|0|2023-11-27T15:18:23Z|
+|[wanghaisheng/vocabsieve](https://github.com/wanghaisheng/vocabsieve)|1|0|2023-11-27T13:07:46Z|
+|[wanghaisheng/ethical-ad-server](https://github.com/wanghaisheng/ethical-ad-server)|0|0|2023-11-20T17:04:35Z|
 |[wanghaisheng/proxypool](https://github.com/wanghaisheng/proxypool)|0|0|2023-11-19T02:17:51Z|
 |[wanghaisheng/keywords-topic-tweets-scraper-monitor](https://github.com/wanghaisheng/keywords-topic-tweets-scraper-monitor)|1|3|2023-11-12T14:54:35Z|
 |[wanghaisheng/starlight-blog-tempalte](https://github.com/wanghaisheng/starlight-blog-tempalte)|1|0|2023-11-09T00:45:21Z|
@@ -415,6 +419,7 @@
 |[wanghaisheng/flet_projects](https://github.com/wanghaisheng/flet_projects)|0|0|2023-10-26T17:21:33Z|
 |[wanghaisheng/VideoChain-API](https://github.com/wanghaisheng/VideoChain-API)|0|0|2023-10-26T16:22:55Z|
 |[wanghaisheng/Hotshot-XL-Gradio-API](https://github.com/wanghaisheng/Hotshot-XL-Gradio-API)|0|0|2023-10-26T16:04:47Z|
+|[wanghaisheng/F95Checker](https://github.com/wanghaisheng/F95Checker)|0|0|2023-10-26T04:07:33Z|
 |[wanghaisheng/clxTools](https://github.com/wanghaisheng/clxTools)|0|0|2023-10-25T12:45:13Z|
 |[wanghaisheng/frigate](https://github.com/wanghaisheng/frigate)|0|0|2023-10-24T02:33:56Z|
 |[wanghaisheng/video-genius](https://github.com/wanghaisheng/video-genius)|2|0|2023-10-22T09:01:30Z|
@@ -426,6 +431,7 @@
 |[wanghaisheng/xiaogpt](https://github.com/wanghaisheng/xiaogpt)|0|0|2023-10-22T01:47:37Z|
 |[wanghaisheng/running_page](https://github.com/wanghaisheng/running_page)|0|0|2023-10-21T12:05:49Z|
 |[wanghaisheng/run-test-in-natural-language](https://github.com/wanghaisheng/run-test-in-natural-language)|0|0|2023-10-19T16:38:29Z|
+|[wanghaisheng/PyInstallerBuild](https://github.com/wanghaisheng/PyInstallerBuild)|0|0|2023-10-19T14:39:51Z|
 |[wanghaisheng/COVID-19-PREDICTION-IN-INDIA](https://github.com/wanghaisheng/COVID-19-PREDICTION-IN-INDIA)|0|0|2023-10-19T12:50:09Z|
 |[wanghaisheng/ChatGPT-Next-Web](https://github.com/wanghaisheng/ChatGPT-Next-Web)|0|0|2023-10-18T19:07:52Z|
 |[wanghaisheng/AFFiNE.pro](https://github.com/wanghaisheng/AFFiNE.pro)|0|0|2023-10-18T15:11:30Z|
@@ -805,6 +811,7 @@
 |[wanghaisheng/The-HustleGPT-Challenge-ZH](https://github.com/wanghaisheng/The-HustleGPT-Challenge-ZH)|0|0|2023-04-21T01:21:49Z|
 |[wanghaisheng/digital-fingerprint](https://github.com/wanghaisheng/digital-fingerprint)|0|0|2023-04-20T14:21:01Z|
 |[wanghaisheng/github-pages-docusaurus](https://github.com/wanghaisheng/github-pages-docusaurus)|0|0|2023-04-19T17:51:54Z|
+|[wanghaisheng/lazy-dsi-file-downloader-archive](https://github.com/wanghaisheng/lazy-dsi-file-downloader-archive)|0|0|2023-04-19T14:11:20Z|
 |[wanghaisheng/vuepress-deploy](https://github.com/wanghaisheng/vuepress-deploy)|0|0|2023-04-19T05:56:30Z|
 |[wanghaisheng/feed2pdf](https://github.com/wanghaisheng/feed2pdf)|0|0|2023-04-18T11:25:13Z|
 |[wanghaisheng/vercel-azure-openai-proxy](https://github.com/wanghaisheng/vercel-azure-openai-proxy)|0|0|2023-04-16T13:31:04Z|
@@ -2007,12 +2014,12 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5618|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1034|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1008|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1035|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1009|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1002|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|423|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|96|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
 |[yoyzhou/weibo_login](https://github.com/yoyzhou/weibo_login/pull/4)|67|2014-07-08T07:57:39Z|[pull/4](https://github.com/yoyzhou/weibo_login/pull/4)|
 |[kba/hocr-spec](https://github.com/kba/hocr-spec/pull/29)|67|2016-09-29T15:27:45Z|[pull/29](https://github.com/kba/hocr-spec/pull/29)|
-|[fmalina/unilex-transcript](https://github.com/fmalina/unilex-transcript/pull/7)|22|2016-08-18T15:23:09Z|[pull/7](https://github.com/fmalina/unilex-transcript/pull/7)|
+|[fmalina/unilex-transcript](https://github.com/fmalina/unilex-transcript/pull/7)|23|2016-08-18T15:23:09Z|[pull/7](https://github.com/fmalina/unilex-transcript/pull/7)|
 |[clear-datacenter/hocr-spec](https://github.com/clear-datacenter/hocr-spec/pull/1)|0|2016-09-28T08:09:59Z|[pull/1](https://github.com/clear-datacenter/hocr-spec/pull/1)|
