@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-12-07 08:11:22 Asia/Shanghai
+> Automated deployment @ 2023-12-08 08:11:10 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3268
+- **Total_stars_earned**: 3269
 
-- **Projects**: 2017
+- **Projects**: 2018
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|190|43|2023-12-06T16:22:31Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-12-06T00:12:42Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-12-07T00:12:42Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|191|43|2023-12-06T16:22:31Z|
 |[wanghaisheng/tkinter-i18n-app-starter](https://github.com/wanghaisheng/tkinter-i18n-app-starter)|0|0|2023-12-05T13:22:56Z|
 |[wanghaisheng/awesome-ppg](https://github.com/wanghaisheng/awesome-ppg)|1|0|2023-12-03T14:49:42Z|
 |[wanghaisheng/program-seo-landing-page](https://github.com/wanghaisheng/program-seo-landing-page)|0|0|2023-12-02T18:06:05Z|
@@ -401,12 +401,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1635
+- **count**: 1636
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-12-06T13:05:49Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-12-06T00:11:25Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-12-07T13:05:30Z|
+|[wanghaisheng/download-video-in-browser](https://github.com/wanghaisheng/download-video-in-browser)|1|0|2023-12-07T08:10:48Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-12-07T00:11:23Z|
 |[wanghaisheng/windmill](https://github.com/wanghaisheng/windmill)|1|0|2023-12-02T15:04:43Z|
 |[wanghaisheng/awesome-notebooks](https://github.com/wanghaisheng/awesome-notebooks)|0|0|2023-12-02T15:00:03Z|
 |[wanghaisheng/odis-arch-seo](https://github.com/wanghaisheng/odis-arch-seo)|1|0|2023-12-02T06:03:25Z|
@@ -486,6 +487,7 @@
 |[wanghaisheng/gpt4free-ts](https://github.com/wanghaisheng/gpt4free-ts)|0|0|2023-10-05T16:08:07Z|
 |[wanghaisheng/mindmark](https://github.com/wanghaisheng/mindmark)|0|0|2023-10-05T12:43:16Z|
 |[wanghaisheng/stripe-stack](https://github.com/wanghaisheng/stripe-stack)|0|0|2023-10-04T15:45:24Z|
+|[wanghaisheng/video_loom](https://github.com/wanghaisheng/video_loom)|1|0|2023-10-04T12:33:29Z|
 |[wanghaisheng/shichida-cards](https://github.com/wanghaisheng/shichida-cards)|0|0|2023-10-04T03:02:56Z|
 |[wanghaisheng/UltraDict](https://github.com/wanghaisheng/UltraDict)|0|0|2023-10-03T13:31:18Z|
 |[wanghaisheng/nextjs-supabase-how-it-works](https://github.com/wanghaisheng/nextjs-supabase-how-it-works)|0|0|2023-10-03T12:38:27Z|
@@ -562,7 +564,7 @@
 |[wanghaisheng/reliverse](https://github.com/wanghaisheng/reliverse)|0|0|2023-09-03T13:01:48Z|
 |[wanghaisheng/astros](https://github.com/wanghaisheng/astros)|1|0|2023-09-03T12:13:15Z|
 |[wanghaisheng/astrosaas](https://github.com/wanghaisheng/astrosaas)|0|0|2023-09-03T09:01:01Z|
-|[wanghaisheng/XHS_Downloader](https://github.com/wanghaisheng/XHS_Downloader)|1|0|2023-09-02T03:02:10Z|
+|[wanghaisheng/XHS_Downloader](https://github.com/wanghaisheng/XHS_Downloader)|2|0|2023-09-02T03:02:10Z|
 |[wanghaisheng/patternfly-yew-quickstart](https://github.com/wanghaisheng/patternfly-yew-quickstart)|0|0|2023-08-31T07:12:00Z|
 |[wanghaisheng/letcode-webdriverio-typescript](https://github.com/wanghaisheng/letcode-webdriverio-typescript)|1|0|2023-08-31T04:48:49Z|
 |[wanghaisheng/watchit](https://github.com/wanghaisheng/watchit)|0|0|2023-08-30T23:41:53Z|
@@ -625,7 +627,6 @@
 |[wanghaisheng/weekly-update-blog](https://github.com/wanghaisheng/weekly-update-blog)|0|0|2023-07-23T12:53:40Z|
 |[wanghaisheng/thr](https://github.com/wanghaisheng/thr)|0|0|2023-07-23T10:40:12Z|
 |[wanghaisheng/AdsPower_Selenium_template](https://github.com/wanghaisheng/AdsPower_Selenium_template)|0|0|2023-07-22T16:33:07Z|
-|[wanghaisheng/download-video-in-browser](https://github.com/wanghaisheng/download-video-in-browser)|1|0|2023-07-22T11:23:40Z|
 |[wanghaisheng/segment-anything-services](https://github.com/wanghaisheng/segment-anything-services)|0|0|2023-07-21T19:25:44Z|
 |[wanghaisheng/jsoneditor](https://github.com/wanghaisheng/jsoneditor)|0|0|2023-07-19T08:37:20Z|
 |[wanghaisheng/gallerydeluxe_starter](https://github.com/wanghaisheng/gallerydeluxe_starter)|0|0|2023-07-18T02:16:50Z|
