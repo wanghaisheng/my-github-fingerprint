@@ -4,21 +4,22 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-12-16 08:11:06 Asia/Shanghai
+> Automated deployment @ 2023-12-17 08:12:09 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3279
 
-- **Projects**: 2067
+- **Projects**: 2073
 
 ### Sources
 
-- **count**: 383
+- **count**: 384
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/claim-gongde](https://github.com/wanghaisheng/claim-gongde)|0|0|2023-12-16T16:56:51Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-12-16T00:12:37Z|
 |[wanghaisheng/tkinter-i18n-app-starter](https://github.com/wanghaisheng/tkinter-i18n-app-starter)|0|0|2023-12-15T11:46:28Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2023-12-15T00:12:55Z|
 |[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|0|0|2023-12-13T09:01:51Z|
 |[wanghaisheng/muyu-pet](https://github.com/wanghaisheng/muyu-pet)|0|0|2023-12-09T18:55:08Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|0|0|2023-12-08T07:29:06Z|
@@ -402,19 +403,23 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1684
+- **count**: 1689
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/Fooocus-API](https://github.com/wanghaisheng/Fooocus-API)|0|0|2023-12-16T13:46:14Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-12-16T13:08:08Z|
+|[wanghaisheng/Subtitle_Editor](https://github.com/wanghaisheng/Subtitle_Editor)|0|0|2023-12-16T07:00:20Z|
+|[wanghaisheng/neuVid](https://github.com/wanghaisheng/neuVid)|0|0|2023-12-16T06:48:50Z|
+|[wanghaisheng/Pallaidium](https://github.com/wanghaisheng/Pallaidium)|0|0|2023-12-16T06:43:18Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-12-16T00:11:06Z|
 |[wanghaisheng/chatCharts](https://github.com/wanghaisheng/chatCharts)|0|0|2023-12-15T18:09:13Z|
 |[wanghaisheng/cx_Freeze](https://github.com/wanghaisheng/cx_Freeze)|0|0|2023-12-15T16:35:04Z|
 |[wanghaisheng/accessibility-insights-web](https://github.com/wanghaisheng/accessibility-insights-web)|1|0|2023-12-15T15:48:39Z|
 |[wanghaisheng/cheapsoftwarelicence.com](https://github.com/wanghaisheng/cheapsoftwarelicence.com)|0|0|2023-12-15T13:07:52Z|
 |[wanghaisheng/coursegod.com](https://github.com/wanghaisheng/coursegod.com)|1|0|2023-12-15T13:07:15Z|
 |[wanghaisheng/My-T3-Boilerplate](https://github.com/wanghaisheng/My-T3-Boilerplate)|1|0|2023-12-15T13:06:40Z|
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2023-12-15T13:03:25Z|
 |[wanghaisheng/openai-PhishMailer](https://github.com/wanghaisheng/openai-PhishMailer)|1|0|2023-12-15T02:52:37Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2023-12-15T00:12:06Z|
 |[wanghaisheng/Genshin-Web-Bootstrap](https://github.com/wanghaisheng/Genshin-Web-Bootstrap)|0|0|2023-12-13T08:36:57Z|
 |[wanghaisheng/hoyo_public_wiki_parser](https://github.com/wanghaisheng/hoyo_public_wiki_parser)|0|0|2023-12-13T08:35:46Z|
 |[wanghaisheng/genshin-langdata-translation-saas](https://github.com/wanghaisheng/genshin-langdata-translation-saas)|0|0|2023-12-13T08:33:25Z|
@@ -442,6 +447,7 @@
 |[wanghaisheng/monster-Card-Generator](https://github.com/wanghaisheng/monster-Card-Generator)|0|0|2023-12-07T13:22:55Z|
 |[wanghaisheng/download-video-in-browser](https://github.com/wanghaisheng/download-video-in-browser)|1|0|2023-12-07T08:10:48Z|
 |[wanghaisheng/llm-mail-autolabel](https://github.com/wanghaisheng/llm-mail-autolabel)|1|0|2023-12-06T20:13:00Z|
+|[wanghaisheng/slide2video.py](https://github.com/wanghaisheng/slide2video.py)|0|0|2023-12-06T15:12:59Z|
 |[wanghaisheng/GenshinImpactGacha](https://github.com/wanghaisheng/GenshinImpactGacha)|0|0|2023-12-04T05:20:24Z|
 |[wanghaisheng/windmill](https://github.com/wanghaisheng/windmill)|1|0|2023-12-02T15:04:43Z|
 |[wanghaisheng/awesome-notebooks](https://github.com/wanghaisheng/awesome-notebooks)|0|0|2023-12-02T15:00:03Z|
