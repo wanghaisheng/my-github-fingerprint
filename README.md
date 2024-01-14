@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-01-13 08:11:54 Asia/Shanghai
+> Automated deployment @ 2024-01-14 08:12:32 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3317
+- **Total_stars_earned**: 3318
 
 - **Projects**: 2212
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-13T00:12:47Z|
 |[wanghaisheng/pifubing-tcm](https://github.com/wanghaisheng/pifubing-tcm)|0|0|2024-01-12T05:17:14Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-12T00:12:58Z|
 |[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|212|45|2024-01-04T06:44:39Z|
 |[wanghaisheng/vue-next-sqljs-starter](https://github.com/wanghaisheng/vue-next-sqljs-starter)|0|0|2024-01-01T00:52:02Z|
 |[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|1|0|2023-12-29T09:14:00Z|
@@ -299,7 +299,7 @@
 |[wanghaisheng/run-a-profitable-hospital](https://github.com/wanghaisheng/run-a-profitable-hospital)|1|1|2019-07-20T10:30:15Z|
 |[wanghaisheng/stackholder-and-hospital](https://github.com/wanghaisheng/stackholder-and-hospital)|0|2|2019-07-17T13:18:44Z|
 |[wanghaisheng/datacenter4hospital](https://github.com/wanghaisheng/datacenter4hospital)|2|1|2019-07-16T19:26:33Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|400|253|2019-07-13T14:43:38Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|401|253|2019-07-13T14:43:38Z|
 |[wanghaisheng/ocr-processing-utils-vips](https://github.com/wanghaisheng/ocr-processing-utils-vips)|1|0|2019-07-06T10:13:13Z|
 |[wanghaisheng/notes-on-nursing](https://github.com/wanghaisheng/notes-on-nursing)|0|0|2019-06-25T14:12:43Z|
 |[wanghaisheng/psychology-of-selling](https://github.com/wanghaisheng/psychology-of-selling)|0|0|2019-04-28T16:40:26Z|
@@ -415,10 +415,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-12T13:03:55Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-13T13:10:04Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-13T00:11:55Z|
 |[wanghaisheng/imagineapi](https://github.com/wanghaisheng/imagineapi)|0|0|2024-01-12T08:32:10Z|
 |[wanghaisheng/canva-apps-image-translate](https://github.com/wanghaisheng/canva-apps-image-translate)|0|0|2024-01-12T07:54:39Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-12T00:11:40Z|
 |[wanghaisheng/copilot-gpt4-service](https://github.com/wanghaisheng/copilot-gpt4-service)|0|0|2024-01-10T05:15:09Z|
 |[wanghaisheng/e7Helper](https://github.com/wanghaisheng/e7Helper)|0|0|2024-01-06T08:28:28Z|
 |[wanghaisheng/danswer-py-nodejs](https://github.com/wanghaisheng/danswer-py-nodejs)|1|0|2024-01-02T20:22:19Z|
@@ -2243,7 +2243,7 @@
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5644|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1192|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1059|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1060|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1043|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1007|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|424|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
