@@ -4,22 +4,24 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-01-21 08:12:23 Asia/Shanghai
+> Automated deployment @ 2024-01-22 08:12:12 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3325
+- **Total_stars_earned**: 3326
 
-- **Projects**: 2237
+- **Projects**: 2242
 
 ### Sources
 
-- **count**: 406
+- **count**: 408
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/t3-app-playground](https://github.com/wanghaisheng/t3-app-playground)|0|0|2024-01-21T15:32:01Z|
+|[wanghaisheng/tea-standards](https://github.com/wanghaisheng/tea-standards)|0|0|2024-01-21T15:24:19Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-21T00:14:09Z|
 |[wanghaisheng/ppg-to-pulse](https://github.com/wanghaisheng/ppg-to-pulse)|0|0|2024-01-20T09:52:31Z|
 |[wanghaisheng/t4-app-playground](https://github.com/wanghaisheng/t4-app-playground)|0|0|2024-01-20T08:07:40Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-20T00:12:31Z|
 |[wanghaisheng/paper-keywords-process](https://github.com/wanghaisheng/paper-keywords-process)|0|0|2024-01-19T08:59:09Z|
 |[wanghaisheng/ppg-non-linear](https://github.com/wanghaisheng/ppg-non-linear)|0|0|2024-01-18T06:39:22Z|
 |[wanghaisheng/ppg-pulse-image](https://github.com/wanghaisheng/ppg-pulse-image)|0|0|2024-01-18T03:34:46Z|
@@ -296,7 +298,7 @@
 |[wanghaisheng/definitive-guide-for-soldier-toys](https://github.com/wanghaisheng/definitive-guide-for-soldier-toys)|0|0|2020-04-01T15:40:45Z|
 |[wanghaisheng/channels-should-exclude-from-campaign](https://github.com/wanghaisheng/channels-should-exclude-from-campaign)|0|0|2020-01-03T11:14:25Z|
 |[wanghaisheng/awesome-chatbotmarketing](https://github.com/wanghaisheng/awesome-chatbotmarketing)|0|0|2020-01-02T16:09:37Z|
-|[wanghaisheng/awesome-web-data-extractor](https://github.com/wanghaisheng/awesome-web-data-extractor)|24|8|2019-12-24T04:13:05Z|
+|[wanghaisheng/awesome-web-data-extractor](https://github.com/wanghaisheng/awesome-web-data-extractor)|25|8|2019-12-24T04:13:05Z|
 |[wanghaisheng/awesome-cp](https://github.com/wanghaisheng/awesome-cp)|1|0|2019-12-16T12:10:30Z|
 |[wanghaisheng/awesome-vte](https://github.com/wanghaisheng/awesome-vte)|0|1|2019-11-18T08:14:09Z|
 |[wanghaisheng/chs-drg](https://github.com/wanghaisheng/chs-drg)|1|1|2019-10-23T15:01:32Z|
@@ -425,11 +427,14 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1831
+- **count**: 1834
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-20T13:09:36Z|
+|[wanghaisheng/video-tell-with-your-own-voice](https://github.com/wanghaisheng/video-tell-with-your-own-voice)|0|0|2024-01-21T15:29:43Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-21T13:01:48Z|
+|[wanghaisheng/mp3-duration-estimate-saas](https://github.com/wanghaisheng/mp3-duration-estimate-saas)|0|0|2024-01-21T07:34:16Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-21T00:12:24Z|
 |[wanghaisheng/turbo-hybrid-astro-on-vercel-template](https://github.com/wanghaisheng/turbo-hybrid-astro-on-vercel-template)|1|0|2024-01-20T09:22:01Z|
 |[wanghaisheng/niche-websites](https://github.com/wanghaisheng/niche-websites)|0|0|2024-01-20T09:13:39Z|
 |[wanghaisheng/prank-with-chatbot](https://github.com/wanghaisheng/prank-with-chatbot)|0|0|2024-01-20T08:44:06Z|
@@ -437,7 +442,6 @@
 |[wanghaisheng/typescript-app-demos](https://github.com/wanghaisheng/typescript-app-demos)|0|0|2024-01-20T08:09:01Z|
 |[wanghaisheng/t3-app-template](https://github.com/wanghaisheng/t3-app-template)|0|0|2024-01-20T08:01:11Z|
 |[wanghaisheng/pdf-rag](https://github.com/wanghaisheng/pdf-rag)|1|0|2024-01-20T07:53:27Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-20T00:11:29Z|
 |[wanghaisheng/audiosync-cmd](https://github.com/wanghaisheng/audiosync-cmd)|1|0|2024-01-18T04:41:43Z|
 |[wanghaisheng/chatform](https://github.com/wanghaisheng/chatform)|1|0|2024-01-18T01:36:27Z|
 |[wanghaisheng/convert-natural-language-to-json](https://github.com/wanghaisheng/convert-natural-language-to-json)|0|0|2024-01-18T01:13:56Z|
@@ -464,6 +468,7 @@
 |[wanghaisheng/AirTest_MobileAuto_WZRY](https://github.com/wanghaisheng/AirTest_MobileAuto_WZRY)|0|0|2023-12-28T06:32:06Z|
 |[wanghaisheng/video-genius](https://github.com/wanghaisheng/video-genius)|4|0|2023-12-28T05:24:44Z|
 |[wanghaisheng/tiktok-opensdk-web-rust](https://github.com/wanghaisheng/tiktok-opensdk-web-rust)|0|0|2023-12-28T01:18:55Z|
+|[wanghaisheng/hiwara](https://github.com/wanghaisheng/hiwara)|1|0|2023-12-27T15:06:40Z|
 |[wanghaisheng/yangsheng-onelist](https://github.com/wanghaisheng/yangsheng-onelist)|0|0|2023-12-27T02:52:03Z|
 |[wanghaisheng/PicList](https://github.com/wanghaisheng/PicList)|1|0|2023-12-27T02:49:34Z|
 |[wanghaisheng/alist-encrypt](https://github.com/wanghaisheng/alist-encrypt)|2|0|2023-12-27T02:42:25Z|
@@ -2267,7 +2272,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5650|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1199|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1201|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1062|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1050|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1008|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
