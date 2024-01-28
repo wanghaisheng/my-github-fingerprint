@@ -4,25 +4,26 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-01-27 08:10:35 Asia/Shanghai
+> Automated deployment @ 2024-01-28 08:11:50 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3333
+- **Total_stars_earned**: 3335
 
-- **Projects**: 2264
+- **Projects**: 2267
 
 ### Sources
 
-- **count**: 414
+- **count**: 415
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/get-patents-applicant](https://github.com/wanghaisheng/get-patents-applicant)|0|0|2024-01-26T07:45:57Z|
+|[wanghaisheng/get-patents-applicant](https://github.com/wanghaisheng/get-patents-applicant)|0|0|2024-01-27T05:19:29Z|
+|[wanghaisheng/flybirds-get-whole-website-index](https://github.com/wanghaisheng/flybirds-get-whole-website-index)|0|0|2024-01-27T00:47:20Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-27T00:11:38Z|
 |[wanghaisheng/paper-keywords-process](https://github.com/wanghaisheng/paper-keywords-process)|0|0|2024-01-26T05:28:48Z|
 |[wanghaisheng/palworldguides](https://github.com/wanghaisheng/palworldguides)|0|0|2024-01-26T02:34:56Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-26T00:12:30Z|
 |[wanghaisheng/aramid-fiber-website](https://github.com/wanghaisheng/aramid-fiber-website)|0|0|2024-01-25T07:25:13Z|
-|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|404|256|2024-01-24T08:55:04Z|
+|[wanghaisheng/healthcaredatastandard](https://github.com/wanghaisheng/healthcaredatastandard)|405|256|2024-01-24T08:55:04Z|
 |[wanghaisheng/everyone-should-know-seth](https://github.com/wanghaisheng/everyone-should-know-seth)|0|0|2024-01-23T09:09:38Z|
 |[wanghaisheng/matching-games-reviews](https://github.com/wanghaisheng/matching-games-reviews)|0|0|2024-01-23T03:09:57Z|
 |[wanghaisheng/update-keyword-inner-link-astro](https://github.com/wanghaisheng/update-keyword-inner-link-astro)|0|0|2024-01-23T03:02:03Z|
@@ -38,7 +39,7 @@
 |[wanghaisheng/Longevity-diet-recipes](https://github.com/wanghaisheng/Longevity-diet-recipes)|1|0|2024-01-15T07:22:02Z|
 |[wanghaisheng/.github](https://github.com/wanghaisheng/.github)|0|0|2024-01-15T07:10:16Z|
 |[wanghaisheng/pifubing-tcm](https://github.com/wanghaisheng/pifubing-tcm)|0|0|2024-01-12T05:17:14Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|217|45|2024-01-04T06:44:39Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|216|45|2024-01-04T06:44:39Z|
 |[wanghaisheng/vue-next-sqljs-starter](https://github.com/wanghaisheng/vue-next-sqljs-starter)|0|0|2024-01-01T00:52:02Z|
 |[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|1|0|2023-12-29T09:14:00Z|
 |[wanghaisheng/ransomware-tdesign-vue-next](https://github.com/wanghaisheng/ransomware-tdesign-vue-next)|0|0|2023-12-29T07:17:26Z|
@@ -191,7 +192,7 @@
 |[wanghaisheng/copycat-account-detect](https://github.com/wanghaisheng/copycat-account-detect)|1|0|2022-06-28T10:55:40Z|
 |[wanghaisheng/living-will-fhir](https://github.com/wanghaisheng/living-will-fhir)|1|0|2022-06-27T14:05:45Z|
 |[wanghaisheng/start-micro-saas-0-1](https://github.com/wanghaisheng/start-micro-saas-0-1)|0|0|2022-06-24T16:02:47Z|
-|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1658|355|2022-06-24T04:50:59Z|
+|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1659|355|2022-06-24T04:50:59Z|
 |[wanghaisheng/url2video-pdf](https://github.com/wanghaisheng/url2video-pdf)|1|0|2022-06-23T19:25:31Z|
 |[wanghaisheng/ocr-tweets-monitoring](https://github.com/wanghaisheng/ocr-tweets-monitoring)|0|0|2022-06-23T09:33:16Z|
 |[wanghaisheng/ocr-paper-collector](https://github.com/wanghaisheng/ocr-paper-collector)|4|1|2022-06-23T07:50:45Z|
@@ -397,7 +398,7 @@
 |[wanghaisheng/awesome-clinical-research](https://github.com/wanghaisheng/awesome-clinical-research)|0|0|2015-05-28T09:25:58Z|
 |[wanghaisheng/awesome-healthcare-interoperability](https://github.com/wanghaisheng/awesome-healthcare-interoperability)|1|1|2015-04-27T00:08:28Z|
 |[wanghaisheng/Health-Hackathon-Handbook](https://github.com/wanghaisheng/Health-Hackathon-Handbook)|0|0|2015-04-25T17:31:59Z|
-|[wanghaisheng/fhirbase](https://github.com/wanghaisheng/fhirbase)|1|27|2015-04-24T16:50:12Z|
+|[wanghaisheng/fhirbase](https://github.com/wanghaisheng/fhirbase)|2|27|2015-04-24T16:50:12Z|
 |[wanghaisheng/awesome-http-api](https://github.com/wanghaisheng/awesome-http-api)|5|0|2015-04-15T17:09:14Z|
 |[wanghaisheng/awesome-direct](https://github.com/wanghaisheng/awesome-direct)|1|0|2015-04-13T09:53:02Z|
 |[wanghaisheng/awesome-hipaa](https://github.com/wanghaisheng/awesome-hipaa)|1|0|2015-04-12T05:01:02Z|
@@ -433,13 +434,15 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1850
+- **count**: 1852
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-26T13:08:09Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-27T13:02:17Z|
+|[wanghaisheng/python-daily-toolkits](https://github.com/wanghaisheng/python-daily-toolkits)|1|0|2024-01-27T03:12:21Z|
+|[wanghaisheng/google-indexing-script](https://github.com/wanghaisheng/google-indexing-script)|1|0|2024-01-27T00:40:15Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-27T00:10:35Z|
 |[wanghaisheng/starlight-blog-tempalte](https://github.com/wanghaisheng/starlight-blog-tempalte)|1|0|2024-01-26T01:52:05Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-26T00:11:21Z|
 |[wanghaisheng/docker-palworld-dedicated-server-gui](https://github.com/wanghaisheng/docker-palworld-dedicated-server-gui)|1|0|2024-01-25T23:07:24Z|
 |[wanghaisheng/BioSPPy](https://github.com/wanghaisheng/BioSPPy)|0|0|2024-01-25T17:01:59Z|
 |[wanghaisheng/MetaGPT-cocos-engine](https://github.com/wanghaisheng/MetaGPT-cocos-engine)|0|0|2024-01-25T09:36:16Z|
