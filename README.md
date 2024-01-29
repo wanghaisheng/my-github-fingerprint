@@ -4,22 +4,23 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-01-28 08:11:50 Asia/Shanghai
+> Automated deployment @ 2024-01-29 08:11:01 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3335
 
-- **Projects**: 2267
+- **Projects**: 2268
 
 ### Sources
 
-- **count**: 415
+- **count**: 416
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/smart-watch-vendors-list](https://github.com/wanghaisheng/smart-watch-vendors-list)|0|0|2024-01-28T12:39:29Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-28T00:13:29Z|
 |[wanghaisheng/get-patents-applicant](https://github.com/wanghaisheng/get-patents-applicant)|0|0|2024-01-27T05:19:29Z|
 |[wanghaisheng/flybirds-get-whole-website-index](https://github.com/wanghaisheng/flybirds-get-whole-website-index)|0|0|2024-01-27T00:47:20Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-01-27T00:11:38Z|
 |[wanghaisheng/paper-keywords-process](https://github.com/wanghaisheng/paper-keywords-process)|0|0|2024-01-26T05:28:48Z|
 |[wanghaisheng/palworldguides](https://github.com/wanghaisheng/palworldguides)|0|0|2024-01-26T02:34:56Z|
 |[wanghaisheng/aramid-fiber-website](https://github.com/wanghaisheng/aramid-fiber-website)|0|0|2024-01-25T07:25:13Z|
@@ -438,10 +439,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-27T13:02:17Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-01-28T13:03:20Z|
+|[wanghaisheng/showcase-page-maker](https://github.com/wanghaisheng/showcase-page-maker)|1|0|2024-01-28T12:38:08Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-28T00:11:51Z|
 |[wanghaisheng/python-daily-toolkits](https://github.com/wanghaisheng/python-daily-toolkits)|1|0|2024-01-27T03:12:21Z|
 |[wanghaisheng/google-indexing-script](https://github.com/wanghaisheng/google-indexing-script)|1|0|2024-01-27T00:40:15Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-01-27T00:10:35Z|
 |[wanghaisheng/starlight-blog-tempalte](https://github.com/wanghaisheng/starlight-blog-tempalte)|1|0|2024-01-26T01:52:05Z|
 |[wanghaisheng/docker-palworld-dedicated-server-gui](https://github.com/wanghaisheng/docker-palworld-dedicated-server-gui)|1|0|2024-01-25T23:07:24Z|
 |[wanghaisheng/BioSPPy](https://github.com/wanghaisheng/BioSPPy)|0|0|2024-01-25T17:01:59Z|
@@ -819,7 +821,6 @@
 |[wanghaisheng/video2srt](https://github.com/wanghaisheng/video2srt)|0|0|2023-08-25T17:34:42Z|
 |[wanghaisheng/axum_workspace](https://github.com/wanghaisheng/axum_workspace)|0|0|2023-08-25T16:10:30Z|
 |[wanghaisheng/nonebot-plugin-anime-trace](https://github.com/wanghaisheng/nonebot-plugin-anime-trace)|0|0|2023-08-25T08:32:32Z|
-|[wanghaisheng/showcase-page-maker](https://github.com/wanghaisheng/showcase-page-maker)|1|0|2023-08-24T23:01:53Z|
 |[wanghaisheng/pyVHR](https://github.com/wanghaisheng/pyVHR)|0|0|2023-08-24T09:24:36Z|
 |[wanghaisheng/tea-shop-sanity](https://github.com/wanghaisheng/tea-shop-sanity)|0|0|2023-08-23T17:30:16Z|
 |[wanghaisheng/azure-openai-design-patterns-zh](https://github.com/wanghaisheng/azure-openai-design-patterns-zh)|1|0|2023-08-23T03:52:48Z|
