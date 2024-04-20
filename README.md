@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-04-19 08:11:18 Asia/Shanghai
+> Automated deployment @ 2024-04-20 08:11:10 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3379
@@ -17,10 +17,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-04-19T18:05:05Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-19T00:12:29Z|
 |[wanghaisheng/local-citation-source-list](https://github.com/wanghaisheng/local-citation-source-list)|0|0|2024-04-18T18:12:17Z|
-|[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-04-18T17:25:51Z|
 |[wanghaisheng/-Gift-Tiktok-Live-flybirds](https://github.com/wanghaisheng/-Gift-Tiktok-Live-flybirds)|0|0|2024-04-18T17:17:28Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-18T00:12:45Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2024-04-15T21:12:45Z|
 |[wanghaisheng/brand-wholesale-contact-dataset](https://github.com/wanghaisheng/brand-wholesale-contact-dataset)|0|0|2024-04-12T21:33:38Z|
 |[wanghaisheng/pifubing-tcm](https://github.com/wanghaisheng/pifubing-tcm)|0|0|2024-04-01T08:32:06Z|
@@ -450,8 +450,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-18T13:09:03Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-18T00:11:29Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-19T13:08:54Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-19T00:11:19Z|
 |[wanghaisheng/Google-Trends-Keywords-Scraper](https://github.com/wanghaisheng/Google-Trends-Keywords-Scraper)|0|0|2024-04-15T19:48:02Z|
 |[wanghaisheng/AmazonReviews2023](https://github.com/wanghaisheng/AmazonReviews2023)|1|0|2024-04-09T04:15:49Z|
 |[wanghaisheng/e7Helper](https://github.com/wanghaisheng/e7Helper)|0|0|2024-03-31T03:14:01Z|
@@ -1372,7 +1372,7 @@
 |[wanghaisheng/KnowledgeGraph4brandseller](https://github.com/wanghaisheng/KnowledgeGraph4brandseller)|0|0|2022-05-04T20:04:08Z|
 |[wanghaisheng/hyphe](https://github.com/wanghaisheng/hyphe)|1|0|2022-05-04T12:53:23Z|
 |[wanghaisheng/book118](https://github.com/wanghaisheng/book118)|1|0|2022-05-04T11:31:48Z|
-|[wanghaisheng/video-motion-movement-detect](https://github.com/wanghaisheng/video-motion-movement-detect)|16|3|2022-05-04T09:19:57Z|
+|[wanghaisheng/video-motion-movement-detect](https://github.com/wanghaisheng/video-motion-movement-detect)|17|3|2022-05-04T09:19:57Z|
 |[wanghaisheng/heroku-vless](https://github.com/wanghaisheng/heroku-vless)|0|0|2022-05-04T09:05:50Z|
 |[wanghaisheng/gear](https://github.com/wanghaisheng/gear)|1|0|2022-05-04T05:12:42Z|
 |[wanghaisheng/genshin-impact-news-starter](https://github.com/wanghaisheng/genshin-impact-news-starter)|1|0|2022-05-04T03:36:13Z|
@@ -2350,8 +2350,8 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5708|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1238|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5710|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1242|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1118|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1087|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1012|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
