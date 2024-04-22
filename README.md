@@ -4,20 +4,21 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-04-21 08:12:41 Asia/Shanghai
+> Automated deployment @ 2024-04-22 08:12:02 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3379
+- **Total_stars_earned**: 3380
 
-- **Projects**: 2324
+- **Projects**: 2325
 
 ### Sources
 
-- **count**: 428
+- **count**: 429
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-20T00:12:14Z|
+|[wanghaisheng/ideas-from-google-trends](https://github.com/wanghaisheng/ideas-from-google-trends)|0|0|2024-04-21T17:28:39Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-21T00:14:12Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-04-19T18:05:05Z|
 |[wanghaisheng/local-citation-source-list](https://github.com/wanghaisheng/local-citation-source-list)|0|0|2024-04-18T18:12:17Z|
 |[wanghaisheng/-Gift-Tiktok-Live-flybirds](https://github.com/wanghaisheng/-Gift-Tiktok-Live-flybirds)|0|0|2024-04-18T17:17:28Z|
@@ -307,7 +308,7 @@
 |[wanghaisheng/run-action](https://github.com/wanghaisheng/run-action)|0|0|2021-08-31T20:15:27Z|
 |[wanghaisheng/module-design-your-kitchen](https://github.com/wanghaisheng/module-design-your-kitchen)|0|0|2021-08-10T09:51:45Z|
 |[wanghaisheng/Style2Paints_V3_Turbo](https://github.com/wanghaisheng/Style2Paints_V3_Turbo)|0|0|2021-07-22T12:56:29Z|
-|[wanghaisheng/blender-asyncio](https://github.com/wanghaisheng/blender-asyncio)|0|1|2021-07-01T12:32:05Z|
+|[wanghaisheng/blender-asyncio](https://github.com/wanghaisheng/blender-asyncio)|1|1|2021-07-01T12:32:05Z|
 |[wanghaisheng/Insta_tag_Crawling](https://github.com/wanghaisheng/Insta_tag_Crawling)|0|0|2021-05-10T09:46:24Z|
 |[wanghaisheng/dizzy-wholesale](https://github.com/wanghaisheng/dizzy-wholesale)|0|0|2021-04-29T12:33:11Z|
 |[wanghaisheng/build-iot4hospital-by-yourself](https://github.com/wanghaisheng/build-iot4hospital-by-yourself)|0|0|2021-03-09T03:15:57Z|
@@ -451,8 +452,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-20T13:06:04Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-20T00:11:10Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-21T13:08:30Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-21T00:12:42Z|
 |[wanghaisheng/Google-Trends-Keywords-Scraper](https://github.com/wanghaisheng/Google-Trends-Keywords-Scraper)|0|0|2024-04-15T19:48:02Z|
 |[wanghaisheng/relivator-nextjs-template](https://github.com/wanghaisheng/relivator-nextjs-template)|0|0|2024-04-15T18:47:45Z|
 |[wanghaisheng/AmazonReviews2023](https://github.com/wanghaisheng/AmazonReviews2023)|1|0|2024-04-09T04:15:49Z|
@@ -2354,9 +2355,9 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5711|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1241|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1118|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1087|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1242|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1119|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1088|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1012|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|425|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|100|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
