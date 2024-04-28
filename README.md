@@ -4,22 +4,23 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-04-27 08:11:39 Asia/Shanghai
+> Automated deployment @ 2024-04-28 08:13:00 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3385
 
-- **Projects**: 2378
+- **Projects**: 2382
 
 ### Sources
 
-- **count**: 441
+- **count**: 442
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-04-27T12:13:48Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-27T00:13:03Z|
 |[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-04-26T14:36:02Z|
 |[wanghaisheng/ahref-free-tool-api](https://github.com/wanghaisheng/ahref-free-tool-api)|0|0|2024-04-26T01:54:40Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-26T00:12:40Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-04-25T20:13:17Z|
 |[wanghaisheng/vercel-amazon-data-insight](https://github.com/wanghaisheng/vercel-amazon-data-insight)|0|0|2024-04-25T17:31:51Z|
 |[wanghaisheng/brand-trust-checker-website](https://github.com/wanghaisheng/brand-trust-checker-website)|0|0|2024-04-25T03:02:48Z|
@@ -460,12 +461,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1937
+- **count**: 1940
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-26T13:09:58Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-26T00:10:51Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-27T13:05:03Z|
+|[wanghaisheng/submit-site-to-marginalia-search](https://github.com/wanghaisheng/submit-site-to-marginalia-search)|0|0|2024-04-27T03:55:52Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-27T00:11:40Z|
 |[wanghaisheng/ComfyUI-OpenVoice](https://github.com/wanghaisheng/ComfyUI-OpenVoice)|0|0|2024-04-25T15:07:17Z|
 |[wanghaisheng/awesome-llm-powered-agent](https://github.com/wanghaisheng/awesome-llm-powered-agent)|0|0|2024-04-25T02:41:08Z|
 |[wanghaisheng/metriport](https://github.com/wanghaisheng/metriport)|0|0|2024-04-24T22:08:07Z|
@@ -478,6 +480,7 @@
 |[wanghaisheng/fast-poster](https://github.com/wanghaisheng/fast-poster)|3|1|2024-04-22T22:43:35Z|
 |[wanghaisheng/TwitterWebscrap](https://github.com/wanghaisheng/TwitterWebscrap)|0|0|2024-04-22T21:33:23Z|
 |[wanghaisheng/starlight-blog-tempalte](https://github.com/wanghaisheng/starlight-blog-tempalte)|1|0|2024-04-22T16:00:58Z|
+|[wanghaisheng/webmaster-helper](https://github.com/wanghaisheng/webmaster-helper)|0|0|2024-04-21T18:00:41Z|
 |[wanghaisheng/URLtoscreenshot-selenium-vercel](https://github.com/wanghaisheng/URLtoscreenshot-selenium-vercel)|0|0|2024-04-21T16:55:05Z|
 |[wanghaisheng/amzn-480p-downloader](https://github.com/wanghaisheng/amzn-480p-downloader)|0|0|2024-04-20T12:40:52Z|
 |[wanghaisheng/GooFuzz](https://github.com/wanghaisheng/GooFuzz)|0|0|2024-04-19T06:25:00Z|
@@ -1306,6 +1309,7 @@
 |[wanghaisheng/bunken](https://github.com/wanghaisheng/bunken)|1|0|2022-09-13T08:12:05Z|
 |[wanghaisheng/uploadmyspot-auto-upload](https://github.com/wanghaisheng/uploadmyspot-auto-upload)|0|0|2022-09-13T02:30:51Z|
 |[wanghaisheng/workers-zig](https://github.com/wanghaisheng/workers-zig)|1|0|2022-09-08T13:59:09Z|
+|[wanghaisheng/osint-api-vercel](https://github.com/wanghaisheng/osint-api-vercel)|0|0|2022-08-30T02:24:55Z|
 |[wanghaisheng/wechat2pdf](https://github.com/wanghaisheng/wechat2pdf)|0|0|2022-08-16T00:43:50Z|
 |[wanghaisheng/blogWriter](https://github.com/wanghaisheng/blogWriter)|1|0|2022-08-12T00:06:54Z|
 |[wanghaisheng/info-hunt](https://github.com/wanghaisheng/info-hunt)|1|0|2022-08-01T18:27:18Z|
