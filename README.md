@@ -4,21 +4,26 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-04-28 08:13:00 Asia/Shanghai
+> Automated deployment @ 2024-04-29 08:10:54 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3385
 
-- **Projects**: 2382
+- **Projects**: 2387
 
 ### Sources
 
-- **count**: 442
+- **count**: 447
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-04-27T12:13:48Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-27T00:13:03Z|
+|[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-04-28T14:51:53Z|
+|[wanghaisheng/health-supplement-brands](https://github.com/wanghaisheng/health-supplement-brands)|0|0|2024-04-28T05:53:27Z|
+|[wanghaisheng/health-supplements-store-2](https://github.com/wanghaisheng/health-supplements-store-2)|0|0|2024-04-28T05:25:13Z|
+|[wanghaisheng/health-supplements-store](https://github.com/wanghaisheng/health-supplements-store)|0|0|2024-04-28T05:24:56Z|
+|[wanghaisheng/video.askguasha.com](https://github.com/wanghaisheng/video.askguasha.com)|0|0|2024-04-28T04:47:03Z|
+|[wanghaisheng/pegasus-ai](https://github.com/wanghaisheng/pegasus-ai)|0|0|2024-04-28T04:42:49Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-04-28T00:14:30Z|
 |[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-04-26T14:36:02Z|
 |[wanghaisheng/ahref-free-tool-api](https://github.com/wanghaisheng/ahref-free-tool-api)|0|0|2024-04-26T01:54:40Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-04-25T20:13:17Z|
@@ -465,9 +470,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-27T13:05:03Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-04-28T13:08:35Z|
+|[wanghaisheng/letsmove](https://github.com/wanghaisheng/letsmove)|0|0|2024-04-28T01:47:33Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-28T00:13:01Z|
 |[wanghaisheng/submit-site-to-marginalia-search](https://github.com/wanghaisheng/submit-site-to-marginalia-search)|0|0|2024-04-27T03:55:52Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-04-27T00:11:40Z|
 |[wanghaisheng/ComfyUI-OpenVoice](https://github.com/wanghaisheng/ComfyUI-OpenVoice)|0|0|2024-04-25T15:07:17Z|
 |[wanghaisheng/awesome-llm-powered-agent](https://github.com/wanghaisheng/awesome-llm-powered-agent)|0|0|2024-04-25T02:41:08Z|
 |[wanghaisheng/metriport](https://github.com/wanghaisheng/metriport)|0|0|2024-04-24T22:08:07Z|
@@ -494,7 +500,6 @@
 |[wanghaisheng/puppeteer-running-in-vercel](https://github.com/wanghaisheng/puppeteer-running-in-vercel)|0|0|2024-04-04T11:25:16Z|
 |[wanghaisheng/e7Helper](https://github.com/wanghaisheng/e7Helper)|0|0|2024-03-31T03:14:01Z|
 |[wanghaisheng/SaaS-Boilerplate](https://github.com/wanghaisheng/SaaS-Boilerplate)|1|0|2024-03-30T13:40:20Z|
-|[wanghaisheng/letsmove](https://github.com/wanghaisheng/letsmove)|0|0|2024-03-28T01:46:13Z|
 |[wanghaisheng/taoism-fans](https://github.com/wanghaisheng/taoism-fans)|0|0|2024-03-25T13:54:55Z|
 |[wanghaisheng/crypto-ecosystems](https://github.com/wanghaisheng/crypto-ecosystems)|0|0|2024-03-25T13:43:16Z|
 |[wanghaisheng/Instagram-humanlike-bot](https://github.com/wanghaisheng/Instagram-humanlike-bot)|1|0|2024-03-22T20:04:59Z|
