@@ -4,23 +4,26 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-02 08:11:13 Asia/Shanghai
+> Automated deployment @ 2024-05-03 08:11:33 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3388
 
-- **Projects**: 2395
+- **Projects**: 2401
 
 ### Sources
 
-- **count**: 449
+- **count**: 452
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-05-01T00:50:23Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-05-01T00:13:26Z|
+|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-05-02T23:01:26Z|
+|[wanghaisheng/cloudflare-page-to-vless](https://github.com/wanghaisheng/cloudflare-page-to-vless)|0|0|2024-05-02T15:33:20Z|
+|[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-05-02T14:37:19Z|
+|[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-05-02T13:19:15Z|
+|[wanghaisheng/cutsom-mahjong-store](https://github.com/wanghaisheng/cutsom-mahjong-store)|0|0|2024-05-02T13:00:55Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-05-02T00:12:37Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2024-04-29T21:31:22Z|
-|[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-04-29T14:25:05Z|
 |[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-04-28T14:51:53Z|
 |[wanghaisheng/health-supplement-brands](https://github.com/wanghaisheng/health-supplement-brands)|0|0|2024-04-28T05:53:27Z|
 |[wanghaisheng/health-supplements-store-2](https://github.com/wanghaisheng/health-supplements-store-2)|0|0|2024-04-28T05:25:13Z|
@@ -468,13 +471,17 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1946
+- **count**: 1949
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-01T13:02:26Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-01T00:12:20Z|
+|[wanghaisheng/WeChatMsg-exporter](https://github.com/wanghaisheng/WeChatMsg-exporter)|1|0|2024-05-02T14:47:19Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-02T13:02:57Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-02T00:11:14Z|
+|[wanghaisheng/papapi-payment-api](https://github.com/wanghaisheng/papapi-payment-api)|0|0|2024-05-01T13:58:27Z|
+|[wanghaisheng/custom-service-store](https://github.com/wanghaisheng/custom-service-store)|0|0|2024-04-30T17:27:56Z|
 |[wanghaisheng/Grants-Program](https://github.com/wanghaisheng/Grants-Program)|0|0|2024-04-28T06:39:51Z|
+|[wanghaisheng/purly-saas-qr-code](https://github.com/wanghaisheng/purly-saas-qr-code)|0|0|2024-04-28T04:14:20Z|
 |[wanghaisheng/letsmove](https://github.com/wanghaisheng/letsmove)|0|0|2024-04-28T01:47:33Z|
 |[wanghaisheng/submit-site-to-marginalia-search](https://github.com/wanghaisheng/submit-site-to-marginalia-search)|0|0|2024-04-27T03:55:52Z|
 |[wanghaisheng/web3-ethereum-defi](https://github.com/wanghaisheng/web3-ethereum-defi)|0|0|2024-04-26T20:32:05Z|
@@ -727,7 +734,6 @@
 |[wanghaisheng/SmokeDetector](https://github.com/wanghaisheng/SmokeDetector)|1|0|2023-12-12T23:48:34Z|
 |[wanghaisheng/self-deploy-every-chatgpt-gui](https://github.com/wanghaisheng/self-deploy-every-chatgpt-gui)|0|0|2023-12-12T21:27:14Z|
 |[wanghaisheng/instagraph-program-seo](https://github.com/wanghaisheng/instagraph-program-seo)|0|0|2023-12-12T20:18:41Z|
-|[wanghaisheng/WeChatMsg-exporter](https://github.com/wanghaisheng/WeChatMsg-exporter)|1|0|2023-12-12T15:54:49Z|
 |[wanghaisheng/TeyvatGuide](https://github.com/wanghaisheng/TeyvatGuide)|0|0|2023-12-12T14:14:36Z|
 |[wanghaisheng/next-saas-stripe-starter](https://github.com/wanghaisheng/next-saas-stripe-starter)|0|0|2023-12-12T12:50:06Z|
 |[wanghaisheng/Tautulli](https://github.com/wanghaisheng/Tautulli)|0|0|2023-12-11T17:55:51Z|
@@ -2425,7 +2431,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5721|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1247|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1248|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1124|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1093|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1011|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
