@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-05 08:12:22 Asia/Shanghai
+> Automated deployment @ 2024-05-06 08:11:34 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3388
 
-- **Projects**: 2401
+- **Projects**: 2404
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-05-04T14:58:39Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-05-04T00:12:25Z|
+|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-05-05T07:29:47Z|
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-05-05T00:13:41Z|
 |[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-05-03T15:51:11Z|
 |[wanghaisheng/cloudflare-page-to-vless](https://github.com/wanghaisheng/cloudflare-page-to-vless)|0|0|2024-05-02T15:33:20Z|
 |[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-05-02T13:19:15Z|
@@ -471,12 +471,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1949
+- **count**: 1952
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-04T13:07:10Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-03T00:11:33Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-05T13:07:31Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-05T00:12:23Z|
+|[wanghaisheng/ASL_Gemini_App](https://github.com/wanghaisheng/ASL_Gemini_App)|0|0|2024-05-02T23:23:26Z|
 |[wanghaisheng/WeChatMsg-exporter](https://github.com/wanghaisheng/WeChatMsg-exporter)|1|0|2024-05-02T14:47:19Z|
 |[wanghaisheng/papapi-payment-api](https://github.com/wanghaisheng/papapi-payment-api)|0|0|2024-05-01T13:58:27Z|
 |[wanghaisheng/custom-service-store](https://github.com/wanghaisheng/custom-service-store)|0|0|2024-04-30T17:27:56Z|
@@ -963,6 +964,7 @@
 |[wanghaisheng/understanding-astro-book-zh](https://github.com/wanghaisheng/understanding-astro-book-zh)|1|0|2023-08-15T14:41:24Z|
 |[wanghaisheng/book-by-ai](https://github.com/wanghaisheng/book-by-ai)|0|0|2023-08-14T09:32:25Z|
 |[wanghaisheng/image-2-story](https://github.com/wanghaisheng/image-2-story)|1|0|2023-08-14T00:05:50Z|
+|[wanghaisheng/shopping-bot-framework](https://github.com/wanghaisheng/shopping-bot-framework)|0|0|2023-08-13T14:46:37Z|
 |[wanghaisheng/lychee-action](https://github.com/wanghaisheng/lychee-action)|0|0|2023-08-13T12:36:56Z|
 |[wanghaisheng/pytest-selenium-django-tutorial](https://github.com/wanghaisheng/pytest-selenium-django-tutorial)|0|0|2023-08-12T10:38:49Z|
 |[wanghaisheng/VirtualWife](https://github.com/wanghaisheng/VirtualWife)|0|0|2023-08-12T10:38:34Z|
@@ -1156,7 +1158,7 @@
 |[wanghaisheng/fakebrowser](https://github.com/wanghaisheng/fakebrowser)|1|0|2023-05-11T07:02:56Z|
 |[wanghaisheng/bandwidth-hero-proxy2](https://github.com/wanghaisheng/bandwidth-hero-proxy2)|1|0|2023-05-10T08:26:05Z|
 |[wanghaisheng/Youtube_ADs_AI_Detective](https://github.com/wanghaisheng/Youtube_ADs_AI_Detective)|2|0|2023-05-09T08:45:37Z|
-|[wanghaisheng/top_youtube_creator_transcript_to_ebook](https://github.com/wanghaisheng/top_youtube_creator_transcript_to_ebook)|2|0|2023-05-09T05:45:48Z|
+|[wanghaisheng/top_youtube_creator_transcript_to_ebook](https://github.com/wanghaisheng/top_youtube_creator_transcript_to_ebook)|3|0|2023-05-09T05:45:48Z|
 |[wanghaisheng/landing-page-book-astro-svelte-tailwind](https://github.com/wanghaisheng/landing-page-book-astro-svelte-tailwind)|0|0|2023-05-08T20:24:17Z|
 |[wanghaisheng/kiss-friends-dating-app](https://github.com/wanghaisheng/kiss-friends-dating-app)|1|0|2023-05-08T05:11:34Z|
 |[wanghaisheng/Image-steganography](https://github.com/wanghaisheng/Image-steganography)|1|0|2023-05-07T15:10:43Z|
@@ -1332,6 +1334,7 @@
 |[wanghaisheng/wechat2pdf](https://github.com/wanghaisheng/wechat2pdf)|0|0|2022-08-16T00:43:50Z|
 |[wanghaisheng/blogWriter](https://github.com/wanghaisheng/blogWriter)|1|0|2022-08-12T00:06:54Z|
 |[wanghaisheng/info-hunt](https://github.com/wanghaisheng/info-hunt)|1|0|2022-08-01T18:27:18Z|
+|[wanghaisheng/gtrends-dga](https://github.com/wanghaisheng/gtrends-dga)|0|0|2022-08-01T10:12:31Z|
 |[wanghaisheng/kw-tool](https://github.com/wanghaisheng/kw-tool)|0|0|2022-07-26T01:14:18Z|
 |[wanghaisheng/arxiv-exporter](https://github.com/wanghaisheng/arxiv-exporter)|0|0|2022-07-20T10:35:33Z|
 |[wanghaisheng/chatbot-IoT-terminal](https://github.com/wanghaisheng/chatbot-IoT-terminal)|0|0|2022-07-16T15:54:46Z|
@@ -2431,7 +2434,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5721|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1248|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1249|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1124|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1096|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1011|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
