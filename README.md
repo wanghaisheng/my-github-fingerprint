@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-14 08:11:50 Asia/Shanghai
+> Automated deployment @ 2024-05-15 08:12:00 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3393
+- **Total_stars_earned**: 3392
 
-- **Projects**: 2420
+- **Projects**: 2423
 
 ### Sources
 
@@ -17,10 +17,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|1|2024-05-14T00:12:58Z|
 |[wanghaisheng/tiktoka-studio-app-tauri-nextjs](https://github.com/wanghaisheng/tiktoka-studio-app-tauri-nextjs)|1|0|2024-05-13T21:28:19Z|
 |[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-05-13T15:15:09Z|
 |[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-05-13T03:17:13Z|
-|[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|0|2024-05-13T00:13:23Z|
 |[wanghaisheng/astroid-proxy](https://github.com/wanghaisheng/astroid-proxy)|0|0|2024-05-08T18:47:32Z|
 |[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-05-08T14:34:52Z|
 |[wanghaisheng/upwork-amazon-wholesale](https://github.com/wanghaisheng/upwork-amazon-wholesale)|0|0|2024-05-07T17:05:09Z|
@@ -77,7 +77,7 @@
 |[wanghaisheng/convert-file-to-video](https://github.com/wanghaisheng/convert-file-to-video)|0|0|2024-01-16T03:28:30Z|
 |[wanghaisheng/Longevity-diet-recipes](https://github.com/wanghaisheng/Longevity-diet-recipes)|1|0|2024-01-15T07:22:02Z|
 |[wanghaisheng/.github](https://github.com/wanghaisheng/.github)|0|0|2024-01-15T07:10:16Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|236|46|2024-01-04T06:44:39Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|235|46|2024-01-04T06:44:39Z|
 |[wanghaisheng/vue-next-sqljs-starter](https://github.com/wanghaisheng/vue-next-sqljs-starter)|0|0|2024-01-01T00:52:02Z|
 |[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|1|0|2023-12-29T09:14:00Z|
 |[wanghaisheng/Session-Replay-Videos-to-steps](https://github.com/wanghaisheng/Session-Replay-Videos-to-steps)|0|0|2023-12-28T09:09:38Z|
@@ -474,16 +474,18 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 1965
+- **count**: 1968
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-13T13:03:35Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-13T00:12:06Z|
+|[wanghaisheng/yakumo](https://github.com/wanghaisheng/yakumo)|0|0|2024-05-14T17:55:39Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-05-14T13:04:46Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-05-14T00:11:51Z|
 |[wanghaisheng/1688-scraper](https://github.com/wanghaisheng/1688-scraper)|0|0|2024-05-09T15:46:07Z|
 |[wanghaisheng/openai-cf-workers-ai](https://github.com/wanghaisheng/openai-cf-workers-ai)|0|0|2024-05-06T15:14:43Z|
 |[wanghaisheng/ASL_Gemini_App](https://github.com/wanghaisheng/ASL_Gemini_App)|0|0|2024-05-02T23:23:26Z|
 |[wanghaisheng/WeChatMsg-exporter](https://github.com/wanghaisheng/WeChatMsg-exporter)|1|0|2024-05-02T14:47:19Z|
+|[wanghaisheng/osint_stuff_tool_collection](https://github.com/wanghaisheng/osint_stuff_tool_collection)|0|0|2024-05-02T12:57:48Z|
 |[wanghaisheng/papapi-payment-api](https://github.com/wanghaisheng/papapi-payment-api)|0|0|2024-05-01T13:58:27Z|
 |[wanghaisheng/custom-service-store](https://github.com/wanghaisheng/custom-service-store)|0|0|2024-04-30T17:27:56Z|
 |[wanghaisheng/Grants-Program](https://github.com/wanghaisheng/Grants-Program)|0|0|2024-04-28T06:39:51Z|
@@ -1871,6 +1873,7 @@
 |[wanghaisheng/nft-gift](https://github.com/wanghaisheng/nft-gift)|0|0|2021-10-20T13:15:25Z|
 |[wanghaisheng/Pin-Bot](https://github.com/wanghaisheng/Pin-Bot)|0|0|2021-10-17T22:37:04Z|
 |[wanghaisheng/webflow-medium](https://github.com/wanghaisheng/webflow-medium)|0|0|2021-10-15T19:13:04Z|
+|[wanghaisheng/investigation-amazon-brands](https://github.com/wanghaisheng/investigation-amazon-brands)|0|0|2021-10-15T03:49:48Z|
 |[wanghaisheng/eel-starter-pass-gen](https://github.com/wanghaisheng/eel-starter-pass-gen)|0|0|2021-10-14T02:34:57Z|
 |[wanghaisheng/shopify_django_app](https://github.com/wanghaisheng/shopify_django_app)|0|0|2021-10-13T13:26:22Z|
 |[wanghaisheng/butEveryWordIsAGoogleImage](https://github.com/wanghaisheng/butEveryWordIsAGoogleImage)|1|0|2021-10-12T23:06:45Z|
@@ -2449,8 +2452,8 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5735|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1254|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5736|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1253|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1128|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1102|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1011|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
