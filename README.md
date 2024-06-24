@@ -4,19 +4,20 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-06-23 08:12:38 Asia/Shanghai
+> Automated deployment @ 2024-06-24 08:12:52 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3423
 
-- **Projects**: 2614
+- **Projects**: 2616
 
 ### Sources
 
-- **count**: 490
+- **count**: 491
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/learn-seo-from-master](https://github.com/wanghaisheng/learn-seo-from-master)|0|0|2024-06-23T15:29:34Z|
 |[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|1|1|2024-06-22T15:13:38Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|0|0|2024-06-22T11:15:01Z|
 |[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|252|51|2024-06-22T09:33:26Z|
@@ -509,18 +510,19 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 2124
+- **count**: 2125
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-06-22T13:05:45Z|
+|[wanghaisheng/AI-Vtuber](https://github.com/wanghaisheng/AI-Vtuber)|1|0|2024-06-23T18:18:41Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-06-23T13:01:25Z|
+|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-23T10:06:18Z|
+|[wanghaisheng/InteliLink](https://github.com/wanghaisheng/InteliLink)|0|0|2024-06-23T05:59:35Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-23T00:12:39Z|
 |[wanghaisheng/proxy-scraper-checker](https://github.com/wanghaisheng/proxy-scraper-checker)|0|0|2024-06-22T11:12:05Z|
-|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-22T10:06:27Z|
-|[wanghaisheng/AI-Vtuber](https://github.com/wanghaisheng/AI-Vtuber)|0|0|2024-06-22T09:54:22Z|
 |[wanghaisheng/gradio-chatbot](https://github.com/wanghaisheng/gradio-chatbot)|0|0|2024-06-22T08:36:13Z|
 |[wanghaisheng/StarRailOneDragon](https://github.com/wanghaisheng/StarRailOneDragon)|0|0|2024-06-22T07:13:29Z|
 |[wanghaisheng/kitsu-web-daohang](https://github.com/wanghaisheng/kitsu-web-daohang)|1|0|2024-06-22T01:04:42Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-22T00:12:12Z|
 |[wanghaisheng/micro-saas-landingpage](https://github.com/wanghaisheng/micro-saas-landingpage)|0|0|2024-06-21T17:31:10Z|
 |[wanghaisheng/StarRailCopilot](https://github.com/wanghaisheng/StarRailCopilot)|0|0|2024-06-21T17:04:44Z|
 |[wanghaisheng/rss-bridge](https://github.com/wanghaisheng/rss-bridge)|0|0|2024-06-21T13:47:34Z|
@@ -534,6 +536,7 @@
 |[wanghaisheng/social-account-genious](https://github.com/wanghaisheng/social-account-genious)|1|0|2024-06-20T03:18:43Z|
 |[wanghaisheng/LinksHub](https://github.com/wanghaisheng/LinksHub)|0|0|2024-06-19T18:54:10Z|
 |[wanghaisheng/remote-chrome](https://github.com/wanghaisheng/remote-chrome)|0|0|2024-06-19T06:31:35Z|
+|[wanghaisheng/domain-digger](https://github.com/wanghaisheng/domain-digger)|0|0|2024-06-18T18:29:55Z|
 |[wanghaisheng/monofy-ai](https://github.com/wanghaisheng/monofy-ai)|0|0|2024-06-18T14:14:43Z|
 |[wanghaisheng/gitroom](https://github.com/wanghaisheng/gitroom)|0|0|2024-06-18T04:11:28Z|
 |[wanghaisheng/sigma-threat-detection](https://github.com/wanghaisheng/sigma-threat-detection)|0|0|2024-06-18T01:29:26Z|
@@ -596,7 +599,6 @@
 |[wanghaisheng/StoryStorm](https://github.com/wanghaisheng/StoryStorm)|1|0|2024-05-27T19:00:16Z|
 |[wanghaisheng/game-shorts-app](https://github.com/wanghaisheng/game-shorts-app)|1|0|2024-05-27T18:09:53Z|
 |[wanghaisheng/WeChatMassTool-uiautomation](https://github.com/wanghaisheng/WeChatMassTool-uiautomation)|0|0|2024-05-26T16:44:32Z|
-|[wanghaisheng/InteliLink](https://github.com/wanghaisheng/InteliLink)|0|0|2024-05-26T00:04:54Z|
 |[wanghaisheng/python-daily-toolkits](https://github.com/wanghaisheng/python-daily-toolkits)|1|0|2024-05-25T17:39:37Z|
 |[wanghaisheng/IP-and-Patent-Search-Chatbot](https://github.com/wanghaisheng/IP-and-Patent-Search-Chatbot)|0|0|2024-05-25T15:08:07Z|
 |[wanghaisheng/keepa](https://github.com/wanghaisheng/keepa)|0|0|2024-05-25T07:33:44Z|
