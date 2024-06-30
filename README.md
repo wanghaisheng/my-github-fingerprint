@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-06-29 08:11:48 Asia/Shanghai
+> Automated deployment @ 2024-06-30 08:13:19 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3429
 
-- **Projects**: 2651
+- **Projects**: 2652
 
 ### Sources
 
@@ -17,14 +17,14 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-06-29T18:11:17Z|
+|[wanghaisheng/playground-with-cloudflare-radar](https://github.com/wanghaisheng/playground-with-cloudflare-radar)|0|0|2024-06-29T02:11:51Z|
 |[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-06-28T23:14:54Z|
 |[wanghaisheng/use-cf-radar-url-scan-screenshot](https://github.com/wanghaisheng/use-cf-radar-url-scan-screenshot)|0|0|2024-06-28T21:50:49Z|
 |[wanghaisheng/astroid-proxy](https://github.com/wanghaisheng/astroid-proxy)|0|0|2024-06-28T18:21:59Z|
-|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-06-28T15:30:12Z|
 |[wanghaisheng/brand-trust-lp2](https://github.com/wanghaisheng/brand-trust-lp2)|0|0|2024-06-28T14:43:31Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|0|0|2024-06-28T13:58:19Z|
 |[wanghaisheng/how-to-let-ai-do-your-shitty](https://github.com/wanghaisheng/how-to-let-ai-do-your-shitty)|0|0|2024-06-28T09:11:55Z|
-|[wanghaisheng/playground-with-cloudflare-radar](https://github.com/wanghaisheng/playground-with-cloudflare-radar)|0|0|2024-06-28T07:53:54Z|
 |[wanghaisheng/build-website-in-json](https://github.com/wanghaisheng/build-website-in-json)|0|0|2024-06-27T03:43:43Z|
 |[wanghaisheng/pink-design-website-landingpage-starter](https://github.com/wanghaisheng/pink-design-website-landingpage-starter)|0|0|2024-06-26T18:51:12Z|
 |[wanghaisheng/check-rdap-server](https://github.com/wanghaisheng/check-rdap-server)|0|0|2024-06-25T15:24:10Z|
@@ -517,13 +517,13 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 2153
+- **count**: 2154
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-28T14:24:10Z|
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-06-28T13:06:38Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-28T00:12:07Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-06-29T13:02:28Z|
+|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-29T10:05:58Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-29T00:11:48Z|
 |[wanghaisheng/supermemory](https://github.com/wanghaisheng/supermemory)|0|0|2024-06-27T00:01:52Z|
 |[wanghaisheng/pytrends](https://github.com/wanghaisheng/pytrends)|0|0|2024-06-26T10:31:37Z|
 |[wanghaisheng/R2R-Dashboard-chatmanual](https://github.com/wanghaisheng/R2R-Dashboard-chatmanual)|0|0|2024-06-26T04:55:02Z|
@@ -533,6 +533,7 @@
 |[wanghaisheng/app-keyword-explorer](https://github.com/wanghaisheng/app-keyword-explorer)|0|0|2024-06-24T04:33:37Z|
 |[wanghaisheng/AI-Vtuber](https://github.com/wanghaisheng/AI-Vtuber)|1|0|2024-06-23T18:18:41Z|
 |[wanghaisheng/InteliLink](https://github.com/wanghaisheng/InteliLink)|0|0|2024-06-23T05:59:35Z|
+|[wanghaisheng/puppeteer-lambda](https://github.com/wanghaisheng/puppeteer-lambda)|0|0|2024-06-23T05:43:20Z|
 |[wanghaisheng/browsertrix-crawler-contact-us](https://github.com/wanghaisheng/browsertrix-crawler-contact-us)|0|0|2024-06-23T02:13:45Z|
 |[wanghaisheng/proxy-scraper-checker](https://github.com/wanghaisheng/proxy-scraper-checker)|0|0|2024-06-22T11:12:05Z|
 |[wanghaisheng/gradio-chatbot](https://github.com/wanghaisheng/gradio-chatbot)|0|0|2024-06-22T08:36:13Z|
@@ -551,7 +552,7 @@
 |[wanghaisheng/auto-submit-urls-to-SEO](https://github.com/wanghaisheng/auto-submit-urls-to-SEO)|0|0|2024-06-20T04:23:37Z|
 |[wanghaisheng/social-account-genious](https://github.com/wanghaisheng/social-account-genious)|1|0|2024-06-20T03:18:43Z|
 |[wanghaisheng/LinksHub](https://github.com/wanghaisheng/LinksHub)|0|0|2024-06-19T18:54:10Z|
-|[wanghaisheng/SingleFile](https://github.com/wanghaisheng/SingleFile)|0|0|2024-06-19T15:11:57Z|
+|[wanghaisheng/save-web-to-notion](https://github.com/wanghaisheng/save-web-to-notion)|0|0|2024-06-19T15:11:57Z|
 |[wanghaisheng/remote-chrome](https://github.com/wanghaisheng/remote-chrome)|0|0|2024-06-19T06:31:35Z|
 |[wanghaisheng/domain-digger](https://github.com/wanghaisheng/domain-digger)|0|0|2024-06-18T18:29:55Z|
 |[wanghaisheng/monofy-ai](https://github.com/wanghaisheng/monofy-ai)|0|0|2024-06-18T14:14:43Z|
