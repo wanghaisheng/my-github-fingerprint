@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-06-30 08:13:19 Asia/Shanghai
+> Automated deployment @ 2024-07-01 08:13:46 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3429
 
-- **Projects**: 2652
+- **Projects**: 2653
 
 ### Sources
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-06-29T18:11:17Z|
+|[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|0|0|2024-07-01T00:10:15Z|
 |[wanghaisheng/playground-with-cloudflare-radar](https://github.com/wanghaisheng/playground-with-cloudflare-radar)|0|0|2024-06-29T02:11:51Z|
 |[wanghaisheng/amazon-lastmonthsales-api-vercel](https://github.com/wanghaisheng/amazon-lastmonthsales-api-vercel)|0|0|2024-06-28T23:14:54Z|
 |[wanghaisheng/use-cf-radar-url-scan-screenshot](https://github.com/wanghaisheng/use-cf-radar-url-scan-screenshot)|0|0|2024-06-28T21:50:49Z|
@@ -236,7 +236,7 @@
 |[wanghaisheng/brandninja](https://github.com/wanghaisheng/brandninja)|1|0|2023-01-11T21:06:46Z|
 |[wanghaisheng/AdsPower-1](https://github.com/wanghaisheng/AdsPower-1)|1|1|2023-01-11T06:11:32Z|
 |[wanghaisheng/AZTEC](https://github.com/wanghaisheng/AZTEC)|0|0|2022-12-21T11:47:09Z|
-|[wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)|491|129|2022-11-30T11:15:29Z|
+|[wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)|491|127|2022-11-30T11:15:29Z|
 |[wanghaisheng/tiktok-trending-api-data-archive](https://github.com/wanghaisheng/tiktok-trending-api-data-archive)|3|0|2022-11-15T00:22:54Z|
 |[wanghaisheng/citespace-auto](https://github.com/wanghaisheng/citespace-auto)|0|0|2022-07-21T12:58:03Z|
 |[wanghaisheng/Door-Prints-in-china](https://github.com/wanghaisheng/Door-Prints-in-china)|1|0|2022-07-13T21:17:36Z|
@@ -517,13 +517,14 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 2154
+- **count**: 2155
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-06-29T13:02:28Z|
-|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-29T10:05:58Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-29T00:11:48Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-07-01T00:12:56Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|0|0|2024-07-01T00:10:13Z|
+|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-06-30T15:31:15Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-06-30T00:13:19Z|
 |[wanghaisheng/supermemory](https://github.com/wanghaisheng/supermemory)|0|0|2024-06-27T00:01:52Z|
 |[wanghaisheng/pytrends](https://github.com/wanghaisheng/pytrends)|0|0|2024-06-26T10:31:37Z|
 |[wanghaisheng/R2R-Dashboard-chatmanual](https://github.com/wanghaisheng/R2R-Dashboard-chatmanual)|0|0|2024-06-26T04:55:02Z|
@@ -2681,10 +2682,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5765|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1278|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5764|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1281|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1150|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1108|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1109|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1013|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|425|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|101|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
