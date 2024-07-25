@@ -4,26 +4,34 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-07-24 08:13:15 Asia/Shanghai
+> Automated deployment @ 2024-07-25 08:11:49 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3491
+- **Total_stars_earned**: 3494
 
-- **Projects**: 2897
+- **Projects**: 2917
 
 ### Sources
 
-- **count**: 548
+- **count**: 551
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/screen-recording-tell](https://github.com/wanghaisheng/screen-recording-tell)|0|0|2024-07-23T22:56:13Z|
+|[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|1|0|2024-07-24T23:18:04Z|
+|[wanghaisheng/agent-markdown-browser](https://github.com/wanghaisheng/agent-markdown-browser)|0|0|2024-07-24T23:11:35Z|
+|[wanghaisheng/thread-similarity](https://github.com/wanghaisheng/thread-similarity)|0|0|2024-07-24T23:07:24Z|
+|[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|1|0|2024-07-24T22:59:11Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|263|54|2024-07-24T19:19:26Z|
+|[wanghaisheng/wanghaisheng.github.io](https://github.com/wanghaisheng/wanghaisheng.github.io)|17|3|2024-07-24T12:38:03Z|
+|[wanghaisheng/supplements-tell](https://github.com/wanghaisheng/supplements-tell)|1|0|2024-07-24T11:46:11Z|
+|[wanghaisheng/screen-recording-tell](https://github.com/wanghaisheng/screen-recording-tell)|0|0|2024-07-24T11:04:23Z|
+|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2024-07-24T10:23:10Z|
+|[wanghaisheng/snap-hub](https://github.com/wanghaisheng/snap-hub)|0|0|2024-07-24T07:04:58Z|
+|[wanghaisheng/domain-tell](https://github.com/wanghaisheng/domain-tell)|0|0|2024-07-24T05:09:01Z|
 |[wanghaisheng/remix-artificates](https://github.com/wanghaisheng/remix-artificates)|0|0|2024-07-23T01:52:15Z|
 |[wanghaisheng/astroid-proxy](https://github.com/wanghaisheng/astroid-proxy)|1|0|2024-07-22T18:19:40Z|
 |[wanghaisheng/genshin-style-hub](https://github.com/wanghaisheng/genshin-style-hub)|0|0|2024-07-22T14:23:34Z|
 |[wanghaisheng/ai-twitter-trend-bot](https://github.com/wanghaisheng/ai-twitter-trend-bot)|0|0|2024-07-22T11:36:56Z|
-|[wanghaisheng/snap-hub](https://github.com/wanghaisheng/snap-hub)|0|0|2024-07-22T06:36:08Z|
-|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2024-07-22T05:57:26Z|
 |[wanghaisheng/where-to-find-dataset](https://github.com/wanghaisheng/where-to-find-dataset)|0|0|2024-07-22T03:32:56Z|
 |[wanghaisheng/detect-amazon-seller-brands](https://github.com/wanghaisheng/detect-amazon-seller-brands)|0|0|2024-07-22T02:43:13Z|
 |[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-07-22T02:37:25Z|
@@ -35,7 +43,6 @@
 |[wanghaisheng/arxiv-paper-daily-page-template](https://github.com/wanghaisheng/arxiv-paper-daily-page-template)|3|2|2024-07-19T13:08:29Z|
 |[wanghaisheng/mobile-agent-vs-bdd](https://github.com/wanghaisheng/mobile-agent-vs-bdd)|0|0|2024-07-19T09:25:24Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|3|2|2024-07-19T02:29:05Z|
-|[wanghaisheng/flybirds-gpt](https://github.com/wanghaisheng/flybirds-gpt)|1|0|2024-07-18T12:51:32Z|
 |[wanghaisheng/live-streaming-transcript-dataset](https://github.com/wanghaisheng/live-streaming-transcript-dataset)|3|2|2024-07-18T12:08:43Z|
 |[wanghaisheng/keyword-genius](https://github.com/wanghaisheng/keyword-genius)|1|1|2024-07-18T11:56:22Z|
 |[wanghaisheng/html2md-benchmark](https://github.com/wanghaisheng/html2md-benchmark)|0|0|2024-07-18T10:36:27Z|
@@ -44,7 +51,6 @@
 |[wanghaisheng/rss-genius](https://github.com/wanghaisheng/rss-genius)|0|0|2024-07-18T08:56:54Z|
 |[wanghaisheng/capcut-tweets-capture](https://github.com/wanghaisheng/capcut-tweets-capture)|2|1|2024-07-17T23:23:08Z|
 |[wanghaisheng/early-adopter-finder](https://github.com/wanghaisheng/early-adopter-finder)|0|0|2024-07-17T05:30:18Z|
-|[wanghaisheng/domain-tell](https://github.com/wanghaisheng/domain-tell)|0|0|2024-07-17T04:45:50Z|
 |[wanghaisheng/clone-website-extension](https://github.com/wanghaisheng/clone-website-extension)|0|0|2024-07-17T01:05:00Z|
 |[wanghaisheng/chrome-extension-helper](https://github.com/wanghaisheng/chrome-extension-helper)|0|0|2024-07-17T00:44:07Z|
 |[wanghaisheng/ahrefs-youtube-transcripts](https://github.com/wanghaisheng/ahrefs-youtube-transcripts)|0|0|2024-07-15T07:20:40Z|
@@ -92,7 +98,6 @@
 |[wanghaisheng/ai-alternative-tags-tiktok](https://github.com/wanghaisheng/ai-alternative-tags-tiktok)|1|0|2024-06-24T08:15:54Z|
 |[wanghaisheng/smart-watch-app-reviews-scrape](https://github.com/wanghaisheng/smart-watch-app-reviews-scrape)|1|0|2024-06-24T05:10:12Z|
 |[wanghaisheng/monitor-app-review](https://github.com/wanghaisheng/monitor-app-review)|0|0|2024-06-24T02:25:34Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|262|54|2024-06-22T09:33:26Z|
 |[wanghaisheng/keywords_SERP_clustering](https://github.com/wanghaisheng/keywords_SERP_clustering)|0|0|2024-06-21T11:59:56Z|
 |[wanghaisheng/old-post-to-code](https://github.com/wanghaisheng/old-post-to-code)|1|0|2024-06-19T12:59:09Z|
 |[wanghaisheng/google-daily-trends](https://github.com/wanghaisheng/google-daily-trends)|1|0|2024-06-19T08:20:45Z|
@@ -188,7 +193,6 @@
 |[wanghaisheng/claim-gongde](https://github.com/wanghaisheng/claim-gongde)|0|0|2023-12-16T16:56:51Z|
 |[wanghaisheng/cheapsoftwarelicence.com](https://github.com/wanghaisheng/cheapsoftwarelicence.com)|0|0|2023-12-15T13:07:52Z|
 |[wanghaisheng/tkinter-i18n-app-starter](https://github.com/wanghaisheng/tkinter-i18n-app-starter)|0|0|2023-12-15T11:46:28Z|
-|[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|0|0|2023-12-13T09:01:51Z|
 |[wanghaisheng/muyu-pet](https://github.com/wanghaisheng/muyu-pet)|0|0|2023-12-09T18:55:08Z|
 |[wanghaisheng/time-series-data-playground](https://github.com/wanghaisheng/time-series-data-playground)|0|0|2023-12-08T06:21:50Z|
 |[wanghaisheng/GenshinImpactGacha](https://github.com/wanghaisheng/GenshinImpactGacha)|1|0|2023-12-04T05:20:24Z|
@@ -233,7 +237,6 @@
 |[wanghaisheng/tiktoka-studio-client-app-yew](https://github.com/wanghaisheng/tiktoka-studio-client-app-yew)|0|0|2023-08-31T12:40:16Z|
 |[wanghaisheng/understanding-astro-zh](https://github.com/wanghaisheng/understanding-astro-zh)|0|0|2023-08-21T15:56:29Z|
 |[wanghaisheng/idea-to-action-cycle](https://github.com/wanghaisheng/idea-to-action-cycle)|1|0|2023-08-10T08:31:51Z|
-|[wanghaisheng/wanghaisheng.github.io](https://github.com/wanghaisheng/wanghaisheng.github.io)|17|3|2023-08-09T07:53:54Z|
 |[wanghaisheng/Publicly-Available-Health-Research-Datasets](https://github.com/wanghaisheng/Publicly-Available-Health-Research-Datasets)|0|0|2023-07-28T08:56:00Z|
 |[wanghaisheng/wearable-device-arxiv-paper-daily](https://github.com/wanghaisheng/wearable-device-arxiv-paper-daily)|2|1|2023-07-28T08:19:50Z|
 |[wanghaisheng/tiktoka-studio-gui](https://github.com/wanghaisheng/tiktoka-studio-gui)|1|0|2023-07-19T08:56:29Z|
@@ -567,14 +570,18 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 2349
+- **count**: 2366
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|0|0|2024-07-24T00:09:56Z|
-|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-07-23T14:21:55Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|0|0|2024-07-25T00:08:59Z|
+|[wanghaisheng/autogen](https://github.com/wanghaisheng/autogen)|0|0|2024-07-24T21:39:30Z|
+|[wanghaisheng/RedditVideoMakerBot](https://github.com/wanghaisheng/RedditVideoMakerBot)|0|0|2024-07-24T20:03:56Z|
+|[wanghaisheng/DrissionPage](https://github.com/wanghaisheng/DrissionPage)|0|0|2024-07-24T19:49:02Z|
+|[wanghaisheng/astro-website-template-deprecated](https://github.com/wanghaisheng/astro-website-template-deprecated)|0|0|2024-07-24T16:02:31Z|
+|[wanghaisheng/loong-herb](https://github.com/wanghaisheng/loong-herb)|1|0|2024-07-24T11:46:51Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-07-24T00:13:16Z|
 |[wanghaisheng/Instagram-humanlike-bot](https://github.com/wanghaisheng/Instagram-humanlike-bot)|1|1|2024-07-23T09:49:17Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2024-07-23T00:12:37Z|
 |[wanghaisheng/rss-change-to-telegram](https://github.com/wanghaisheng/rss-change-to-telegram)|0|0|2024-07-22T14:15:55Z|
 |[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|1|1|2024-07-22T03:36:32Z|
 |[wanghaisheng/subfinder-action](https://github.com/wanghaisheng/subfinder-action)|0|0|2024-07-21T06:44:55Z|
@@ -627,6 +634,7 @@
 |[wanghaisheng/haitang](https://github.com/wanghaisheng/haitang)|0|0|2024-07-14T07:27:33Z|
 |[wanghaisheng/cdx_toolkit](https://github.com/wanghaisheng/cdx_toolkit)|0|0|2024-07-13T22:32:47Z|
 |[wanghaisheng/non-typical-OSINT-guide](https://github.com/wanghaisheng/non-typical-OSINT-guide)|0|0|2024-07-13T15:28:48Z|
+|[wanghaisheng/langgraph_streamlit_codeassistant](https://github.com/wanghaisheng/langgraph_streamlit_codeassistant)|0|0|2024-07-13T12:34:25Z|
 |[wanghaisheng/weread-exporter](https://github.com/wanghaisheng/weread-exporter)|0|0|2024-07-12T02:01:42Z|
 |[wanghaisheng/Paints-UNDO](https://github.com/wanghaisheng/Paints-UNDO)|0|0|2024-07-11T19:44:34Z|
 |[wanghaisheng/posthog.com](https://github.com/wanghaisheng/posthog.com)|0|0|2024-07-11T17:23:10Z|
@@ -634,12 +642,14 @@
 |[wanghaisheng/ai-comic-factory](https://github.com/wanghaisheng/ai-comic-factory)|1|0|2024-07-10T16:51:04Z|
 |[wanghaisheng/ai-tube](https://github.com/wanghaisheng/ai-tube)|1|0|2024-07-10T16:21:10Z|
 |[wanghaisheng/filebase-cf](https://github.com/wanghaisheng/filebase-cf)|0|0|2024-07-10T14:22:11Z|
+|[wanghaisheng/pandas-rag-langgraph](https://github.com/wanghaisheng/pandas-rag-langgraph)|0|0|2024-07-10T14:00:17Z|
 |[wanghaisheng/WorkerVless2sub](https://github.com/wanghaisheng/WorkerVless2sub)|0|0|2024-07-10T11:44:41Z|
 |[wanghaisheng/placeholders-image-astro](https://github.com/wanghaisheng/placeholders-image-astro)|1|0|2024-07-10T04:39:45Z|
 |[wanghaisheng/unve1ler-renrou](https://github.com/wanghaisheng/unve1ler-renrou)|0|0|2024-07-10T04:32:12Z|
 |[wanghaisheng/github-repo-tree-structure-image](https://github.com/wanghaisheng/github-repo-tree-structure-image)|0|0|2024-07-10T04:28:58Z|
 |[wanghaisheng/micro-saas-landingpage](https://github.com/wanghaisheng/micro-saas-landingpage)|0|0|2024-07-10T02:19:24Z|
 |[wanghaisheng/save-web-to-notion](https://github.com/wanghaisheng/save-web-to-notion)|0|0|2024-07-10T00:58:05Z|
+|[wanghaisheng/LangGraph-Expense-Tracker](https://github.com/wanghaisheng/LangGraph-Expense-Tracker)|0|0|2024-07-09T14:39:47Z|
 |[wanghaisheng/top_1m_domains](https://github.com/wanghaisheng/top_1m_domains)|0|0|2024-07-09T14:37:15Z|
 |[wanghaisheng/opensaas-starters](https://github.com/wanghaisheng/opensaas-starters)|0|0|2024-07-09T12:41:11Z|
 |[wanghaisheng/next-auth-roles-template](https://github.com/wanghaisheng/next-auth-roles-template)|0|0|2024-07-09T12:29:28Z|
@@ -751,12 +761,12 @@
 |[wanghaisheng/searchengine-and-social-list](https://github.com/wanghaisheng/searchengine-and-social-list)|0|0|2024-06-11T09:49:14Z|
 |[wanghaisheng/behavior3editor](https://github.com/wanghaisheng/behavior3editor)|0|0|2024-06-11T01:38:42Z|
 |[wanghaisheng/agentkit](https://github.com/wanghaisheng/agentkit)|0|0|2024-06-10T17:48:29Z|
+|[wanghaisheng/langgraph-email-automation](https://github.com/wanghaisheng/langgraph-email-automation)|0|0|2024-06-10T15:58:38Z|
 |[wanghaisheng/trump-is-trapped](https://github.com/wanghaisheng/trump-is-trapped)|0|0|2024-06-09T21:18:44Z|
 |[wanghaisheng/douyin-hot-hub](https://github.com/wanghaisheng/douyin-hot-hub)|0|0|2024-06-09T21:15:59Z|
 |[wanghaisheng/chat-game](https://github.com/wanghaisheng/chat-game)|0|0|2024-06-09T17:48:39Z|
 |[wanghaisheng/TikTokDownloader](https://github.com/wanghaisheng/TikTokDownloader)|0|0|2024-06-09T13:41:22Z|
 |[wanghaisheng/phaser-game](https://github.com/wanghaisheng/phaser-game)|0|0|2024-06-09T06:56:58Z|
-|[wanghaisheng/loong-herb](https://github.com/wanghaisheng/loong-herb)|0|0|2024-06-09T04:52:03Z|
 |[wanghaisheng/casibase](https://github.com/wanghaisheng/casibase)|0|0|2024-06-08T01:31:04Z|
 |[wanghaisheng/exitlag-auto-signup](https://github.com/wanghaisheng/exitlag-auto-signup)|0|0|2024-06-07T15:54:47Z|
 |[wanghaisheng/vercel-app-folder-playground](https://github.com/wanghaisheng/vercel-app-folder-playground)|0|0|2024-06-07T13:03:26Z|
@@ -764,10 +774,13 @@
 |[wanghaisheng/SessionShare](https://github.com/wanghaisheng/SessionShare)|0|0|2024-06-07T08:21:00Z|
 |[wanghaisheng/top-1m-domains-weekly-changes](https://github.com/wanghaisheng/top-1m-domains-weekly-changes)|0|0|2024-06-07T08:09:17Z|
 |[wanghaisheng/visaApplication-main](https://github.com/wanghaisheng/visaApplication-main)|0|0|2024-06-06T19:46:11Z|
+|[wanghaisheng/Product_review](https://github.com/wanghaisheng/Product_review)|0|0|2024-06-06T18:15:26Z|
 |[wanghaisheng/supervision-camera](https://github.com/wanghaisheng/supervision-camera)|0|0|2024-06-06T13:41:28Z|
+|[wanghaisheng/financial-chat](https://github.com/wanghaisheng/financial-chat)|0|0|2024-06-05T22:49:09Z|
 |[wanghaisheng/wewe-rss](https://github.com/wanghaisheng/wewe-rss)|0|0|2024-06-05T18:41:58Z|
 |[wanghaisheng/furniture-remix](https://github.com/wanghaisheng/furniture-remix)|0|0|2024-06-04T23:44:20Z|
 |[wanghaisheng/llm-web-api](https://github.com/wanghaisheng/llm-web-api)|0|0|2024-06-04T03:04:33Z|
+|[wanghaisheng/competitor-analysis-bot](https://github.com/wanghaisheng/competitor-analysis-bot)|0|0|2024-06-04T00:51:13Z|
 |[wanghaisheng/RealtimeSTT_LLM_TTS](https://github.com/wanghaisheng/RealtimeSTT_LLM_TTS)|0|0|2024-06-01T16:42:54Z|
 |[wanghaisheng/ChatTTS-webui](https://github.com/wanghaisheng/ChatTTS-webui)|0|0|2024-05-31T14:45:23Z|
 |[wanghaisheng/WebGAL](https://github.com/wanghaisheng/WebGAL)|0|0|2024-05-31T10:50:40Z|
@@ -796,6 +809,7 @@
 |[wanghaisheng/Easy-header](https://github.com/wanghaisheng/Easy-header)|0|0|2024-05-26T08:26:55Z|
 |[wanghaisheng/python-daily-toolkits](https://github.com/wanghaisheng/python-daily-toolkits)|1|0|2024-05-25T17:39:37Z|
 |[wanghaisheng/IP-and-Patent-Search-Chatbot](https://github.com/wanghaisheng/IP-and-Patent-Search-Chatbot)|0|0|2024-05-25T15:08:07Z|
+|[wanghaisheng/streamlit_podcast_generator](https://github.com/wanghaisheng/streamlit_podcast_generator)|0|0|2024-05-25T13:00:30Z|
 |[wanghaisheng/keepa](https://github.com/wanghaisheng/keepa)|0|0|2024-05-25T07:33:44Z|
 |[wanghaisheng/bitcoin-rainbow-chart](https://github.com/wanghaisheng/bitcoin-rainbow-chart)|0|0|2024-05-25T07:19:39Z|
 |[wanghaisheng/brain-train-ai](https://github.com/wanghaisheng/brain-train-ai)|0|0|2024-05-23T23:09:32Z|
@@ -828,6 +842,7 @@
 |[wanghaisheng/URL-Bot](https://github.com/wanghaisheng/URL-Bot)|0|0|2024-05-10T06:40:41Z|
 |[wanghaisheng/just-Text-api](https://github.com/wanghaisheng/just-Text-api)|0|0|2024-05-09T15:55:14Z|
 |[wanghaisheng/Simon-Says-iOS-game](https://github.com/wanghaisheng/Simon-Says-iOS-game)|0|0|2024-05-09T11:28:27Z|
+|[wanghaisheng/AI-Agents-desigb-pattern](https://github.com/wanghaisheng/AI-Agents-desigb-pattern)|0|0|2024-05-07T12:33:28Z|
 |[wanghaisheng/TVBox-url](https://github.com/wanghaisheng/TVBox-url)|0|0|2024-05-07T10:41:24Z|
 |[wanghaisheng/Boggle-Multiplatform-game](https://github.com/wanghaisheng/Boggle-Multiplatform-game)|0|0|2024-05-06T21:43:39Z|
 |[wanghaisheng/openai-cf-workers-ai](https://github.com/wanghaisheng/openai-cf-workers-ai)|0|0|2024-05-06T15:14:43Z|
@@ -842,6 +857,7 @@
 |[wanghaisheng/free-databases](https://github.com/wanghaisheng/free-databases)|0|0|2024-05-02T20:44:19Z|
 |[wanghaisheng/WeChatMsg-exporter](https://github.com/wanghaisheng/WeChatMsg-exporter)|1|0|2024-05-02T14:47:19Z|
 |[wanghaisheng/osint_stuff_tool_collection](https://github.com/wanghaisheng/osint_stuff_tool_collection)|0|0|2024-05-02T12:57:48Z|
+|[wanghaisheng/genai-job-agents](https://github.com/wanghaisheng/genai-job-agents)|0|0|2024-05-01T15:58:30Z|
 |[wanghaisheng/flt-withdraw](https://github.com/wanghaisheng/flt-withdraw)|0|0|2024-05-01T14:08:28Z|
 |[wanghaisheng/papapi-payment-api](https://github.com/wanghaisheng/papapi-payment-api)|0|0|2024-05-01T13:58:27Z|
 |[wanghaisheng/Fullstack-AI-OSINT-for-personal-Marketing-](https://github.com/wanghaisheng/Fullstack-AI-OSINT-for-personal-Marketing-)|0|0|2024-05-01T13:34:15Z|
@@ -864,6 +880,7 @@
 |[wanghaisheng/turbo-art](https://github.com/wanghaisheng/turbo-art)|0|0|2024-04-24T19:02:58Z|
 |[wanghaisheng/metaso-free-api-vercel](https://github.com/wanghaisheng/metaso-free-api-vercel)|0|0|2024-04-24T18:32:58Z|
 |[wanghaisheng/kimi-free-api](https://github.com/wanghaisheng/kimi-free-api)|0|0|2024-04-24T11:53:15Z|
+|[wanghaisheng/E-Amigo-community](https://github.com/wanghaisheng/E-Amigo-community)|0|0|2024-04-24T02:04:55Z|
 |[wanghaisheng/open-blog-assets-search-engine](https://github.com/wanghaisheng/open-blog-assets-search-engine)|0|0|2024-04-23T20:37:37Z|
 |[wanghaisheng/brand-kit](https://github.com/wanghaisheng/brand-kit)|0|0|2024-04-23T15:32:41Z|
 |[wanghaisheng/nextjs-template](https://github.com/wanghaisheng/nextjs-template)|0|0|2024-04-23T06:48:57Z|
@@ -1702,6 +1719,7 @@
 |[wanghaisheng/keyword-scanner-to-common-crawl](https://github.com/wanghaisheng/keyword-scanner-to-common-crawl)|0|0|2023-04-01T14:25:16Z|
 |[wanghaisheng/vidzit-dl](https://github.com/wanghaisheng/vidzit-dl)|0|0|2023-04-01T11:09:48Z|
 |[wanghaisheng/heartrate_analysis_python](https://github.com/wanghaisheng/heartrate_analysis_python)|0|0|2023-03-31T17:36:49Z|
+|[wanghaisheng/neko_teikoku-game-cat](https://github.com/wanghaisheng/neko_teikoku-game-cat)|0|0|2023-03-31T04:42:16Z|
 |[wanghaisheng/pdf-to-json](https://github.com/wanghaisheng/pdf-to-json)|0|0|2023-03-28T19:45:54Z|
 |[wanghaisheng/taxyai-browser-extension](https://github.com/wanghaisheng/taxyai-browser-extension)|1|0|2023-03-28T18:50:13Z|
 |[wanghaisheng/codeverter](https://github.com/wanghaisheng/codeverter)|0|0|2023-03-28T15:30:42Z|
@@ -1731,6 +1749,7 @@
 |[wanghaisheng/vite-deploy-demo](https://github.com/wanghaisheng/vite-deploy-demo)|0|0|2023-02-20T19:35:42Z|
 |[wanghaisheng/YWB.AntidetectAccountParser](https://github.com/wanghaisheng/YWB.AntidetectAccountParser)|0|0|2023-02-20T12:42:00Z|
 |[wanghaisheng/GenshinCloudPlayHelper](https://github.com/wanghaisheng/GenshinCloudPlayHelper)|0|0|2023-02-19T05:15:21Z|
+|[wanghaisheng/Genshinfy-music](https://github.com/wanghaisheng/Genshinfy-music)|0|0|2023-02-17T03:02:36Z|
 |[wanghaisheng/rotate_captcha_solver](https://github.com/wanghaisheng/rotate_captcha_solver)|0|0|2023-02-17T01:53:33Z|
 |[wanghaisheng/DouYin-Unfllow-extension](https://github.com/wanghaisheng/DouYin-Unfllow-extension)|1|0|2023-02-16T02:51:46Z|
 |[wanghaisheng/super-resolution-js](https://github.com/wanghaisheng/super-resolution-js)|0|0|2023-02-15T12:07:50Z|
@@ -1821,6 +1840,7 @@
 |[wanghaisheng/Web-Scraping-Data-Pipeline](https://github.com/wanghaisheng/Web-Scraping-Data-Pipeline)|0|0|2022-07-12T09:02:09Z|
 |[wanghaisheng/monster_card](https://github.com/wanghaisheng/monster_card)|0|0|2022-07-11T13:19:09Z|
 |[wanghaisheng/image-resizer](https://github.com/wanghaisheng/image-resizer)|1|0|2022-07-09T11:38:28Z|
+|[wanghaisheng/imitate-2010-autumn-op](https://github.com/wanghaisheng/imitate-2010-autumn-op)|0|0|2022-07-08T05:41:43Z|
 |[wanghaisheng/GLaDOS_Checkin](https://github.com/wanghaisheng/GLaDOS_Checkin)|1|0|2022-07-06T05:03:31Z|
 |[wanghaisheng/fastapi_user_auth_demo](https://github.com/wanghaisheng/fastapi_user_auth_demo)|0|0|2022-07-04T17:41:24Z|
 |[wanghaisheng/discoart](https://github.com/wanghaisheng/discoart)|1|0|2022-06-30T23:44:58Z|
@@ -2927,10 +2947,10 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5774|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1287|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1171|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1288|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1172|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1108|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
-|[sumory/lor](https://github.com/sumory/lor/pull/6)|1013|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
+|[sumory/lor](https://github.com/sumory/lor/pull/6)|1014|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|425|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|102|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
 |[kba/hocr-spec](https://github.com/kba/hocr-spec/pull/29)|71|2016-09-29T15:27:45Z|[pull/29](https://github.com/kba/hocr-spec/pull/29)|
