@@ -4,28 +4,30 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-01-22 08:14:20 Asia/Shanghai
+> Automated deployment @ 2025-01-23 08:14:08 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3670
+- **Total_stars_earned**: 3669
 
-- **Projects**: 4311
+- **Projects**: 4312
 
 ### Sources
 
-- **count**: 969
+- **count**: 970
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-01-22T00:07:46Z|
-|[wanghaisheng/brand-gossip-who-is-talking](https://github.com/wanghaisheng/brand-gossip-who-is-talking)|0|0|2025-01-21T20:22:29Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-01-23T00:07:25Z|
+|[wanghaisheng/qinqiang-scripts](https://github.com/wanghaisheng/qinqiang-scripts)|0|0|2025-01-22T12:35:48Z|
+|[wanghaisheng/chinese-internet-slangs](https://github.com/wanghaisheng/chinese-internet-slangs)|0|0|2025-01-22T10:56:32Z|
+|[wanghaisheng/brand-gossip-who-is-talking](https://github.com/wanghaisheng/brand-gossip-who-is-talking)|0|0|2025-01-22T06:09:46Z|
+|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-01-22T00:30:25Z|
 |[wanghaisheng/shanghan-zabing-lun](https://github.com/wanghaisheng/shanghan-zabing-lun)|0|0|2025-01-21T17:09:14Z|
 |[wanghaisheng/zuchuanpianfang](https://github.com/wanghaisheng/zuchuanpianfang)|0|0|2025-01-21T12:49:44Z|
 |[wanghaisheng/choose-chinese-made-ct-mri-device](https://github.com/wanghaisheng/choose-chinese-made-ct-mri-device)|0|0|2025-01-21T12:03:27Z|
 |[wanghaisheng/best-saas-starter-dataset](https://github.com/wanghaisheng/best-saas-starter-dataset)|0|0|2025-01-21T09:16:11Z|
 |[wanghaisheng/automation-job-with-browser-extension](https://github.com/wanghaisheng/automation-job-with-browser-extension)|0|0|2025-01-21T08:26:05Z|
 |[wanghaisheng/ideogram-to-code-clone-any-design](https://github.com/wanghaisheng/ideogram-to-code-clone-any-design)|0|0|2025-01-21T08:20:08Z|
-|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-01-21T00:29:32Z|
 |[wanghaisheng/innerstrengthlift-369-magic-words-writing](https://github.com/wanghaisheng/innerstrengthlift-369-magic-words-writing)|0|0|2025-01-20T23:43:54Z|
 |[wanghaisheng/sihoo-chair-review](https://github.com/wanghaisheng/sihoo-chair-review)|0|0|2025-01-20T22:37:12Z|
 |[wanghaisheng/sleeping-pad](https://github.com/wanghaisheng/sleeping-pad)|0|0|2025-01-20T21:54:35Z|
@@ -33,7 +35,6 @@
 |[wanghaisheng/play-online-sprunki](https://github.com/wanghaisheng/play-online-sprunki)|0|0|2025-01-20T20:59:42Z|
 |[wanghaisheng/game-resaerch](https://github.com/wanghaisheng/game-resaerch)|0|0|2025-01-20T20:48:09Z|
 |[wanghaisheng/a-farmui-lp-starter](https://github.com/wanghaisheng/a-farmui-lp-starter)|0|0|2025-01-20T19:28:34Z|
-|[wanghaisheng/qinqiang-scripts](https://github.com/wanghaisheng/qinqiang-scripts)|0|0|2025-01-20T19:15:53Z|
 |[wanghaisheng/to-be-poor](https://github.com/wanghaisheng/to-be-poor)|0|0|2025-01-20T19:14:22Z|
 |[wanghaisheng/a-Nyxb-gatsby-starter](https://github.com/wanghaisheng/a-Nyxb-gatsby-starter)|0|0|2025-01-20T18:18:30Z|
 |[wanghaisheng/a-Nyxb-astro-starter](https://github.com/wanghaisheng/a-Nyxb-astro-starter)|0|0|2025-01-20T18:06:23Z|
@@ -459,7 +460,7 @@
 |[wanghaisheng/arrow-crush](https://github.com/wanghaisheng/arrow-crush)|0|0|2024-07-29T16:31:27Z|
 |[wanghaisheng/how-agent-understand-page](https://github.com/wanghaisheng/how-agent-understand-page)|0|0|2024-07-29T07:32:39Z|
 |[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-07-29T03:09:32Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|295|55|2024-07-28T18:35:39Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|294|55|2024-07-28T18:35:39Z|
 |[wanghaisheng/offloadogboner-backend](https://github.com/wanghaisheng/offloadogboner-backend)|0|0|2024-07-26T16:06:33Z|
 |[wanghaisheng/CareShare-Next-saas](https://github.com/wanghaisheng/CareShare-Next-saas)|0|0|2024-07-26T16:01:50Z|
 |[wanghaisheng/batch-check-domain-borndate-website](https://github.com/wanghaisheng/batch-check-domain-borndate-website)|0|0|2024-07-26T14:48:19Z|
@@ -992,11 +993,12 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-01-22T00:07:27Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-01-23T00:07:25Z|
+|[wanghaisheng/a-hub-openalternative](https://github.com/wanghaisheng/a-hub-openalternative)|0|0|2025-01-22T14:50:23Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-01-22T00:14:21Z|
 |[wanghaisheng/Duanyongping](https://github.com/wanghaisheng/Duanyongping)|0|0|2025-01-21T17:34:46Z|
 |[wanghaisheng/type-rewards](https://github.com/wanghaisheng/type-rewards)|0|0|2025-01-21T16:35:07Z|
 |[wanghaisheng/china-made-ct-blog-writer](https://github.com/wanghaisheng/china-made-ct-blog-writer)|0|0|2025-01-21T15:55:36Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-01-21T00:13:25Z|
 |[wanghaisheng/inner-strength-Battery-Indicator](https://github.com/wanghaisheng/inner-strength-Battery-Indicator)|0|0|2025-01-20T20:49:18Z|
 |[wanghaisheng/bestfreeai](https://github.com/wanghaisheng/bestfreeai)|0|0|2025-01-20T20:43:51Z|
 |[wanghaisheng/a--d-aigents-directory-boilerplate](https://github.com/wanghaisheng/a--d-aigents-directory-boilerplate)|0|0|2025-01-20T20:33:48Z|
@@ -1080,7 +1082,6 @@
 |[wanghaisheng/Godot-Game-Template](https://github.com/wanghaisheng/Godot-Game-Template)|0|0|2025-01-02T18:38:06Z|
 |[wanghaisheng/a-fullstack-hono-react-cloudflare-pages](https://github.com/wanghaisheng/a-fullstack-hono-react-cloudflare-pages)|0|0|2025-01-02T17:30:48Z|
 |[wanghaisheng/read-tcm-paper-mita](https://github.com/wanghaisheng/read-tcm-paper-mita)|0|0|2025-01-02T08:53:58Z|
-|[wanghaisheng/a-hub-openalternative](https://github.com/wanghaisheng/a-hub-openalternative)|0|0|2025-01-02T03:07:44Z|
 |[wanghaisheng/a-hub-movie-5star](https://github.com/wanghaisheng/a-hub-movie-5star)|1|0|2025-01-02T02:26:28Z|
 |[wanghaisheng/a-hono-astro-remix-template](https://github.com/wanghaisheng/a-hono-astro-remix-template)|0|0|2025-01-02T01:06:21Z|
 |[wanghaisheng/sprunki-blast](https://github.com/wanghaisheng/sprunki-blast)|0|0|2025-01-02T00:25:46Z|
@@ -4340,9 +4341,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5845|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
-|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1388|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1234|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5846|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1389|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1235|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1132|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1018|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|426|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
