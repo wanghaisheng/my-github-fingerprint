@@ -4,22 +4,22 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-01-29 08:14:37 Asia/Shanghai
+> Automated deployment @ 2025-01-31 08:13:58 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3673
+- **Total_stars_earned**: 3674
 
-- **Projects**: 4324
+- **Projects**: 4330
 
 ### Sources
 
-- **count**: 975
+- **count**: 976
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-01-29T00:07:24Z|
-|[wanghaisheng/deepseek-dataset](https://github.com/wanghaisheng/deepseek-dataset)|0|0|2025-01-28T04:07:40Z|
-|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-01-28T00:30:17Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-01-31T00:07:49Z|
+|[wanghaisheng/deepseek-dataset](https://github.com/wanghaisheng/deepseek-dataset)|0|0|2025-01-30T17:31:00Z|
+|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-01-30T00:29:25Z|
 |[wanghaisheng/sleeping-pad](https://github.com/wanghaisheng/sleeping-pad)|0|0|2025-01-27T22:12:30Z|
 |[wanghaisheng/sleeping-mask](https://github.com/wanghaisheng/sleeping-mask)|0|0|2025-01-27T20:51:41Z|
 |[wanghaisheng/play-online-sprunki](https://github.com/wanghaisheng/play-online-sprunki)|0|0|2025-01-27T20:41:24Z|
@@ -325,6 +325,7 @@
 |[wanghaisheng/slope-unblocked](https://github.com/wanghaisheng/slope-unblocked)|0|0|2024-10-28T08:20:19Z|
 |[wanghaisheng/tetris-unblocked](https://github.com/wanghaisheng/tetris-unblocked)|0|0|2024-10-28T08:18:14Z|
 |[wanghaisheng/pacman-30th-anniversary](https://github.com/wanghaisheng/pacman-30th-anniversary)|1|0|2024-10-28T08:09:37Z|
+|[wanghaisheng/ragdollhitgame.github.io](https://github.com/wanghaisheng/ragdollhitgame.github.io)|1|0|2024-10-28T07:50:17Z|
 |[wanghaisheng/github-io-games](https://github.com/wanghaisheng/github-io-games)|0|0|2024-10-28T04:14:28Z|
 |[wanghaisheng/blumgi-slime-games](https://github.com/wanghaisheng/blumgi-slime-games)|1|0|2024-10-28T01:33:31Z|
 |[wanghaisheng/getaway-shootout-games](https://github.com/wanghaisheng/getaway-shootout-games)|0|0|2024-10-28T01:03:10Z|
@@ -994,14 +995,20 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3349
+- **count**: 3354
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-01-29T00:07:24Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-01-31T00:07:22Z|
+|[wanghaisheng/medusa2-starter](https://github.com/wanghaisheng/medusa2-starter)|0|0|2025-01-30T19:49:36Z|
+|[wanghaisheng/b2b-starter-medusa](https://github.com/wanghaisheng/b2b-starter-medusa)|0|0|2025-01-30T12:42:13Z|
+|[wanghaisheng/china-made-ct-blog-writer](https://github.com/wanghaisheng/china-made-ct-blog-writer)|0|0|2025-01-30T05:53:46Z|
+|[wanghaisheng/tyme4ts](https://github.com/wanghaisheng/tyme4ts)|0|0|2025-01-29T12:43:04Z|
+|[wanghaisheng/solace-medusa-starter](https://github.com/wanghaisheng/solace-medusa-starter)|0|0|2025-01-29T09:03:40Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-01-29T00:14:38Z|
 |[wanghaisheng/ai-directories](https://github.com/wanghaisheng/ai-directories)|0|0|2025-01-28T18:38:45Z|
+|[wanghaisheng/Meelo](https://github.com/wanghaisheng/Meelo)|0|0|2025-01-28T15:44:27Z|
 |[wanghaisheng/AI-flashcard-deepseek](https://github.com/wanghaisheng/AI-flashcard-deepseek)|0|0|2025-01-28T03:37:03Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-01-28T00:14:49Z|
 |[wanghaisheng/LiberSonora](https://github.com/wanghaisheng/LiberSonora)|0|0|2025-01-27T03:46:15Z|
 |[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|8|1|2025-01-27T03:37:47Z|
 |[wanghaisheng/bolt.diy](https://github.com/wanghaisheng/bolt.diy)|0|0|2025-01-26T04:38:38Z|
@@ -1010,7 +1017,6 @@
 |[wanghaisheng/a-hub-openalternative](https://github.com/wanghaisheng/a-hub-openalternative)|0|0|2025-01-22T14:50:23Z|
 |[wanghaisheng/Duanyongping](https://github.com/wanghaisheng/Duanyongping)|0|0|2025-01-21T17:34:46Z|
 |[wanghaisheng/type-rewards](https://github.com/wanghaisheng/type-rewards)|0|0|2025-01-21T16:35:07Z|
-|[wanghaisheng/china-made-ct-blog-writer](https://github.com/wanghaisheng/china-made-ct-blog-writer)|0|0|2025-01-21T15:55:36Z|
 |[wanghaisheng/inner-strength-Battery-Indicator](https://github.com/wanghaisheng/inner-strength-Battery-Indicator)|0|0|2025-01-20T20:49:18Z|
 |[wanghaisheng/bestfreeai](https://github.com/wanghaisheng/bestfreeai)|0|0|2025-01-20T20:43:51Z|
 |[wanghaisheng/a--d-aigents-directory-boilerplate](https://github.com/wanghaisheng/a--d-aigents-directory-boilerplate)|0|0|2025-01-20T20:33:48Z|
@@ -1227,6 +1233,7 @@
 |[wanghaisheng/Paperloop](https://github.com/wanghaisheng/Paperloop)|0|0|2024-12-13T04:37:22Z|
 |[wanghaisheng/astro-http-turso-db](https://github.com/wanghaisheng/astro-http-turso-db)|0|0|2024-12-13T04:33:06Z|
 |[wanghaisheng/fix-broken-links-with-old-wayback-machine-query-action](https://github.com/wanghaisheng/fix-broken-links-with-old-wayback-machine-query-action)|0|0|2024-12-13T01:19:41Z|
+|[wanghaisheng/medusa-dtc-starter-munchies](https://github.com/wanghaisheng/medusa-dtc-starter-munchies)|0|0|2024-12-12T18:25:44Z|
 |[wanghaisheng/reelGenerationWF-imagen3](https://github.com/wanghaisheng/reelGenerationWF-imagen3)|0|0|2024-12-12T12:53:55Z|
 |[wanghaisheng/euromillions-api](https://github.com/wanghaisheng/euromillions-api)|0|0|2024-12-11T11:01:32Z|
 |[wanghaisheng/nextjs-starter-kit](https://github.com/wanghaisheng/nextjs-starter-kit)|0|0|2024-12-11T07:12:49Z|
@@ -1516,7 +1523,6 @@
 |[wanghaisheng/BCHS-Unblocked-Games](https://github.com/wanghaisheng/BCHS-Unblocked-Games)|0|0|2024-10-28T09:25:38Z|
 |[wanghaisheng/unblocked-games-632](https://github.com/wanghaisheng/unblocked-games-632)|1|0|2024-10-28T08:35:35Z|
 |[wanghaisheng/stuntbikeextremeonline.github.io](https://github.com/wanghaisheng/stuntbikeextremeonline.github.io)|1|0|2024-10-28T07:50:27Z|
-|[wanghaisheng/ragdollhitgame.github.io](https://github.com/wanghaisheng/ragdollhitgame.github.io)|1|0|2024-10-28T07:50:17Z|
 |[wanghaisheng/gamesite-fullscreen](https://github.com/wanghaisheng/gamesite-fullscreen)|0|0|2024-10-28T05:14:03Z|
 |[wanghaisheng/ancient_gamer-videos](https://github.com/wanghaisheng/ancient_gamer-videos)|0|0|2024-10-28T05:13:46Z|
 |[wanghaisheng/bypassschoolblock](https://github.com/wanghaisheng/bypassschoolblock)|1|0|2024-10-28T04:29:51Z|
@@ -4353,10 +4359,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5847|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5848|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1397|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1234|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
-|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1132|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
+|[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1133|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1018|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|426|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
 |[LuisMayo/objection_engine](https://github.com/LuisMayo/objection_engine/pull/64)|111|2022-02-23T16:47:08Z|[pull/64](https://github.com/LuisMayo/objection_engine/pull/64)|
