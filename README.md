@@ -4,23 +4,23 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-02-02 08:15:07 Asia/Shanghai
+> Automated deployment @ 2025-02-03 08:15:02 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3674
+- **Total_stars_earned**: 3675
 
 - **Projects**: 4331
 
 ### Sources
 
-- **count**: 976
+- **count**: 977
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-02-02T00:07:41Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|0|2025-02-03T00:07:54Z|
+|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-02-02T00:32:07Z|
 |[wanghaisheng/next-forge-demo](https://github.com/wanghaisheng/next-forge-demo)|0|0|2025-02-02T00:03:23Z|
 |[wanghaisheng/game-app-starter](https://github.com/wanghaisheng/game-app-starter)|0|0|2025-02-01T11:56:13Z|
-|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-02-01T00:32:40Z|
 |[wanghaisheng/deepseek-dataset](https://github.com/wanghaisheng/deepseek-dataset)|0|0|2025-01-31T16:04:11Z|
 |[wanghaisheng/best-saas-starter-dataset](https://github.com/wanghaisheng/best-saas-starter-dataset)|0|0|2025-01-31T08:44:35Z|
 |[wanghaisheng/sleeping-pad](https://github.com/wanghaisheng/sleeping-pad)|0|0|2025-01-27T22:12:30Z|
@@ -329,6 +329,7 @@
 |[wanghaisheng/github-io-games](https://github.com/wanghaisheng/github-io-games)|0|0|2024-10-28T04:14:28Z|
 |[wanghaisheng/blumgi-slime-games](https://github.com/wanghaisheng/blumgi-slime-games)|1|0|2024-10-28T01:33:31Z|
 |[wanghaisheng/getaway-shootout-games](https://github.com/wanghaisheng/getaway-shootout-games)|0|0|2024-10-28T01:03:10Z|
+|[wanghaisheng/shell-shockers](https://github.com/wanghaisheng/shell-shockers)|0|1|2024-10-27T23:57:13Z|
 |[wanghaisheng/static-site-sop](https://github.com/wanghaisheng/static-site-sop)|0|0|2024-10-27T08:25:10Z|
 |[wanghaisheng/credit-card-validate-stripe](https://github.com/wanghaisheng/credit-card-validate-stripe)|0|0|2024-10-26T19:59:08Z|
 |[wanghaisheng/export-google-scholar-search-results-to-excel](https://github.com/wanghaisheng/export-google-scholar-search-results-to-excel)|0|0|2024-10-25T20:47:31Z|
@@ -505,7 +506,7 @@
 |[wanghaisheng/cdx-playground](https://github.com/wanghaisheng/cdx-playground)|0|0|2024-07-13T22:34:38Z|
 |[wanghaisheng/laptop-big-csv-col-deduplicate](https://github.com/wanghaisheng/laptop-big-csv-col-deduplicate)|0|0|2024-07-13T12:52:44Z|
 |[wanghaisheng/download-use-github-release](https://github.com/wanghaisheng/download-use-github-release)|0|0|2024-07-13T04:13:38Z|
-|[wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)|502|129|2024-07-13T03:59:58Z|
+|[wanghaisheng/awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)|503|129|2024-07-13T03:59:58Z|
 |[wanghaisheng/shofy-Beauty-and-Cosmetics-ecommerce-client](https://github.com/wanghaisheng/shofy-Beauty-and-Cosmetics-ecommerce-client)|2|0|2024-07-11T22:09:09Z|
 |[wanghaisheng/artsy-hub](https://github.com/wanghaisheng/artsy-hub)|0|0|2024-07-11T01:33:29Z|
 |[wanghaisheng/diigital-saas](https://github.com/wanghaisheng/diigital-saas)|0|0|2024-07-11T00:29:48Z|
@@ -995,12 +996,12 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3355
+- **count**: 3354
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-02-02T00:07:40Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-02-01T00:15:51Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-02-03T00:07:30Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-02-02T00:15:07Z|
 |[wanghaisheng/medusa2-starter](https://github.com/wanghaisheng/medusa2-starter)|0|0|2025-01-30T19:49:36Z|
 |[wanghaisheng/b2b-starter-medusa](https://github.com/wanghaisheng/b2b-starter-medusa)|0|0|2025-01-30T12:42:13Z|
 |[wanghaisheng/china-made-ct-blog-writer](https://github.com/wanghaisheng/china-made-ct-blog-writer)|0|0|2025-01-30T05:53:46Z|
@@ -1529,7 +1530,6 @@
 |[wanghaisheng/bypassschoolblock](https://github.com/wanghaisheng/bypassschoolblock)|1|0|2024-10-28T04:29:51Z|
 |[wanghaisheng/Build-Royale-games](https://github.com/wanghaisheng/Build-Royale-games)|0|0|2024-10-28T01:19:55Z|
 |[wanghaisheng/shell-shockers-unblocked.github.io](https://github.com/wanghaisheng/shell-shockers-unblocked.github.io)|1|1|2024-10-28T00:24:51Z|
-|[wanghaisheng/shell-shockers](https://github.com/wanghaisheng/shell-shockers)|0|0|2024-10-27T23:57:13Z|
 |[wanghaisheng/shell-shockers-io](https://github.com/wanghaisheng/shell-shockers-io)|0|0|2024-10-27T23:41:16Z|
 |[wanghaisheng/ADHDTest](https://github.com/wanghaisheng/ADHDTest)|0|0|2024-10-27T20:33:23Z|
 |[wanghaisheng/MemoryGame-Adhd](https://github.com/wanghaisheng/MemoryGame-Adhd)|0|0|2024-10-27T20:31:09Z|
@@ -4360,9 +4360,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5850|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5851|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1398|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
-|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1235|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
+|[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1238|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1133|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
 |[sumory/lor](https://github.com/sumory/lor/pull/6)|1018|2016-03-13T07:43:46Z|[pull/6](https://github.com/sumory/lor/pull/6)|
 |[Yelp/service-principles](https://github.com/Yelp/service-principles/pull/1)|426|2015-04-13T21:09:55Z|[pull/1](https://github.com/Yelp/service-principles/pull/1)|
