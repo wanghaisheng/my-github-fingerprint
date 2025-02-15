@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-02-14 08:14:39 Asia/Shanghai
+> Automated deployment @ 2025-02-15 08:14:42 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3690
+- **Total_stars_earned**: 3691
 
-- **Projects**: 4355
+- **Projects**: 4356
 
 ### Sources
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|1|2025-02-14T00:07:22Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|2|1|2025-02-15T00:07:29Z|
+|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-02-14T00:30:28Z|
 |[wanghaisheng/beijujuedeyongqi](https://github.com/wanghaisheng/beijujuedeyongqi)|0|0|2025-02-13T16:45:15Z|
-|[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-02-13T00:30:37Z|
 |[wanghaisheng/sleeping-pad](https://github.com/wanghaisheng/sleeping-pad)|0|0|2025-02-10T21:55:55Z|
 |[wanghaisheng/sleeping-mask](https://github.com/wanghaisheng/sleeping-mask)|0|0|2025-02-10T20:53:36Z|
 |[wanghaisheng/play-online-sprunki](https://github.com/wanghaisheng/play-online-sprunki)|0|0|2025-02-10T20:36:01Z|
@@ -321,7 +321,7 @@
 |[wanghaisheng/cookie-clicker-unblocked](https://github.com/wanghaisheng/cookie-clicker-unblocked)|0|0|2024-10-28T09:00:36Z|
 |[wanghaisheng/unblocked-games-for-school](https://github.com/wanghaisheng/unblocked-games-for-school)|0|0|2024-10-28T08:44:57Z|
 |[wanghaisheng/drift-hunters-unblocked](https://github.com/wanghaisheng/drift-hunters-unblocked)|0|0|2024-10-28T08:33:44Z|
-|[wanghaisheng/happy-wheels-unblocked](https://github.com/wanghaisheng/happy-wheels-unblocked)|0|1|2024-10-28T08:32:01Z|
+|[wanghaisheng/happy-wheels-unblocked](https://github.com/wanghaisheng/happy-wheels-unblocked)|0|2|2024-10-28T08:32:01Z|
 |[wanghaisheng/tyrones-unblocked-games](https://github.com/wanghaisheng/tyrones-unblocked-games)|0|0|2024-10-28T08:31:12Z|
 |[wanghaisheng/run-3-unblocked](https://github.com/wanghaisheng/run-3-unblocked)|0|1|2024-10-28T08:21:56Z|
 |[wanghaisheng/slope-unblocked](https://github.com/wanghaisheng/slope-unblocked)|0|0|2024-10-28T08:20:19Z|
@@ -470,7 +470,7 @@
 |[wanghaisheng/arrow-crush](https://github.com/wanghaisheng/arrow-crush)|0|0|2024-07-29T16:31:27Z|
 |[wanghaisheng/how-agent-understand-page](https://github.com/wanghaisheng/how-agent-understand-page)|0|0|2024-07-29T07:32:39Z|
 |[wanghaisheng/dog-love-toy](https://github.com/wanghaisheng/dog-love-toy)|0|0|2024-07-29T03:09:32Z|
-|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|300|55|2024-07-28T18:35:39Z|
+|[wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader)|301|55|2024-07-28T18:35:39Z|
 |[wanghaisheng/offloadogboner-backend](https://github.com/wanghaisheng/offloadogboner-backend)|0|0|2024-07-26T16:06:33Z|
 |[wanghaisheng/CareShare-Next-saas](https://github.com/wanghaisheng/CareShare-Next-saas)|0|0|2024-07-26T16:01:50Z|
 |[wanghaisheng/batch-check-domain-borndate-website](https://github.com/wanghaisheng/batch-check-domain-borndate-website)|0|0|2024-07-26T14:48:19Z|
@@ -1001,14 +1001,14 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3373
+- **count**: 3374
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-02-14T00:07:32Z|
-|[wanghaisheng/qwerty-learner](https://github.com/wanghaisheng/qwerty-learner)|0|0|2025-02-13T22:25:11Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-02-15T00:07:21Z|
+|[wanghaisheng/qwerty-learner](https://github.com/wanghaisheng/qwerty-learner)|0|0|2025-02-14T11:39:21Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-02-14T00:14:39Z|
 |[wanghaisheng/cloudflare_temp_email](https://github.com/wanghaisheng/cloudflare_temp_email)|0|0|2025-02-13T07:12:27Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-02-13T00:13:56Z|
 |[wanghaisheng/deepseek-ai-coding](https://github.com/wanghaisheng/deepseek-ai-coding)|0|0|2025-02-12T19:37:35Z|
 |[wanghaisheng/deepseek-ai-saas](https://github.com/wanghaisheng/deepseek-ai-saas)|0|0|2025-02-12T19:28:21Z|
 |[wanghaisheng/open-health](https://github.com/wanghaisheng/open-health)|0|0|2025-02-12T08:52:15Z|
@@ -1689,6 +1689,7 @@
 |[wanghaisheng/defold-games](https://github.com/wanghaisheng/defold-games)|0|0|2024-09-25T16:28:09Z|
 |[wanghaisheng/pdf_analysis_SaaS](https://github.com/wanghaisheng/pdf_analysis_SaaS)|1|0|2024-09-25T10:57:17Z|
 |[wanghaisheng/cloudflare-ai-web](https://github.com/wanghaisheng/cloudflare-ai-web)|0|0|2024-09-25T00:30:54Z|
+|[wanghaisheng/BrainyAI](https://github.com/wanghaisheng/BrainyAI)|0|0|2024-09-23T06:44:09Z|
 |[wanghaisheng/dify-discord-starter](https://github.com/wanghaisheng/dify-discord-starter)|0|0|2024-09-20T22:31:50Z|
 |[wanghaisheng/react-native-healthkit](https://github.com/wanghaisheng/react-native-healthkit)|0|0|2024-09-20T08:11:56Z|
 |[wanghaisheng/mevn-boilerplate](https://github.com/wanghaisheng/mevn-boilerplate)|0|0|2024-09-17T20:50:35Z|
@@ -4384,7 +4385,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5856|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5857|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1411|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1241|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1135|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
