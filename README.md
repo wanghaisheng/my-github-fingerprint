@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-04-06 08:16:42 Asia/Shanghai
+> Automated deployment @ 2025-04-07 08:15:53 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3750
+- **Total_stars_earned**: 3752
 
 - **Projects**: 4538
 
@@ -17,14 +17,14 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|5|2|2025-04-06T00:08:32Z|
-|[wanghaisheng/vibe-coding-new-starter](https://github.com/wanghaisheng/vibe-coding-new-starter)|0|0|2025-04-05T19:36:30Z|
-|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-04-05T00:21:58Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|5|2|2025-04-07T00:08:21Z|
+|[wanghaisheng/vibe-coding-new-starter](https://github.com/wanghaisheng/vibe-coding-new-starter)|0|0|2025-04-06T23:49:32Z|
+|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-04-06T00:24:09Z|
 |[wanghaisheng/translate-ui-to-cocos-prefab](https://github.com/wanghaisheng/translate-ui-to-cocos-prefab)|0|0|2025-04-04T18:32:52Z|
 |[wanghaisheng/auto-submit-site-domain](https://github.com/wanghaisheng/auto-submit-site-domain)|0|0|2025-04-04T17:11:19Z|
 |[wanghaisheng/balance-x-to-go](https://github.com/wanghaisheng/balance-x-to-go)|0|0|2025-04-04T15:57:43Z|
 |[wanghaisheng/dianshi-cuimian-app](https://github.com/wanghaisheng/dianshi-cuimian-app)|0|0|2025-04-04T15:02:34Z|
-|[wanghaisheng/auto-submit-backlink](https://github.com/wanghaisheng/auto-submit-backlink)|0|0|2025-04-03T21:43:45Z|
+|[wanghaisheng/auto-submit-backlink](https://github.com/wanghaisheng/auto-submit-backlink)|1|0|2025-04-03T21:43:45Z|
 |[wanghaisheng/wanghaisheng](https://github.com/wanghaisheng/wanghaisheng)|1|0|2025-04-03T00:32:28Z|
 |[wanghaisheng/seed-of-gratitude](https://github.com/wanghaisheng/seed-of-gratitude)|1|0|2025-04-02T23:03:09Z|
 |[wanghaisheng/agent-course-hub](https://github.com/wanghaisheng/agent-course-hub)|0|0|2025-04-02T20:53:51Z|
@@ -843,7 +843,7 @@
 |[wanghaisheng/copycat-account-detect](https://github.com/wanghaisheng/copycat-account-detect)|1|0|2022-06-28T10:55:40Z|
 |[wanghaisheng/living-will-fhir](https://github.com/wanghaisheng/living-will-fhir)|1|0|2022-06-27T14:05:45Z|
 |[wanghaisheng/start-micro-saas-0-1](https://github.com/wanghaisheng/start-micro-saas-0-1)|0|0|2022-06-24T16:02:47Z|
-|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1678|351|2022-06-24T04:50:59Z|
+|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1679|351|2022-06-24T04:50:59Z|
 |[wanghaisheng/url2video-pdf](https://github.com/wanghaisheng/url2video-pdf)|1|0|2022-06-23T19:25:31Z|
 |[wanghaisheng/ocr-tweets-monitoring](https://github.com/wanghaisheng/ocr-tweets-monitoring)|0|0|2022-06-23T09:33:16Z|
 |[wanghaisheng/ocr-paper-collector](https://github.com/wanghaisheng/ocr-paper-collector)|6|1|2022-06-23T07:50:45Z|
@@ -1099,8 +1099,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-04-06T00:08:04Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-04-05T00:15:12Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-04-07T00:08:08Z|
+|[wanghaisheng/a-same-relivator-nextjs-template](https://github.com/wanghaisheng/a-same-relivator-nextjs-template)|0|0|2025-04-06T15:01:26Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-04-06T00:16:43Z|
 |[wanghaisheng/hantang-nihaixia-follower](https://github.com/wanghaisheng/hantang-nihaixia-follower)|0|0|2025-04-02T02:24:36Z|
 |[wanghaisheng/awesome-vibe-coding](https://github.com/wanghaisheng/awesome-vibe-coding)|0|0|2025-04-01T21:05:35Z|
 |[wanghaisheng/cloudflare_temp_email](https://github.com/wanghaisheng/cloudflare_temp_email)|0|0|2025-04-01T19:13:05Z|
@@ -1232,7 +1233,7 @@
 |[wanghaisheng/a-next-luro-ai-saas-starter](https://github.com/wanghaisheng/a-next-luro-ai-saas-starter)|0|0|2025-01-17T17:45:43Z|
 |[wanghaisheng/a-rednote-bio-links](https://github.com/wanghaisheng/a-rednote-bio-links)|0|0|2025-01-17T17:40:05Z|
 |[wanghaisheng/all-in-one-nextjs-template](https://github.com/wanghaisheng/all-in-one-nextjs-template)|0|0|2025-01-17T17:25:52Z|
-|[wanghaisheng/domain-dataset](https://github.com/wanghaisheng/domain-dataset)|2|0|2025-01-15T11:54:59Z|
+|[wanghaisheng/domain-dataset](https://github.com/wanghaisheng/domain-dataset)|3|0|2025-01-15T11:54:59Z|
 |[wanghaisheng/markitdown](https://github.com/wanghaisheng/markitdown)|0|0|2025-01-15T05:51:28Z|
 |[wanghaisheng/VKRdownloader](https://github.com/wanghaisheng/VKRdownloader)|1|0|2025-01-14T15:59:01Z|
 |[wanghaisheng/video2srt](https://github.com/wanghaisheng/video2srt)|0|0|2025-01-14T15:26:08Z|
@@ -1439,7 +1440,7 @@
 |[wanghaisheng/euromillions-api](https://github.com/wanghaisheng/euromillions-api)|0|0|2024-12-11T11:01:32Z|
 |[wanghaisheng/nextjs-starter-kit](https://github.com/wanghaisheng/nextjs-starter-kit)|0|0|2024-12-11T07:12:49Z|
 |[wanghaisheng/onlinecards](https://github.com/wanghaisheng/onlinecards)|0|0|2024-12-11T04:19:11Z|
-|[wanghaisheng/versator-shop](https://github.com/wanghaisheng/versator-shop)|0|0|2024-12-10T22:31:56Z|
+|[wanghaisheng/versator-shop-same](https://github.com/wanghaisheng/versator-shop-same)|0|0|2024-12-10T22:31:56Z|
 |[wanghaisheng/3d-landingpage-softagency](https://github.com/wanghaisheng/3d-landingpage-softagency)|1|0|2024-12-10T20:23:26Z|
 |[wanghaisheng/ScrewFast](https://github.com/wanghaisheng/ScrewFast)|1|0|2024-12-10T13:57:06Z|
 |[wanghaisheng/free-font](https://github.com/wanghaisheng/free-font)|0|0|2024-12-10T13:23:50Z|
@@ -2507,7 +2508,6 @@
 |[wanghaisheng/1688_crawler-image_search_products](https://github.com/wanghaisheng/1688_crawler-image_search_products)|1|0|2024-04-16T13:06:18Z|
 |[wanghaisheng/full-blockchain-solidity-course-js-zh](https://github.com/wanghaisheng/full-blockchain-solidity-course-js-zh)|0|0|2024-04-16T09:54:24Z|
 |[wanghaisheng/Google-Trends-Keywords-Scraper](https://github.com/wanghaisheng/Google-Trends-Keywords-Scraper)|0|0|2024-04-15T19:48:02Z|
-|[wanghaisheng/relivator-nextjs-template](https://github.com/wanghaisheng/relivator-nextjs-template)|0|0|2024-04-15T18:47:45Z|
 |[wanghaisheng/chromium-serverless-python](https://github.com/wanghaisheng/chromium-serverless-python)|0|0|2024-04-15T17:12:02Z|
 |[wanghaisheng/AmazonMe](https://github.com/wanghaisheng/AmazonMe)|0|0|2024-04-15T16:17:44Z|
 |[wanghaisheng/artemisia-ai](https://github.com/wanghaisheng/artemisia-ai)|0|0|2024-04-15T14:58:49Z|
