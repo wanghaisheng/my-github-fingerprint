@@ -4,27 +4,27 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-04-13 08:39:54 Asia/Shanghai
+> Automated deployment @ 2025-04-14 08:16:03 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3755
 
-- **Projects**: 4551
+- **Projects**: 4557
 
 ### Sources
 
-- **count**: 1084
+- **count**: 1085
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|5|2|2025-04-13T00:32:50Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|5|2|2025-04-14T00:08:52Z|
+|[wanghaisheng/monitor-urls](https://github.com/wanghaisheng/monitor-urls)|0|0|2025-04-13T12:14:03Z|
+|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-04-13T00:48:27Z|
 |[wanghaisheng/walk-through-ai-product](https://github.com/wanghaisheng/walk-through-ai-product)|0|0|2025-04-12T23:18:52Z|
 |[wanghaisheng/a_websim-website-starter](https://github.com/wanghaisheng/a_websim-website-starter)|0|0|2025-04-12T23:15:47Z|
 |[wanghaisheng/cocos-creator-ui-ai-generation](https://github.com/wanghaisheng/cocos-creator-ui-ai-generation)|1|0|2025-04-12T23:12:15Z|
 |[wanghaisheng/vibe-coding-new-starter](https://github.com/wanghaisheng/vibe-coding-new-starter)|0|0|2025-04-12T20:37:45Z|
-|[wanghaisheng/monitor-urls](https://github.com/wanghaisheng/monitor-urls)|0|0|2025-04-12T12:14:16Z|
 |[wanghaisheng/google-daily-trends-drissionpage](https://github.com/wanghaisheng/google-daily-trends-drissionpage)|1|0|2025-04-12T06:20:25Z|
-|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-04-12T00:23:03Z|
 |[wanghaisheng/heytcm-daily-blog](https://github.com/wanghaisheng/heytcm-daily-blog)|0|0|2025-04-11T10:23:30Z|
 |[wanghaisheng/mcp-server-dataset](https://github.com/wanghaisheng/mcp-server-dataset)|0|0|2025-04-10T23:13:28Z|
 |[wanghaisheng/model-guru](https://github.com/wanghaisheng/model-guru)|0|0|2025-04-10T21:50:40Z|
@@ -537,6 +537,7 @@
 |[wanghaisheng/another-ai-gears-hub](https://github.com/wanghaisheng/another-ai-gears-hub)|1|0|2024-08-16T19:34:35Z|
 |[wanghaisheng/ai-tool-squad](https://github.com/wanghaisheng/ai-tool-squad)|0|0|2024-08-16T19:22:21Z|
 |[wanghaisheng/imgforge](https://github.com/wanghaisheng/imgforge)|0|0|2024-08-16T19:13:35Z|
+|[wanghaisheng/cloudflare-edge-leaderboard](https://github.com/wanghaisheng/cloudflare-edge-leaderboard)|0|0|2024-08-16T17:29:32Z|
 |[wanghaisheng/ai-tool-api-trending](https://github.com/wanghaisheng/ai-tool-api-trending)|0|0|2024-08-16T16:50:34Z|
 |[wanghaisheng/night-driving-gear](https://github.com/wanghaisheng/night-driving-gear)|0|0|2024-08-16T04:13:07Z|
 |[wanghaisheng/my-xxx-account-was-blocked](https://github.com/wanghaisheng/my-xxx-account-was-blocked)|0|0|2024-08-16T03:54:30Z|
@@ -1103,20 +1104,24 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3467
+- **count**: 3472
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-04-13T00:32:11Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-04-14T00:08:13Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-04-13T00:39:55Z|
 |[wanghaisheng/commerce-cocos-sdk](https://github.com/wanghaisheng/commerce-cocos-sdk)|0|0|2025-04-12T14:21:55Z|
 |[wanghaisheng/a-same-nav-relivator-nextjs-template](https://github.com/wanghaisheng/a-same-nav-relivator-nextjs-template)|0|0|2025-04-12T13:44:51Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-04-12T00:15:36Z|
+|[wanghaisheng/Omni-game-assets](https://github.com/wanghaisheng/Omni-game-assets)|0|0|2025-04-11T10:38:00Z|
 |[wanghaisheng/awesome-mcp-servers-database](https://github.com/wanghaisheng/awesome-mcp-servers-database)|0|0|2025-04-10T12:34:22Z|
 |[wanghaisheng/deepseek-task-master](https://github.com/wanghaisheng/deepseek-task-master)|0|0|2025-04-09T20:44:16Z|
 |[wanghaisheng/github-actions-database-persistence](https://github.com/wanghaisheng/github-actions-database-persistence)|0|0|2025-04-09T20:40:13Z|
+|[wanghaisheng/moepush](https://github.com/wanghaisheng/moepush)|0|0|2025-04-09T15:34:44Z|
+|[wanghaisheng/cursorrules-architect-deepseek.diy](https://github.com/wanghaisheng/cursorrules-architect-deepseek.diy)|0|0|2025-04-08T18:19:57Z|
 |[wanghaisheng/a-nextday-todo-app](https://github.com/wanghaisheng/a-nextday-todo-app)|0|0|2025-04-08T15:31:48Z|
 |[wanghaisheng/polar-adapters](https://github.com/wanghaisheng/polar-adapters)|0|0|2025-04-08T14:24:58Z|
 |[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|11|2|2025-04-07T03:44:29Z|
+|[wanghaisheng/cursorRegister-auto](https://github.com/wanghaisheng/cursorRegister-auto)|0|0|2025-04-06T15:25:47Z|
 |[wanghaisheng/hantang-nihaixia-follower](https://github.com/wanghaisheng/hantang-nihaixia-follower)|0|0|2025-04-02T02:24:36Z|
 |[wanghaisheng/awesome-vibe-coding](https://github.com/wanghaisheng/awesome-vibe-coding)|0|0|2025-04-01T21:05:35Z|
 |[wanghaisheng/cloudflare_temp_email](https://github.com/wanghaisheng/cloudflare_temp_email)|0|0|2025-04-01T19:13:05Z|
@@ -1155,6 +1160,7 @@
 |[wanghaisheng/nextjs-hono-better-auth-d1](https://github.com/wanghaisheng/nextjs-hono-better-auth-d1)|0|0|2025-03-17T19:37:40Z|
 |[wanghaisheng/cocos_framework-starter-tsrpc](https://github.com/wanghaisheng/cocos_framework-starter-tsrpc)|1|0|2025-03-17T13:54:56Z|
 |[wanghaisheng/CocosCreator-starter-frontend-backend](https://github.com/wanghaisheng/CocosCreator-starter-frontend-backend)|1|0|2025-03-17T03:16:48Z|
+|[wanghaisheng/agentic-cursorrules-deepseek.diy](https://github.com/wanghaisheng/agentic-cursorrules-deepseek.diy)|0|0|2025-03-17T00:51:24Z|
 |[wanghaisheng/card-game-arcomage-hd](https://github.com/wanghaisheng/card-game-arcomage-hd)|0|0|2025-03-15T13:03:01Z|
 |[wanghaisheng/a-react-native-mattermost-mobile](https://github.com/wanghaisheng/a-react-native-mattermost-mobile)|0|0|2025-03-15T03:29:45Z|
 |[wanghaisheng/a-cloudflare-native-web-starter-kit](https://github.com/wanghaisheng/a-cloudflare-native-web-starter-kit)|0|0|2025-03-14T15:14:03Z|
@@ -1176,6 +1182,7 @@
 |[wanghaisheng/minforum](https://github.com/wanghaisheng/minforum)|0|1|2025-03-06T02:57:09Z|
 |[wanghaisheng/openchat-monorepo](https://github.com/wanghaisheng/openchat-monorepo)|0|0|2025-03-05T13:30:50Z|
 |[wanghaisheng/luxury-hotel-login-demo](https://github.com/wanghaisheng/luxury-hotel-login-demo)|0|0|2025-03-04T16:47:45Z|
+|[wanghaisheng/domain-email-moemail-auto-deploy](https://github.com/wanghaisheng/domain-email-moemail-auto-deploy)|0|0|2025-03-03T08:12:38Z|
 |[wanghaisheng/wuxing-pet](https://github.com/wanghaisheng/wuxing-pet)|0|0|2025-03-02T18:07:17Z|
 |[wanghaisheng/mood-recording](https://github.com/wanghaisheng/mood-recording)|0|0|2025-03-02T18:06:48Z|
 |[wanghaisheng/MDShow](https://github.com/wanghaisheng/MDShow)|0|0|2025-02-28T08:35:40Z|
@@ -2051,7 +2058,6 @@
 |[wanghaisheng/StudyNotion-An-Online-Education-Platform](https://github.com/wanghaisheng/StudyNotion-An-Online-Education-Platform)|0|0|2024-08-16T18:18:44Z|
 |[wanghaisheng/image-watermark-tool](https://github.com/wanghaisheng/image-watermark-tool)|0|0|2024-08-16T18:01:41Z|
 |[wanghaisheng/cloudflare-fullstack](https://github.com/wanghaisheng/cloudflare-fullstack)|0|0|2024-08-16T17:29:52Z|
-|[wanghaisheng/cloudflare-edge-leaderboard](https://github.com/wanghaisheng/cloudflare-edge-leaderboard)|0|0|2024-08-16T17:29:32Z|
 |[wanghaisheng/unconventional](https://github.com/wanghaisheng/unconventional)|0|0|2024-08-16T17:28:30Z|
 |[wanghaisheng/genetwork](https://github.com/wanghaisheng/genetwork)|0|0|2024-08-16T17:28:11Z|
 |[wanghaisheng/cloudflare-pages-spa-template](https://github.com/wanghaisheng/cloudflare-pages-spa-template)|0|0|2024-08-16T17:27:50Z|
