@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-05-17 08:15:45 Asia/Shanghai
+> Automated deployment @ 2025-05-18 08:18:04 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3783
 
-- **Projects**: 4643
+- **Projects**: 4645
 
 ### Sources
 
@@ -17,17 +17,18 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-05-17T00:08:24Z|
+|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-05-18T00:16:58Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-05-18T00:09:22Z|
+|[wanghaisheng/augment-playground](https://github.com/wanghaisheng/augment-playground)|0|0|2025-05-17T15:19:58Z|
+|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-17T12:10:33Z|
+|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-17T05:06:51Z|
+|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-17T03:22:32Z|
+|[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|5|2|2025-05-17T02:42:34Z|
+|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-17T02:42:13Z|
+|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-17T02:34:54Z|
+|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-17T02:29:58Z|
 |[wanghaisheng/a_websim-website-starter](https://github.com/wanghaisheng/a_websim-website-starter)|0|1|2025-05-16T20:10:18Z|
 |[wanghaisheng/LNO-time-tool](https://github.com/wanghaisheng/LNO-time-tool)|0|0|2025-05-16T18:13:14Z|
-|[wanghaisheng/augment-playground](https://github.com/wanghaisheng/augment-playground)|0|0|2025-05-16T17:53:50Z|
-|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-16T12:12:10Z|
-|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-16T05:07:30Z|
-|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-16T03:24:35Z|
-|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-16T02:46:20Z|
-|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-16T02:37:04Z|
-|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-16T02:31:25Z|
-|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-05-16T00:15:45Z|
 |[wanghaisheng/ccursor-top-howto](https://github.com/wanghaisheng/ccursor-top-howto)|0|0|2025-05-15T22:10:57Z|
 |[wanghaisheng/dietclarity](https://github.com/wanghaisheng/dietclarity)|0|0|2025-05-15T14:48:33Z|
 |[wanghaisheng/heytcm-id-test](https://github.com/wanghaisheng/heytcm-id-test)|0|0|2025-05-15T14:40:55Z|
@@ -45,7 +46,6 @@
 |[wanghaisheng/lenny-podcast-insight](https://github.com/wanghaisheng/lenny-podcast-insight)|0|0|2025-05-14T11:34:34Z|
 |[wanghaisheng/dankoe-insight](https://github.com/wanghaisheng/dankoe-insight)|0|0|2025-05-14T11:29:47Z|
 |[wanghaisheng/meme-opportunity-track](https://github.com/wanghaisheng/meme-opportunity-track)|0|0|2025-05-14T11:23:18Z|
-|[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|5|2|2025-05-14T10:32:26Z|
 |[wanghaisheng/pandahabit-finch](https://github.com/wanghaisheng/pandahabit-finch)|0|0|2025-05-12T22:20:18Z|
 |[wanghaisheng/app-review-genius-backend](https://github.com/wanghaisheng/app-review-genius-backend)|0|3|2025-05-12T20:22:15Z|
 |[wanghaisheng/daily-dao](https://github.com/wanghaisheng/daily-dao)|0|0|2025-05-12T18:05:03Z|
@@ -1146,12 +1146,12 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3516
+- **count**: 3518
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-05-17T00:07:58Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-16T00:16:27Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-05-18T00:08:30Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-17T00:15:46Z|
 |[wanghaisheng/archivesuburls-detect](https://github.com/wanghaisheng/archivesuburls-detect)|0|0|2025-05-14T15:24:56Z|
 |[wanghaisheng/build-your-nocode-bolt](https://github.com/wanghaisheng/build-your-nocode-bolt)|0|0|2025-05-12T21:21:31Z|
 |[wanghaisheng/cursor-free-vip](https://github.com/wanghaisheng/cursor-free-vip)|0|0|2025-05-12T09:58:54Z|
@@ -1183,6 +1183,7 @@
 |[wanghaisheng/astro-freedom-stack](https://github.com/wanghaisheng/astro-freedom-stack)|0|0|2025-04-28T00:15:43Z|
 |[wanghaisheng/cocos-oops-game-kit-ai](https://github.com/wanghaisheng/cocos-oops-game-kit-ai)|1|0|2025-04-27T19:43:49Z|
 |[wanghaisheng/earthdoom-trpc-game](https://github.com/wanghaisheng/earthdoom-trpc-game)|1|0|2025-04-27T18:57:55Z|
+|[wanghaisheng/germini-ai-studio-text-to-files](https://github.com/wanghaisheng/germini-ai-studio-text-to-files)|0|0|2025-04-27T18:34:18Z|
 |[wanghaisheng/pwa-liftosaur-habit-grow](https://github.com/wanghaisheng/pwa-liftosaur-habit-grow)|0|0|2025-04-27T04:05:59Z|
 |[wanghaisheng/a-hub-template-llmtxt](https://github.com/wanghaisheng/a-hub-template-llmtxt)|0|0|2025-04-26T14:44:25Z|
 |[wanghaisheng/cocos-awesome](https://github.com/wanghaisheng/cocos-awesome)|0|0|2025-04-26T04:11:15Z|
@@ -1191,6 +1192,7 @@
 |[wanghaisheng/menghuanfarm](https://github.com/wanghaisheng/menghuanfarm)|0|0|2025-04-26T04:00:22Z|
 |[wanghaisheng/cocos-MKFramework-starter](https://github.com/wanghaisheng/cocos-MKFramework-starter)|1|0|2025-04-26T01:54:07Z|
 |[wanghaisheng/rune-game-backend](https://github.com/wanghaisheng/rune-game-backend)|0|0|2025-04-25T22:23:10Z|
+|[wanghaisheng/FigmaToCode](https://github.com/wanghaisheng/FigmaToCode)|0|0|2025-04-24T23:50:52Z|
 |[wanghaisheng/video-starter-kit](https://github.com/wanghaisheng/video-starter-kit)|1|0|2025-04-22T12:49:58Z|
 |[wanghaisheng/mo-domain-email](https://github.com/wanghaisheng/mo-domain-email)|0|0|2025-04-21T05:10:21Z|
 |[wanghaisheng/a-voyager-pwa-app](https://github.com/wanghaisheng/a-voyager-pwa-app)|0|0|2025-04-20T18:18:10Z|
