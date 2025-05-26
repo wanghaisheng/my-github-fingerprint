@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-05-25 08:18:21 Asia/Shanghai
+> Automated deployment @ 2025-05-26 08:17:10 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3787
@@ -17,13 +17,13 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-05-25T00:09:40Z|
-|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-24T12:10:26Z|
-|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-24T05:06:42Z|
-|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-24T03:22:32Z|
-|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-24T02:41:50Z|
-|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-24T02:35:22Z|
-|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-24T02:29:52Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-05-26T00:08:48Z|
+|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-25T12:10:28Z|
+|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-25T05:06:42Z|
+|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-25T03:29:44Z|
+|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-25T02:48:04Z|
+|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-25T02:41:07Z|
+|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-25T02:35:13Z|
 |[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|3|0|2025-05-22T07:52:17Z|
 |[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-05-21T00:16:18Z|
 |[wanghaisheng/multiplayer-blockblast-game](https://github.com/wanghaisheng/multiplayer-blockblast-game)|0|0|2025-05-19T07:44:24Z|
@@ -628,7 +628,7 @@
 |[wanghaisheng/Mind-Training-research](https://github.com/wanghaisheng/Mind-Training-research)|0|0|2024-07-25T10:06:49Z|
 |[wanghaisheng/content-repurpose-ai](https://github.com/wanghaisheng/content-repurpose-ai)|0|0|2024-07-25T09:27:35Z|
 |[wanghaisheng/aiby-research](https://github.com/wanghaisheng/aiby-research)|0|0|2024-07-25T09:27:29Z|
-|[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|5|1|2024-07-25T08:07:30Z|
+|[wanghaisheng/ttsall](https://github.com/wanghaisheng/ttsall)|5|2|2024-07-25T08:07:30Z|
 |[wanghaisheng/flash-game-ranks](https://github.com/wanghaisheng/flash-game-ranks)|0|0|2024-07-25T07:10:32Z|
 |[wanghaisheng/search-intension](https://github.com/wanghaisheng/search-intension)|0|0|2024-07-25T07:01:12Z|
 |[wanghaisheng/agent-markdown-browser](https://github.com/wanghaisheng/agent-markdown-browser)|0|0|2024-07-24T23:11:35Z|
@@ -1153,8 +1153,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-05-25T00:08:45Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-24T00:16:32Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-05-26T00:08:18Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-25T00:18:22Z|
 |[wanghaisheng/react-router-v7-better-auth-pwa-cf](https://github.com/wanghaisheng/react-router-v7-better-auth-pwa-cf)|0|0|2025-05-22T20:55:09Z|
 |[wanghaisheng/workflow-use](https://github.com/wanghaisheng/workflow-use)|0|0|2025-05-20T20:25:18Z|
 |[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|11|2|2025-05-19T03:52:13Z|
@@ -4681,7 +4681,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5900|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5899|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1460|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1258|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1155|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
