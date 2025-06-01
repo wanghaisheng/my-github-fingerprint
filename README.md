@@ -4,29 +4,32 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-05-31 08:16:14 Asia/Shanghai
+> Automated deployment @ 2025-06-01 08:20:37 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3792
+- **Total_stars_earned**: 3794
 
-- **Projects**: 4668
+- **Projects**: 4671
 
 ### Sources
 
-- **count**: 1134
+- **count**: 1137
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-05-31T00:08:24Z|
-|[wanghaisheng/zhognhuayidian](https://github.com/wanghaisheng/zhognhuayidian)|0|0|2025-05-30T15:45:17Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-06-01T00:10:52Z|
+|[wanghaisheng/learn-tcm-basics](https://github.com/wanghaisheng/learn-tcm-basics)|0|0|2025-05-31T22:37:54Z|
+|[wanghaisheng/trpc-cloudflare-worker-pg](https://github.com/wanghaisheng/trpc-cloudflare-worker-pg)|0|0|2025-05-31T16:54:58Z|
+|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-31T12:11:00Z|
+|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-31T09:18:48Z|
+|[wanghaisheng/obesity-hub-heytcm](https://github.com/wanghaisheng/obesity-hub-heytcm)|0|0|2025-05-31T07:34:01Z|
+|[wanghaisheng/zhognhuayidian](https://github.com/wanghaisheng/zhognhuayidian)|0|0|2025-05-31T06:03:06Z|
+|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-31T05:06:58Z|
+|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-31T03:23:55Z|
+|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-31T02:36:07Z|
+|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-31T02:30:38Z|
+|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-05-31T00:19:16Z|
 |[wanghaisheng/keyword-paper-track](https://github.com/wanghaisheng/keyword-paper-track)|0|0|2025-05-30T12:19:15Z|
-|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-05-30T12:11:32Z|
-|[wanghaisheng/new-domain-in-top-1m](https://github.com/wanghaisheng/new-domain-in-top-1m)|1|0|2025-05-30T10:58:02Z|
-|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-05-30T05:07:15Z|
-|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-05-30T03:24:46Z|
-|[wanghaisheng/ai-directory-track-analysis](https://github.com/wanghaisheng/ai-directory-track-analysis)|0|0|2025-05-30T02:44:21Z|
-|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-05-30T02:36:48Z|
-|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-05-30T02:31:20Z|
 |[wanghaisheng/guanjiazhuyi](https://github.com/wanghaisheng/guanjiazhuyi)|0|0|2025-05-27T07:50:21Z|
 |[wanghaisheng/multiplayer-blockblast-game](https://github.com/wanghaisheng/multiplayer-blockblast-game)|0|0|2025-05-26T08:38:58Z|
 |[wanghaisheng/see-what-i-am-building-github-daily-blog](https://github.com/wanghaisheng/see-what-i-am-building-github-daily-blog)|0|0|2025-05-26T03:47:56Z|
@@ -34,9 +37,9 @@
 |[wanghaisheng/pwa-orga-master-ai-nexus](https://github.com/wanghaisheng/pwa-orga-master-ai-nexus)|0|0|2025-05-23T22:00:16Z|
 |[wanghaisheng/check-domain-registration-date](https://github.com/wanghaisheng/check-domain-registration-date)|3|0|2025-05-22T07:52:17Z|
 |[wanghaisheng/augment-playground](https://github.com/wanghaisheng/augment-playground)|0|0|2025-05-18T15:10:06Z|
-|[wanghaisheng/faceless-channel](https://github.com/wanghaisheng/faceless-channel)|0|1|2025-05-18T04:19:26Z|
+|[wanghaisheng/faceless-channel](https://github.com/wanghaisheng/faceless-channel)|1|1|2025-05-18T04:19:26Z|
 |[wanghaisheng/gen-brand-social-account-RSS](https://github.com/wanghaisheng/gen-brand-social-account-RSS)|5|2|2025-05-17T02:42:34Z|
-|[wanghaisheng/a_websim-website-starter](https://github.com/wanghaisheng/a_websim-website-starter)|0|1|2025-05-16T20:10:18Z|
+|[wanghaisheng/a_websim-website-starter](https://github.com/wanghaisheng/a_websim-website-starter)|1|1|2025-05-16T20:10:18Z|
 |[wanghaisheng/LNO-time-tool](https://github.com/wanghaisheng/LNO-time-tool)|0|0|2025-05-16T18:13:14Z|
 |[wanghaisheng/ccursor-top-howto](https://github.com/wanghaisheng/ccursor-top-howto)|0|0|2025-05-15T22:10:57Z|
 |[wanghaisheng/dietclarity](https://github.com/wanghaisheng/dietclarity)|0|0|2025-05-15T14:48:33Z|
@@ -1157,8 +1160,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-05-31T00:07:51Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-30T00:16:41Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-06-01T00:09:30Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-05-31T00:16:15Z|
 |[wanghaisheng/a-t4-app](https://github.com/wanghaisheng/a-t4-app)|0|0|2025-05-28T05:33:53Z|
 |[wanghaisheng/onlyoffice-web-local](https://github.com/wanghaisheng/onlyoffice-web-local)|0|0|2025-05-28T01:32:47Z|
 |[wanghaisheng/CL4R1T4S](https://github.com/wanghaisheng/CL4R1T4S)|0|0|2025-05-27T20:07:42Z|
