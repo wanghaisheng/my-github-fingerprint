@@ -4,25 +4,26 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-06-06 08:16:56 Asia/Shanghai
+> Automated deployment @ 2025-06-08 08:18:33 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3802
 
-- **Projects**: 4678
+- **Projects**: 4680
 
 ### Sources
 
-- **count**: 1142
+- **count**: 1143
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-06-06T00:08:44Z|
-|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-06-05T12:12:10Z|
-|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-06-05T05:07:40Z|
-|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-06-05T03:27:29Z|
-|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-06-05T02:37:44Z|
-|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-06-05T02:32:02Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-06-08T00:09:55Z|
+|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-06-07T12:10:21Z|
+|[wanghaisheng/chinese-lee-strasberg-note-](https://github.com/wanghaisheng/chinese-lee-strasberg-note-)|0|0|2025-06-07T08:46:19Z|
+|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-06-07T05:07:00Z|
+|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-06-07T03:25:45Z|
+|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-06-07T02:37:49Z|
+|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-06-07T02:31:28Z|
 |[wanghaisheng/lost-seed-awakening-hearts](https://github.com/wanghaisheng/lost-seed-awakening-hearts)|0|0|2025-06-03T17:13:52Z|
 |[wanghaisheng/panda-fasting](https://github.com/wanghaisheng/panda-fasting)|0|0|2025-06-03T16:30:52Z|
 |[wanghaisheng/obesity-hub-heytcm](https://github.com/wanghaisheng/obesity-hub-heytcm)|0|0|2025-06-03T14:24:17Z|
@@ -1125,7 +1126,7 @@
 |[wanghaisheng/awesome-clinical-research](https://github.com/wanghaisheng/awesome-clinical-research)|0|0|2015-05-28T09:25:58Z|
 |[wanghaisheng/awesome-healthcare-interoperability](https://github.com/wanghaisheng/awesome-healthcare-interoperability)|1|1|2015-04-27T00:08:28Z|
 |[wanghaisheng/Health-Hackathon-Handbook](https://github.com/wanghaisheng/Health-Hackathon-Handbook)|0|0|2015-04-25T17:31:59Z|
-|[wanghaisheng/fhirbase](https://github.com/wanghaisheng/fhirbase)|3|27|2015-04-24T16:50:12Z|
+|[wanghaisheng/fhirbase](https://github.com/wanghaisheng/fhirbase)|3|26|2015-04-24T16:50:12Z|
 |[wanghaisheng/awesome-http-api](https://github.com/wanghaisheng/awesome-http-api)|5|0|2015-04-15T17:09:14Z|
 |[wanghaisheng/awesome-direct](https://github.com/wanghaisheng/awesome-direct)|1|0|2015-04-13T09:53:02Z|
 |[wanghaisheng/awesome-hipaa](https://github.com/wanghaisheng/awesome-hipaa)|1|0|2015-04-12T05:01:02Z|
@@ -1161,12 +1162,12 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3536
+- **count**: 3537
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-06-06T00:08:22Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-06-05T00:16:52Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-06-08T00:08:40Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-06-06T00:16:57Z|
 |[wanghaisheng/GGanalysis](https://github.com/wanghaisheng/GGanalysis)|0|0|2025-06-04T21:08:33Z|
 |[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|12|2|2025-06-02T03:50:43Z|
 |[wanghaisheng/a-t4-app](https://github.com/wanghaisheng/a-t4-app)|0|0|2025-05-28T05:33:53Z|
@@ -4125,6 +4126,7 @@
 |[wanghaisheng/saas-landingpage-Walili-Wordpress-Theme](https://github.com/wanghaisheng/saas-landingpage-Walili-Wordpress-Theme)|0|0|2021-09-28T19:25:26Z|
 |[wanghaisheng/henggeFish](https://github.com/wanghaisheng/henggeFish)|0|0|2021-09-28T12:18:30Z|
 |[wanghaisheng/PY2EXE_APP](https://github.com/wanghaisheng/PY2EXE_APP)|0|0|2021-09-27T17:06:11Z|
+|[wanghaisheng/enrico](https://github.com/wanghaisheng/enrico)|0|0|2021-09-27T06:54:05Z|
 |[wanghaisheng/Matamata-Core](https://github.com/wanghaisheng/Matamata-Core)|0|0|2021-09-26T03:47:44Z|
 |[wanghaisheng/Dlink_Parse](https://github.com/wanghaisheng/Dlink_Parse)|0|0|2021-09-25T07:04:37Z|
 |[wanghaisheng/svelte-ecommerce](https://github.com/wanghaisheng/svelte-ecommerce)|0|0|2021-09-24T23:04:20Z|
@@ -4707,7 +4709,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5902|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
+|[beamandrew/medical-data](https://github.com/beamandrew/medical-data/pull/1)|5901|2016-10-18T16:04:05Z|[pull/1](https://github.com/beamandrew/medical-data/pull/1)|
 |[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|1461|2023-12-18T07:24:32Z|[pull/2169](https://github.com/marcelotduarte/cx_Freeze/pull/2169)|
 |[YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|1261|2022-03-04T06:14:39Z|[pull/47](https://github.com/YuanxunLu/LiveSpeechPortraits/pull/47)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|1156|2022-04-26T00:07:16Z|[pull/8](https://github.com/MLNLP-World/AI-Paper-Collector/pull/8)|
