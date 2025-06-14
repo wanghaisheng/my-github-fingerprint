@@ -4,25 +4,27 @@
 
 ## Statistics
 
-> Automated deployment @ 2025-06-13 08:17:22 Asia/Shanghai
+> Automated deployment @ 2025-06-14 08:16:10 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3805
+- **Total_stars_earned**: 3806
 
-- **Projects**: 4680
+- **Projects**: 4682
 
 ### Sources
 
-- **count**: 1143
+- **count**: 1144
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-06-13T00:09:04Z|
-|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-06-12T12:11:42Z|
-|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-06-12T05:07:27Z|
-|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-06-12T03:26:54Z|
-|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-06-12T02:38:16Z|
-|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-06-12T02:31:57Z|
+|[wanghaisheng/daily-cursor-rules](https://github.com/wanghaisheng/daily-cursor-rules)|6|1|2025-06-14T00:08:35Z|
+|[wanghaisheng/the-alters-game](https://github.com/wanghaisheng/the-alters-game)|0|0|2025-06-13T23:48:39Z|
+|[wanghaisheng/best-saas-starter-landingpage](https://github.com/wanghaisheng/best-saas-starter-landingpage)|0|0|2025-06-13T21:18:09Z|
+|[wanghaisheng/modelguru-monitor-urls](https://github.com/wanghaisheng/modelguru-monitor-urls)|0|0|2025-06-13T12:11:39Z|
+|[wanghaisheng/github-cache-test](https://github.com/wanghaisheng/github-cache-test)|0|0|2025-06-13T05:07:16Z|
+|[wanghaisheng/another-google-trend-try](https://github.com/wanghaisheng/another-google-trend-try)|1|0|2025-06-13T03:28:29Z|
+|[wanghaisheng/promptbase-track](https://github.com/wanghaisheng/promptbase-track)|0|0|2025-06-13T02:37:57Z|
+|[wanghaisheng/parse-mcp-server-from-sitemap](https://github.com/wanghaisheng/parse-mcp-server-from-sitemap)|0|0|2025-06-13T02:32:12Z|
 |[wanghaisheng/see-what-i-am-building-github-daily-blog](https://github.com/wanghaisheng/see-what-i-am-building-github-daily-blog)|0|0|2025-06-09T03:49:51Z|
 |[wanghaisheng/where-to-find-dataset](https://github.com/wanghaisheng/where-to-find-dataset)|0|0|2025-06-09T03:46:10Z|
 |[wanghaisheng/chinese-lee-strasberg-note-](https://github.com/wanghaisheng/chinese-lee-strasberg-note-)|0|0|2025-06-07T08:46:19Z|
@@ -83,7 +85,6 @@
 |[wanghaisheng/dexie-i18n-starter](https://github.com/wanghaisheng/dexie-i18n-starter)|0|0|2025-05-09T12:14:45Z|
 |[wanghaisheng/best-mcp-dataset-in-github](https://github.com/wanghaisheng/best-mcp-dataset-in-github)|0|0|2025-05-09T10:59:41Z|
 |[wanghaisheng/emotion-wheel-website](https://github.com/wanghaisheng/emotion-wheel-website)|0|0|2025-05-09T09:05:48Z|
-|[wanghaisheng/best-saas-starter-landingpage](https://github.com/wanghaisheng/best-saas-starter-landingpage)|0|0|2025-05-08T23:53:29Z|
 |[wanghaisheng/model-guru](https://github.com/wanghaisheng/model-guru)|0|0|2025-05-07T13:03:26Z|
 |[wanghaisheng/mcp-guru](https://github.com/wanghaisheng/mcp-guru)|0|0|2025-05-07T12:06:21Z|
 |[wanghaisheng/loveable-journey](https://github.com/wanghaisheng/loveable-journey)|0|1|2025-05-07T09:01:06Z|
@@ -908,7 +909,7 @@
 |[wanghaisheng/copycat-account-detect](https://github.com/wanghaisheng/copycat-account-detect)|1|0|2022-06-28T10:55:40Z|
 |[wanghaisheng/living-will-fhir](https://github.com/wanghaisheng/living-will-fhir)|1|0|2022-06-27T14:05:45Z|
 |[wanghaisheng/start-micro-saas-0-1](https://github.com/wanghaisheng/start-micro-saas-0-1)|0|0|2022-06-24T16:02:47Z|
-|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1685|351|2022-06-24T04:50:59Z|
+|[wanghaisheng/awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)|1686|351|2022-06-24T04:50:59Z|
 |[wanghaisheng/url2video-pdf](https://github.com/wanghaisheng/url2video-pdf)|1|0|2022-06-23T19:25:31Z|
 |[wanghaisheng/ocr-tweets-monitoring](https://github.com/wanghaisheng/ocr-tweets-monitoring)|0|0|2022-06-23T09:33:16Z|
 |[wanghaisheng/ocr-paper-collector](https://github.com/wanghaisheng/ocr-paper-collector)|6|1|2022-06-23T07:50:45Z|
@@ -1162,13 +1163,15 @@
 |[wanghaisheng/FHIR.js](https://github.com/wanghaisheng/FHIR.js)|0|0|2012-09-20T02:31:10Z|
 ### Forks
 
-- **count**: 3537
+- **count**: 3538
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-06-13T00:08:32Z|
-|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-06-12T00:16:52Z|
-|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|12|2|2025-06-09T03:50:36Z|
+|[wanghaisheng/whs](https://github.com/wanghaisheng/whs)|1|0|2025-06-14T00:07:57Z|
+|[wanghaisheng/deepseek-directory](https://github.com/wanghaisheng/deepseek-directory)|0|0|2025-06-13T17:33:20Z|
+|[wanghaisheng/Ultimate_Prompts_Directory](https://github.com/wanghaisheng/Ultimate_Prompts_Directory)|0|0|2025-06-13T07:09:36Z|
+|[wanghaisheng/my-github-fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)|0|0|2025-06-13T00:17:23Z|
+|[wanghaisheng/3dvision-paper-code-daily](https://github.com/wanghaisheng/3dvision-paper-code-daily)|13|2|2025-06-09T03:50:36Z|
 |[wanghaisheng/GGanalysis](https://github.com/wanghaisheng/GGanalysis)|0|0|2025-06-04T21:08:33Z|
 |[wanghaisheng/a-t4-app](https://github.com/wanghaisheng/a-t4-app)|0|0|2025-05-28T05:33:53Z|
 |[wanghaisheng/onlyoffice-web-local](https://github.com/wanghaisheng/onlyoffice-web-local)|0|0|2025-05-28T01:32:47Z|
@@ -1370,7 +1373,6 @@
 |[wanghaisheng/a-d-aigotools](https://github.com/wanghaisheng/a-d-aigotools)|0|0|2025-01-20T20:33:14Z|
 |[wanghaisheng/cursor-pro-trial](https://github.com/wanghaisheng/cursor-pro-trial)|0|0|2025-01-20T19:54:24Z|
 |[wanghaisheng/background-change-demo](https://github.com/wanghaisheng/background-change-demo)|0|0|2025-01-20T13:00:17Z|
-|[wanghaisheng/cursor.directory](https://github.com/wanghaisheng/cursor.directory)|0|0|2025-01-20T09:04:37Z|
 |[wanghaisheng/PatentsDownloader](https://github.com/wanghaisheng/PatentsDownloader)|0|0|2025-01-20T07:34:15Z|
 |[wanghaisheng/a-cloudflare-react-router-hono-app](https://github.com/wanghaisheng/a-cloudflare-react-router-hono-app)|0|0|2025-01-19T12:12:21Z|
 |[wanghaisheng/gyroflow](https://github.com/wanghaisheng/gyroflow)|0|0|2025-01-18T02:36:10Z|
